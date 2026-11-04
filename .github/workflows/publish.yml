@@ -3,6 +3,9 @@ name: Publish dashboard
 on:
   issues:
     types: [opened, edited]
+  push:
+    branches: [main]
+    paths: ['.github/workflows/publish.yml']
   workflow_dispatch:
 
 permissions:
@@ -19,7 +22,9 @@ jobs:
   publish:
     if: >-
       github.event_name == 'workflow_dispatch' ||
-      (github.actor == github.repository_owner &&
+      (github.event_name == 'push' && github.actor == github.repository_owner) ||
+      (github.event_name == 'issues' &&
+       github.actor == github.repository_owner &&
        github.event.issue.title == 'Publish channel (automated)' &&
        contains(github.event.issue.body, 'land-payload-v1'))
     runs-on: ubuntu-latest
@@ -28,6 +33,8 @@ jobs:
       url: ${{ steps.deploy.outputs.page_url }}
     steps:
       - uses: actions/checkout@v6
+        with:
+          fetch-depth: 10
 
       - name: Unpack the update from the publishing issue
         if: github.event_name == 'issues'
@@ -61,6 +68,16 @@ jobs:
             git commit -m "Dashboard update $(cat "$RUNNER_TEMP/as_of.txt" 2>/dev/null)"
             git push
           fi
+
+      - name: Clear any stuck Pages deployment
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          for sha in $(git rev-list --max-count=10 HEAD) ${{ github.sha }}; do
+            if gh api -X POST "repos/$GITHUB_REPOSITORY/pages/deployments/$sha/cancel" >/dev/null 2>&1; then
+              echo "Cancelled an unfinished deployment for $sha"
+            fi
+          done
 
       - uses: actions/configure-pages@v5
 
