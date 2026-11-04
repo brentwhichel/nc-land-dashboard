@@ -69,14 +69,18 @@ jobs:
             git push
           fi
 
-      - name: Clear any stuck Pages deployment
+      - name: Clear any unfinished Pages deployment
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          for sha in $(git rev-list --max-count=10 HEAD) ${{ github.sha }}; do
-            if gh api -X POST "repos/$GITHUB_REPOSITORY/pages/deployments/$sha/cancel" >/dev/null 2>&1; then
-              echo "Cancelled an unfinished deployment for $sha"
-            fi
+          HEAD_SHA=$(git rev-parse HEAD)
+          for sha in $(git rev-list --max-count=10 HEAD); do
+            if [ "$sha" = "$HEAD_SHA" ] || [ "$sha" = "$GITHUB_SHA" ]; then continue; fi
+            st=$(gh api "repos/$GITHUB_REPOSITORY/pages/deployments/$sha" --jq .status 2>/dev/null || true)
+            case "$st" in
+              deployment_queued|deployment_in_progress|syncing_files|finished_file_sync|updating_pages|purging_cdn|pending|queued|in_progress)
+                gh api -X POST "repos/$GITHUB_REPOSITORY/pages/deployments/$sha/cancel" >/dev/null 2>&1 && echo "Cancelled an unfinished deployment for $sha ($st)" || true ;;
+            esac
           done
 
       - uses: actions/configure-pages@v5
