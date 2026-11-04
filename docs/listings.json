@@ -1,5 +1,5 @@
 {
- "asOf": "Nov 4, 2026, 1:45 PM CST",
+ "asOf": "Nov 4, 2026, 1:30\u20134:45 PM CST",
  "listings": [
   {
    "id": 1,
@@ -15,6 +15,8 @@
    "pendingOn": [],
    "lat": 35.22055,
    "lon": -79.86834,
+   "loc": "road",
+   "locq": "Dry Crk",
    "links": [
     {
      "site": "Realtor.com",
@@ -37,8 +39,9 @@
    "chg": "",
    "dom": null,
    "q": "Dry Creek Rd, Candor, NC 27229",
-   "loc": "road",
-   "locq": "Dry Crk"
+   "photo": null,
+   "photoCount": null,
+   "dist": 12
   },
   {
    "id": 2,
@@ -54,6 +57,8 @@
    "pendingOn": [],
    "lat": null,
    "lon": null,
+   "loc": null,
+   "locq": "",
    "links": [
     {
      "site": "Realtor.com",
@@ -81,8 +86,9 @@
    "chg": "",
    "dom": null,
    "q": "Mountain Grove Church Rd, Candor, NC 27229",
-   "loc": null,
-   "locq": ""
+   "photo": null,
+   "photoCount": null,
+   "dist": null
   },
   {
    "id": 3,
@@ -98,6 +104,8 @@
    "pendingOn": [],
    "lat": 35.18578,
    "lon": -79.79764,
+   "loc": "road",
+   "locq": "Graham Rd",
    "links": [
     {
      "site": "Realtor.com",
@@ -120,8 +128,9 @@
    "chg": "",
    "dom": null,
    "q": "Graham Rd, Candor, NC 27229",
-   "loc": "road",
-   "locq": "Graham Rd"
+   "photo": null,
+   "photoCount": null,
+   "dist": 16
   },
   {
    "id": 4,
@@ -138,8 +147,10 @@
     "LandWatch",
     "Realtor.com"
    ],
-   "lat": 35.321945,
-   "lon": -79.878518,
+   "lat": 35.32194,
+   "lon": -79.87852,
+   "loc": "listing",
+   "locq": "",
    "links": [
     {
      "site": "LandWatch",
@@ -172,8 +183,9 @@
    "chg": "",
    "dom": 15,
    "q": "Lot 1 Capelsie Rd, Candor, NC 27229",
-   "loc": "listing",
-   "locq": ""
+   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6620662314",
+   "photoCount": 7,
+   "dist": 13
   },
   {
    "id": 5,
@@ -191,6 +203,8 @@
    ],
    "lat": 35.39852,
    "lon": -79.79706,
+   "loc": "address",
+   "locq": "170 Greentop Rd, Star, NC 27356",
    "links": [
     {
      "site": "Realtor.com",
@@ -208,8 +222,9 @@
    "chg": "",
    "dom": null,
    "q": "170 Greentop Rd, Star, NC 27356",
-   "loc": "address",
-   "locq": "170 Greentop Rd, Star, NC 27356"
+   "photo": null,
+   "photoCount": null,
+   "dist": 20
   },
   {
    "id": 6,
@@ -227,6 +242,8 @@
    ],
    "lat": 35.2166,
    "lon": -79.95754,
+   "loc": "address",
+   "locq": "1893 Yank Rd, Mount Gilead, NC 27306",
    "links": [
     {
      "site": "Realtor.com",
@@ -244,8 +261,9 @@
    "chg": "",
    "dom": null,
    "q": "1893 Yank Rd, Mount Gilead, NC 27306",
-   "loc": "address",
-   "locq": "1893 Yank Rd, Mount Gilead, NC 27306"
+   "photo": null,
+   "photoCount": null,
+   "dist": 7
   },
   {
    "id": 7,
@@ -259,8 +277,10 @@
    "alt": [],
    "status": "Active",
    "pendingOn": [],
-   "lat": 35.20685294,
+   "lat": 35.20685,
    "lon": -79.79175,
+   "loc": "listing",
+   "locq": "",
    "links": [
     {
      "site": "Redfin",
@@ -293,8 +313,9 @@
    "chg": "",
    "dom": 291,
    "q": "Dry Creek Rd, Candor, NC 27336",
-   "loc": "listing",
-   "locq": ""
+   "photo": null,
+   "photoCount": null,
+   "dist": 17
   },
   {
    "id": 8,
@@ -312,6 +333,8 @@
    ],
    "lat": 35.28073,
    "lon": -79.86308,
+   "loc": "road",
+   "locq": "Pekin Rd",
    "links": [
     {
      "site": "Realtor.com",
@@ -329,8 +352,9 @@
    "chg": "",
    "dom": null,
    "q": "Pekin Rd Unit 2, Candor, NC 27229",
-   "loc": "road",
-   "locq": "Pekin Rd"
+   "photo": null,
+   "photoCount": null,
+   "dist": 13
   },
   {
    "id": 9,
@@ -344,8 +368,10 @@
    "alt": [],
    "status": "Active",
    "pendingOn": [],
-   "lat": 35.23323059082031,
-   "lon": -79.79266357421875,
+   "lat": 35.23323,
+   "lon": -79.79266,
+   "loc": "listing",
+   "locq": "",
    "links": [
     {
      "site": "LandWatch",
@@ -369,8 +395,9 @@
    "chg": "",
    "dom": 49,
    "q": "2141 NC 731, Candor, NC 27229",
-   "loc": "listing",
-   "locq": ""
+   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6519724574",
+   "photoCount": 28,
+   "dist": 16
   },
   {
    "id": 10,
@@ -384,8 +411,10 @@
    "alt": [],
    "status": "Active",
    "pendingOn": [],
-   "lat": 35.210975,
-   "lon": -79.792461,
+   "lat": 35.21097,
+   "lon": -79.79246,
+   "loc": "listing",
+   "locq": "",
    "links": [
     {
      "site": "Redfin",
@@ -418,8 +447,9 @@
    "chg": "",
    "dom": 292,
    "q": "Bowden Dr, Candor, NC 27229",
-   "loc": "listing",
-   "locq": ""
+   "photo": null,
+   "photoCount": null,
+   "dist": 16
   },
   {
    "id": 11,
@@ -437,6 +467,8 @@
    ],
    "lat": 35.17105,
    "lon": -79.66377,
+   "loc": "road",
+   "locq": "County Line Rd",
    "links": [
     {
      "site": "Realtor.com",
@@ -454,8 +486,9 @@
    "chg": "",
    "dom": null,
    "q": "County Line Rd, Candor, NC 27229",
-   "loc": "road",
-   "locq": "County Line Rd"
+   "photo": null,
+   "photoCount": null,
+   "dist": 24
   },
   {
    "id": 12,
@@ -469,8 +502,10 @@
    "alt": [],
    "status": "Active",
    "pendingOn": [],
-   "lat": 35.205313982892,
-   "lon": -79.898645804004,
+   "lat": 35.20531,
+   "lon": -79.89865,
+   "loc": "listing",
+   "locq": "",
    "links": [
     {
      "site": "LandWatch",
@@ -494,8 +529,9 @@
    "chg": "",
    "dom": 14,
    "q": "NC 731, Mount Gilead, NC 27371",
-   "loc": "listing",
-   "locq": ""
+   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6589350616",
+   "photoCount": 29,
+   "dist": 11
   },
   {
    "id": 13,
@@ -512,8 +548,10 @@
     "LandWatch",
     "Realtor.com"
    ],
-   "lat": 35.319024,
-   "lon": -79.865852,
+   "lat": 35.31902,
+   "lon": -79.86585,
+   "loc": "listing",
+   "locq": "",
    "links": [
     {
      "site": "LandWatch",
@@ -542,8 +580,9 @@
    "chg": "",
    "dom": 0,
    "q": "Lot 12 Capelsie Rd, Candor, NC 27229",
-   "loc": "listing",
-   "locq": ""
+   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6620662542",
+   "photoCount": 5,
+   "dist": 14
   },
   {
    "id": 14,
@@ -557,8 +596,10 @@
    "alt": [],
    "status": "Active",
    "pendingOn": [],
-   "lat": 35.256275,
-   "lon": -79.799823,
+   "lat": 35.25628,
+   "lon": -79.79982,
+   "loc": "listing",
+   "locq": "",
    "links": [
     {
      "site": "LandWatch",
@@ -591,8 +632,9 @@
    "chg": "",
    "dom": 11,
    "q": "Lot 3 Capelsie Rd, Candor, NC 27229",
-   "loc": "listing",
-   "locq": ""
+   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6620662334",
+   "photoCount": 8,
+   "dist": 16
   },
   {
    "id": 15,
@@ -607,7 +649,9 @@
    "status": "Active",
    "pendingOn": [],
    "lat": 35.21713,
-   "lon": -80.012983,
+   "lon": -80.01298,
+   "loc": "listing",
+   "locq": "",
    "links": [
     {
      "site": "LandWatch",
@@ -640,8 +684,9 @@
    "chg": "",
    "dom": 5,
    "q": "Pleasant Valley Rd, Mount Gilead, NC 27306",
-   "loc": "listing",
-   "locq": ""
+   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6610261496",
+   "photoCount": 13,
+   "dist": 4
   },
   {
    "id": 16,
@@ -658,8 +703,10 @@
     "LandWatch",
     "Realtor.com"
    ],
-   "lat": 35.317015,
-   "lon": -79.875879,
+   "lat": 35.31701,
+   "lon": -79.87588,
+   "loc": "listing",
+   "locq": "",
    "links": [
     {
      "site": "LandWatch",
@@ -693,8 +740,9 @@
    "chg": "",
    "dom": 26,
    "q": "Lot 5 Capelsie Rd, Candor, NC 27229",
-   "loc": "listing",
-   "locq": ""
+   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6620662277",
+   "photoCount": 10,
+   "dist": 13
   },
   {
    "id": 17,
@@ -710,6 +758,8 @@
    "pendingOn": [],
    "lat": 35.21856,
    "lon": -80.00993,
+   "loc": "road",
+   "locq": "Pleasant Valley Rd",
    "links": [
     {
      "site": "Homes.com",
@@ -727,8 +777,9 @@
    "chg": "$190K PRICE DROP",
    "dom": null,
    "q": "Pleasant Valley Rd, Mount Gilead, NC 27306",
-   "loc": "road",
-   "locq": "Pleasant Valley Rd"
+   "photo": null,
+   "photoCount": null,
+   "dist": 4
   },
   {
    "id": 18,
@@ -744,6 +795,8 @@
    "pendingOn": [],
    "lat": null,
    "lon": null,
+   "loc": null,
+   "locq": "",
    "links": [
     {
      "site": "Realtor.com",
@@ -771,8 +824,9 @@
    "chg": "",
    "dom": null,
    "q": "Mountain Grove Church Rd, Candor, NC 27229",
-   "loc": null,
-   "locq": ""
+   "photo": null,
+   "photoCount": null,
+   "dist": null
   },
   {
    "id": 19,
@@ -787,7 +841,9 @@
    "status": "Active",
    "pendingOn": [],
    "lat": 35.31761,
-   "lon": -79.875818,
+   "lon": -79.87582,
+   "loc": "listing",
+   "locq": "",
    "links": [
     {
      "site": "LandWatch",
@@ -821,8 +877,9 @@
    "chg": "",
    "dom": 11,
    "q": "Lot 6 Capelsie Rd, Candor, NC 27229",
-   "loc": "listing",
-   "locq": ""
+   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6620662390",
+   "photoCount": 12,
+   "dist": 13
   },
   {
    "id": 20,
@@ -839,8 +896,10 @@
     "LandWatch",
     "Realtor.com"
    ],
-   "lat": 35.39343023,
-   "lon": -79.9702778,
+   "lat": 35.39343,
+   "lon": -79.97028,
+   "loc": "listing",
+   "locq": "",
    "links": [
     {
      "site": "LandWatch",
@@ -868,8 +927,9 @@
    "chg": "$10K price drop",
    "dom": 394,
    "q": "N NC 109 Hwy, Troy, NC 27371",
-   "loc": "listing",
-   "locq": ""
+   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-5767255288",
+   "photoCount": 2,
+   "dist": 13
   },
   {
    "id": 21,
@@ -886,8 +946,10 @@
     "LandWatch",
     "Realtor.com"
    ],
-   "lat": 35.318118,
-   "lon": -79.875344,
+   "lat": 35.31812,
+   "lon": -79.87534,
+   "loc": "listing",
+   "locq": "",
    "links": [
     {
      "site": "LandWatch",
@@ -916,8 +978,9 @@
    "chg": "",
    "dom": 1,
    "q": "Lot 7 Capelsie Rd, Candor, NC 27229",
-   "loc": "listing",
-   "locq": ""
+   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6620662512",
+   "photoCount": 5,
+   "dist": 13
   },
   {
    "id": 22,
@@ -933,6 +996,8 @@
    "pendingOn": [],
    "lat": 35.30629,
    "lon": -79.96146,
+   "loc": "road",
+   "locq": "McLeod Rd",
    "links": [
     {
      "site": "Realtor.com",
@@ -955,8 +1020,9 @@
    "chg": "",
    "dom": null,
    "q": "McLeod Rd, Mount Gilead, NC 27306",
-   "loc": "road",
-   "locq": "McLeod Rd"
+   "photo": null,
+   "photoCount": null,
+   "dist": 8
   },
   {
    "id": 23,
@@ -972,8 +1038,10 @@
    "pendingOn": [
     "Realtor.com"
    ],
-   "lat": 35.320301,
-   "lon": -79.869702,
+   "lat": 35.3203,
+   "lon": -79.8697,
+   "loc": "listing",
+   "locq": "",
    "links": [
     {
      "site": "LandWatch",
@@ -1001,8 +1069,9 @@
    "chg": "",
    "dom": 8,
    "q": "Lot 10 Capelsie Rd, Candor, NC 27229",
-   "loc": "listing",
-   "locq": ""
+   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6620662423",
+   "photoCount": 10,
+   "dist": 13
   },
   {
    "id": 24,
@@ -1020,6 +1089,8 @@
    ],
    "lat": 35.28073,
    "lon": -79.86308,
+   "loc": "road",
+   "locq": "Pekin Rd",
    "links": [
     {
      "site": "Realtor.com",
@@ -1037,8 +1108,9 @@
    "chg": "",
    "dom": null,
    "q": "3076 Pekin Rd, Mount Gilead, NC 27306",
-   "loc": "road",
-   "locq": "Pekin Rd"
+   "photo": null,
+   "photoCount": null,
+   "dist": 13
   },
   {
    "id": 25,
@@ -1054,8 +1126,10 @@
    "pendingOn": [
     "LandWatch"
    ],
-   "lat": 35.321295,
-   "lon": -79.867191,
+   "lat": 35.32129,
+   "lon": -79.86719,
+   "loc": "listing",
+   "locq": "",
    "links": [
     {
      "site": "LandWatch",
@@ -1084,8 +1158,9 @@
    "chg": "",
    "dom": 1,
    "q": "Lot 11 Capelsie Rd, Candor, NC 27229",
-   "loc": "listing",
-   "locq": ""
+   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6620662528",
+   "photoCount": 1,
+   "dist": 14
   },
   {
    "id": 26,
@@ -1101,6 +1176,8 @@
    "pendingOn": [],
    "lat": 35.18578,
    "lon": -79.79764,
+   "loc": "road",
+   "locq": "Graham Rd",
    "links": [
     {
      "site": "Realtor.com",
@@ -1128,8 +1205,9 @@
    "chg": "",
    "dom": null,
    "q": "Graham Rd, Candor, NC 27229",
-   "loc": "road",
-   "locq": "Graham Rd"
+   "photo": null,
+   "photoCount": null,
+   "dist": 16
   },
   {
    "id": 27,
@@ -1145,6 +1223,8 @@
    "pendingOn": [],
    "lat": 35.18578,
    "lon": -79.79764,
+   "loc": "road",
+   "locq": "Graham",
    "links": [
     {
      "site": "Realtor.com",
@@ -1167,8 +1247,9 @@
    "chg": "",
    "dom": null,
    "q": "Graham Rd, Candor, NC 27229",
-   "loc": "road",
-   "locq": "Graham"
+   "photo": null,
+   "photoCount": null,
+   "dist": 16
   },
   {
    "id": 28,
@@ -1182,8 +1263,10 @@
    "alt": [],
    "status": "Active",
    "pendingOn": [],
-   "lat": 35.270879,
-   "lon": -79.731304,
+   "lat": 35.27088,
+   "lon": -79.7313,
+   "loc": "listing",
+   "locq": "",
    "links": [
     {
      "site": "LandWatch",
@@ -1211,8 +1294,9 @@
    "chg": "$20K price drop",
    "dom": 364,
    "q": "Center Baptist Church Rd, Jackson Springs, NC 27281",
-   "loc": "listing",
-   "locq": ""
+   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-5972976480",
+   "photoCount": 8,
+   "dist": 20
   },
   {
    "id": 29,
@@ -1226,8 +1310,10 @@
    "alt": [],
    "status": "Active",
    "pendingOn": [],
-   "lat": 35.227721,
-   "lon": -79.725409,
+   "lat": 35.22772,
+   "lon": -79.72541,
+   "loc": "listing",
+   "locq": "",
    "links": [
     {
      "site": "LandWatch",
@@ -1250,8 +1336,9 @@
    "chg": "",
    "dom": 159,
    "q": "Track 11 Belford Church Rd, Jackson Springs, NC 27281",
-   "loc": "listing",
-   "locq": ""
+   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6223648896",
+   "photoCount": 9,
+   "dist": 20
   },
   {
    "id": 30,
@@ -1265,8 +1352,10 @@
    "alt": [],
    "status": "Active",
    "pendingOn": [],
-   "lat": 35.35327298,
-   "lon": -79.92733743,
+   "lat": 35.35327,
+   "lon": -79.92734,
+   "loc": "listing",
+   "locq": "",
    "links": [
     {
      "site": "LandWatch",
@@ -1294,8 +1383,9 @@
    "chg": "",
    "dom": 204,
    "q": "Deerfield Cir, Troy, NC 27371",
-   "loc": "listing",
-   "locq": ""
+   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6114891773",
+   "photoCount": 2,
+   "dist": 12
   },
   {
    "id": 31,
@@ -1311,6 +1401,8 @@
    "pendingOn": [],
    "lat": 35.21757,
    "lon": -79.70408,
+   "loc": "listing",
+   "locq": "",
    "links": [
     {
      "site": "LandWatch",
@@ -1330,8 +1422,9 @@
    "chg": "$64K price drop",
    "dom": 343,
    "q": "164 Haines Rd, Jackson Springs, NC 27281",
-   "loc": "listing",
-   "locq": ""
+   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-5892858203",
+   "photoCount": 29,
+   "dist": 21
   },
   {
    "id": 32,
@@ -1347,6 +1440,8 @@
    "pendingOn": [],
    "lat": null,
    "lon": null,
+   "loc": null,
+   "locq": "",
    "links": [
     {
      "site": "LandSearch",
@@ -1364,8 +1459,9 @@
    "chg": "",
    "dom": null,
    "q": "Biscoe, NC 27209",
-   "loc": null,
-   "locq": ""
+   "photo": null,
+   "photoCount": null,
+   "dist": null
   },
   {
    "id": 33,
@@ -1379,8 +1475,10 @@
    "alt": [],
    "status": "Active",
    "pendingOn": [],
-   "lat": 35.20853805541992,
-   "lon": -79.90679931640625,
+   "lat": 35.20854,
+   "lon": -79.9068,
+   "loc": "listing",
+   "locq": "",
    "links": [
     {
      "site": "LandWatch",
@@ -1416,8 +1514,9 @@
    "chg": "",
    "dom": 317,
    "q": "Brewer Farm Rd, Mount Gilead, NC 27306",
-   "loc": "listing",
-   "locq": ""
+   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-5910507431",
+   "photoCount": 1,
+   "dist": 10
   },
   {
    "id": 34,
@@ -1431,8 +1530,10 @@
    "alt": [],
    "status": "Active",
    "pendingOn": [],
-   "lat": 35.29480592,
-   "lon": -79.72990231,
+   "lat": 35.29481,
+   "lon": -79.7299,
+   "loc": "listing",
+   "locq": "",
    "links": [
     {
      "site": "LandWatch",
@@ -1465,8 +1566,9 @@
    "chg": "",
    "dom": 35,
    "q": "130 Myers Dr, Candor, NC 27229",
-   "loc": "listing",
-   "locq": ""
+   "photo": null,
+   "photoCount": null,
+   "dist": 20
   },
   {
    "id": 35,
@@ -1482,8 +1584,10 @@
    "pendingOn": [
     "LandWatch"
    ],
-   "lat": 35.40644546,
-   "lon": -79.87041498,
+   "lat": 35.40645,
+   "lon": -79.87041,
+   "loc": "listing",
+   "locq": "",
    "links": [
     {
      "site": "LandWatch",
@@ -1506,8 +1610,9 @@
    "chg": "",
    "dom": 56,
    "q": "1910 NC Hwy 134 N, Troy, NC 27371",
-   "loc": "listing",
-   "locq": ""
+   "photo": null,
+   "photoCount": null,
+   "dist": 17
   },
   {
    "id": 36,
@@ -1523,6 +1628,8 @@
    "pendingOn": [],
    "lat": 35.21217,
    "lon": -80.00052,
+   "loc": "address",
+   "locq": "201 S Main St, Mount Gilead, NC 27306",
    "links": [
     {
      "site": "LandSearch",
@@ -1540,8 +1647,9 @@
    "chg": "",
    "dom": null,
    "q": "201 S Main St, Mount Gilead, NC 27306",
-   "loc": "address",
-   "locq": "201 S Main St, Mount Gilead, NC 27306"
+   "photo": null,
+   "photoCount": null,
+   "dist": 5
   },
   {
    "id": 37,
@@ -1556,7 +1664,9 @@
    "status": "Active",
    "pendingOn": [],
    "lat": 35.38426,
-   "lon": -80.058479,
+   "lon": -80.05848,
+   "loc": "listing",
+   "locq": "",
    "links": [
     {
      "site": "LandWatch",
@@ -1594,11 +1704,54 @@
    "chg": "",
    "dom": 132,
    "q": "Haltiwanger Retreat Rd, Troy, NC 27371",
-   "loc": "listing",
-   "locq": ""
+   "photo": null,
+   "photoCount": null,
+   "dist": 10
   },
   {
    "id": 38,
+   "county": "Montgomery",
+   "street": "182 Lake View Dr",
+   "city": "Star",
+   "zip": "27356",
+   "acres": 26.0,
+   "price": 1050000,
+   "ppa": 40385,
+   "alt": [],
+   "status": "Active",
+   "pendingOn": [],
+   "lat": null,
+   "lon": null,
+   "loc": null,
+   "locq": "",
+   "links": [
+    {
+     "site": "Homes.com",
+     "url": "https://www.homes.com/montgomery-county-nc/land-for-sale/",
+     "direct": false
+    },
+    {
+     "site": "LandSearch",
+     "url": "https://www.landsearch.com/properties/montgomery-county-nc/filter/size[min]=10",
+     "direct": false
+    }
+   ],
+   "tags": [
+    "Land"
+   ],
+   "house": false,
+   "beds": null,
+   "baths": null,
+   "sqft": null,
+   "chg": "$20K PRICE INCREASE",
+   "dom": null,
+   "q": "182 Lake View Dr, Star, NC 27356",
+   "photo": null,
+   "photoCount": null,
+   "dist": null
+  },
+  {
+   "id": 39,
    "county": "Stanly",
    "street": "Riverview Rd",
    "city": "Norwood",
@@ -1612,8 +1765,10 @@
     "LandWatch",
     "Realtor.com"
    ],
-   "lat": 35.20215618,
-   "lon": -80.11610862,
+   "lat": 35.20216,
+   "lon": -80.11611,
+   "loc": "listing",
+   "locq": "",
    "links": [
     {
      "site": "LandWatch",
@@ -1636,11 +1791,12 @@
    "chg": "",
    "dom": 566,
    "q": "Riverview Rd, Norwood, NC 28128",
-   "loc": "listing",
-   "locq": ""
+   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-5656331149",
+   "photoCount": 2,
+   "dist": 3
   },
   {
-   "id": 39,
+   "id": 40,
    "county": "Stanly",
    "street": "Wagoner Rd",
    "city": "Richfield",
@@ -1653,6 +1809,8 @@
    "pendingOn": [],
    "lat": 35.4776,
    "lon": -80.27797,
+   "loc": "road",
+   "locq": "Wagoner Rd",
    "links": [
     {
      "site": "Realtor.com",
@@ -1675,11 +1833,12 @@
    "chg": "",
    "dom": null,
    "q": "Wagoner Rd, Richfield, NC 28137",
-   "loc": "road",
-   "locq": "Wagoner Rd"
+   "photo": null,
+   "photoCount": null,
+   "dist": 20
   },
   {
-   "id": 40,
+   "id": 41,
    "county": "Stanly",
    "street": "03 Ramsey Rd",
    "city": "Albemarle",
@@ -1693,8 +1852,10 @@
     "LandWatch",
     "Realtor.com"
    ],
-   "lat": 35.31792303,
-   "lon": -80.29661457,
+   "lat": 35.31792,
+   "lon": -80.29661,
+   "loc": "listing",
+   "locq": "",
    "links": [
     {
      "site": "LandWatch",
@@ -1722,11 +1883,12 @@
    "chg": "",
    "dom": 175,
    "q": "03 Ramsey Rd, Albemarle, NC 28001",
-   "loc": "listing",
-   "locq": ""
+   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6183825265",
+   "photoCount": 23,
+   "dist": 13
   },
   {
-   "id": 41,
+   "id": 42,
    "county": "Stanly",
    "street": "Stony Gap Rd",
    "city": "Albemarle",
@@ -1737,8 +1899,10 @@
    "alt": [],
    "status": "Active",
    "pendingOn": [],
-   "lat": 35.31784383,
-   "lon": -80.15839618,
+   "lat": 35.31784,
+   "lon": -80.1584,
+   "loc": "listing",
+   "locq": "",
    "links": [
     {
      "site": "LandWatch",
@@ -1771,11 +1935,12 @@
    "chg": "",
    "dom": 187,
    "q": "Stony Gap Rd, Albemarle, NC 28001",
-   "loc": "listing",
-   "locq": ""
+   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6156299178",
+   "photoCount": 9,
+   "dist": 7
   },
   {
-   "id": 42,
+   "id": 43,
    "county": "Stanly",
    "street": "Joes Rd",
    "city": "Locust",
@@ -1790,6 +1955,8 @@
    ],
    "lat": 35.28424,
    "lon": -80.37686,
+   "loc": "road",
+   "locq": "Joes Rd",
    "links": [
     {
      "site": "Realtor.com",
@@ -1807,11 +1974,12 @@
    "chg": "",
    "dom": null,
    "q": "Joes Rd, Locust, NC 28097",
-   "loc": "road",
-   "locq": "Joes Rd"
+   "photo": null,
+   "photoCount": null,
+   "dist": 17
   },
   {
-   "id": 43,
+   "id": 44,
    "county": "Stanly",
    "street": "Lot 2 Griffin Greene Blvd",
    "city": "Oakboro",
@@ -1822,8 +1990,10 @@
    "alt": [],
    "status": "Active",
    "pendingOn": [],
-   "lat": 35.20051717,
-   "lon": -80.35801542,
+   "lat": 35.20052,
+   "lon": -80.35802,
+   "loc": "listing",
+   "locq": "",
    "links": [
     {
      "site": "LandWatch",
@@ -1856,11 +2026,12 @@
    "chg": "",
    "dom": 18,
    "q": "Lot 2 Griffin Greene Blvd, Oakboro, NC 28163",
-   "loc": "listing",
-   "locq": ""
+   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6580379982",
+   "photoCount": 5,
+   "dist": 16
   },
   {
-   "id": 44,
+   "id": 45,
    "county": "Stanly",
    "street": "Lot 3 Griffin Greene Blvd",
    "city": "Oakboro",
@@ -1871,8 +2042,10 @@
    "alt": [],
    "status": "Active",
    "pendingOn": [],
-   "lat": 35.19998248,
-   "lon": -80.35794538,
+   "lat": 35.19998,
+   "lon": -80.35795,
+   "loc": "listing",
+   "locq": "",
    "links": [
     {
      "site": "LandWatch",
@@ -1900,11 +2073,12 @@
    "chg": "",
    "dom": 19,
    "q": "Lot 3 Griffin Greene Blvd, Oakboro, NC 28163",
-   "loc": "listing",
-   "locq": ""
+   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6580224768",
+   "photoCount": 5,
+   "dist": 16
   },
   {
-   "id": 45,
+   "id": 46,
    "county": "Stanly",
    "street": "Lot 1 Griffin Greene Blvd",
    "city": "Oakboro",
@@ -1915,8 +2089,10 @@
    "alt": [],
    "status": "Active",
    "pendingOn": [],
-   "lat": 35.20005995,
-   "lon": -80.35788909,
+   "lat": 35.20006,
+   "lon": -80.35789,
+   "loc": "listing",
+   "locq": "",
    "links": [
     {
      "site": "LandWatch",
@@ -1939,11 +2115,12 @@
    "chg": "",
    "dom": 19,
    "q": "Lot 1 Griffin Greene Blvd, Oakboro, NC 28163",
-   "loc": "listing",
-   "locq": ""
+   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6580204942",
+   "photoCount": 5,
+   "dist": 16
   },
   {
-   "id": 46,
+   "id": 47,
    "county": "Stanly",
    "street": "37324 Barnhardt Rd",
    "city": "Albemarle",
@@ -1954,8 +2131,10 @@
    "alt": [],
    "status": "Active",
    "pendingOn": [],
-   "lat": 35.407941,
-   "lon": -80.161383,
+   "lat": 35.40794,
+   "lon": -80.16138,
+   "loc": "listing",
+   "locq": "",
    "links": [
     {
      "site": "LandWatch",
@@ -1978,11 +2157,12 @@
    "chg": "",
    "dom": 1,
    "q": "37324 Barnhardt Rd, Albemarle, NC 28001",
-   "loc": "listing",
-   "locq": ""
+   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6620011273",
+   "photoCount": 22,
+   "dist": 13
   },
   {
-   "id": 47,
+   "id": 48,
    "county": "Stanly",
    "street": "16252 Eury Rd",
    "city": "Norwood",
@@ -1997,6 +2177,8 @@
    ],
    "lat": 35.25562,
    "lon": -80.17249,
+   "loc": "address",
+   "locq": "16252 Eury Rd, Norwood, NC 28128",
    "links": [
     {
      "site": "Realtor.com",
@@ -2014,11 +2196,12 @@
    "chg": "",
    "dom": null,
    "q": "16252 Eury Rd, Norwood, NC 28128",
-   "loc": "address",
-   "locq": "16252 Eury Rd, Norwood, NC 28128"
+   "photo": null,
+   "photoCount": null,
+   "dist": 5
   },
   {
-   "id": 48,
+   "id": 49,
    "county": "Stanly",
    "street": "Cottonville Rd",
    "city": "Norwood",
@@ -2029,8 +2212,10 @@
    "alt": [],
    "status": "Active",
    "pendingOn": [],
-   "lat": 35.2077757,
-   "lon": -80.18345215,
+   "lat": 35.20778,
+   "lon": -80.18345,
+   "loc": "listing",
+   "locq": "",
    "links": [
     {
      "site": "LandWatch",
@@ -2063,11 +2248,12 @@
    "chg": "",
    "dom": 385,
    "q": "Cottonville Rd, Norwood, NC 28128",
-   "loc": "listing",
-   "locq": ""
+   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-5786582666",
+   "photoCount": 8,
+   "dist": 6
   },
   {
-   "id": 49,
+   "id": 50,
    "county": "Stanly",
    "street": "Southbound Rd",
    "city": "Albemarle",
@@ -2080,6 +2266,8 @@
    "pendingOn": [],
    "lat": 35.28747,
    "lon": -80.16812,
+   "loc": "road",
+   "locq": "Southbound Rd",
    "links": [
     {
      "site": "Realtor.com",
@@ -2102,11 +2290,12 @@
    "chg": "$5K PRICE DROP",
    "dom": null,
    "q": "Southbound Rd, Albemarle, NC 28001",
-   "loc": "road",
-   "locq": "Southbound Rd"
+   "photo": null,
+   "photoCount": null,
+   "dist": 6
   },
   {
-   "id": 50,
+   "id": 51,
    "county": "Stanly",
    "street": "104 Three Kings Way",
    "city": "Albemarle",
@@ -2119,6 +2308,8 @@
    "pendingOn": [],
    "lat": 35.34879,
    "lon": -80.20201,
+   "loc": "listing",
+   "locq": "",
    "links": [
     {
      "site": "LandWatch",
@@ -2141,11 +2332,12 @@
    "chg": "",
    "dom": 55,
    "q": "104 Three Kings Way, Albemarle, NC 28001",
-   "loc": "listing",
-   "locq": ""
+   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6504457277",
+   "photoCount": 3,
+   "dist": 10
   },
   {
-   "id": 51,
+   "id": 52,
    "county": "Stanly",
    "street": "20125 Old Concord Rd",
    "city": "Albemarle",
@@ -2158,6 +2350,8 @@
    "pendingOn": [],
    "lat": 35.38086,
    "lon": -80.33491,
+   "loc": "address",
+   "locq": "20125 Old Concord Rd, Albemarle, NC 28001",
    "links": [
     {
      "site": "Homes.com",
@@ -2175,11 +2369,12 @@
    "chg": "$35K PRICE INCREASE",
    "dom": null,
    "q": "20125 Old Concord Rd, Albemarle, NC 28001",
-   "loc": "address",
-   "locq": "20125 Old Concord Rd, Albemarle, NC 28001"
+   "photo": null,
+   "photoCount": null,
+   "dist": 17
   },
   {
-   "id": 52,
+   "id": 53,
    "county": "Stanly",
    "street": "Scallybark Rd",
    "city": "Albemarle",
@@ -2190,8 +2385,10 @@
    "alt": [],
    "status": "Active",
    "pendingOn": [],
-   "lat": 35.328487,
-   "lon": -80.241916,
+   "lat": 35.32849,
+   "lon": -80.24192,
+   "loc": "listing",
+   "locq": "",
    "links": [
     {
      "site": "LandWatch",
@@ -2224,11 +2421,12 @@
    "chg": "",
    "dom": 99,
    "q": "Scallybark Rd, Albemarle, NC 28001",
-   "loc": "listing",
-   "locq": ""
+   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6515492243",
+   "photoCount": 9,
+   "dist": 11
   },
   {
-   "id": 53,
+   "id": 54,
    "county": "Stanly",
    "street": "12453 Barrier Store Rd",
    "city": "Mount Pleasant",
@@ -2239,8 +2437,10 @@
    "alt": [],
    "status": "Active",
    "pendingOn": [],
-   "lat": 35.336937,
-   "lon": -80.403987,
+   "lat": 35.33694,
+   "lon": -80.40399,
+   "loc": "listing",
+   "locq": "",
    "links": [
     {
      "site": "LandWatch",
@@ -2268,11 +2468,12 @@
    "chg": "",
    "dom": 8,
    "q": "12453 Barrier Store Rd, Mount Pleasant, NC 28124",
-   "loc": "listing",
-   "locq": ""
+   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6602664391",
+   "photoCount": 16,
+   "dist": 19
   },
   {
-   "id": 54,
+   "id": 55,
    "county": "Stanly",
    "street": "35893 Red Bird Rd",
    "city": "Albemarle",
@@ -2285,6 +2486,8 @@
    "pendingOn": [],
    "lat": 35.39364,
    "lon": -80.16008,
+   "loc": "address",
+   "locq": "35893 Red Bird Rd, Albemarle, NC 28001",
    "links": [
     {
      "site": "Realtor.com",
@@ -2307,11 +2510,12 @@
    "chg": "",
    "dom": null,
    "q": "35893 Red Bird Rd, Albemarle, NC 28001",
-   "loc": "address",
-   "locq": "35893 Red Bird Rd, Albemarle, NC 28001"
+   "photo": null,
+   "photoCount": null,
+   "dist": 12
   },
   {
-   "id": 55,
+   "id": 56,
    "county": "Stanly",
    "street": "Huneycutt Mill Rd",
    "city": "Albemarle",
@@ -2322,8 +2526,10 @@
    "alt": [],
    "status": "Active",
    "pendingOn": [],
-   "lat": 35.276408,
-   "lon": -80.187984,
+   "lat": 35.27641,
+   "lon": -80.18798,
+   "loc": "listing",
+   "locq": "",
    "links": [
     {
      "site": "LandWatch",
@@ -2356,11 +2562,12 @@
    "chg": "$30K PRICE DROP",
    "dom": 67,
    "q": "Huneycutt Mill Rd, Albemarle, NC 28001",
-   "loc": "listing",
-   "locq": ""
+   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6621047782",
+   "photoCount": 7,
+   "dist": 7
   },
   {
-   "id": 56,
+   "id": 57,
    "county": "Stanly",
    "street": "Pond Rd",
    "city": "Locust",
@@ -2375,7 +2582,9 @@
     "Realtor.com"
    ],
    "lat": 35.27047,
-   "lon": -80.399915,
+   "lon": -80.39991,
+   "loc": "listing",
+   "locq": "",
    "links": [
     {
      "site": "LandWatch",
@@ -2403,11 +2612,12 @@
    "chg": "",
    "dom": 82,
    "q": "Pond Rd, Locust, NC 28097",
-   "loc": "listing",
-   "locq": ""
+   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6424616480",
+   "photoCount": 6,
+   "dist": 18
   },
   {
-   "id": 57,
+   "id": 58,
    "county": "Stanly",
    "street": "Snuggs Park Rd",
    "city": "Albemarle",
@@ -2420,6 +2630,8 @@
    "pendingOn": [],
    "lat": 35.38345,
    "lon": -80.21032,
+   "loc": "road",
+   "locq": "Snuggs Park Rd",
    "links": [
     {
      "site": "Realtor.com",
@@ -2442,11 +2654,12 @@
    "chg": "",
    "dom": null,
    "q": "Snuggs Park Rd, Albemarle, NC 28001",
-   "loc": "road",
-   "locq": "Snuggs Park Rd"
+   "photo": null,
+   "photoCount": null,
+   "dist": 12
   },
   {
-   "id": 58,
+   "id": 59,
    "county": "Stanly",
    "street": "Carriker Rd",
    "city": "Albemarle",
@@ -2460,8 +2673,10 @@
     "LandWatch",
     "Realtor.com"
    ],
-   "lat": 35.285591,
-   "lon": -80.253062,
+   "lat": 35.28559,
+   "lon": -80.25306,
+   "loc": "listing",
+   "locq": "",
    "links": [
     {
      "site": "LandWatch",
@@ -2494,11 +2709,12 @@
    "chg": "$48K PRICE DROP",
    "dom": 139,
    "q": "Carriker Rd, Albemarle, NC 28001",
-   "loc": "listing",
-   "locq": ""
+   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6620489362",
+   "photoCount": 10,
+   "dist": 10
   },
   {
-   "id": 59,
+   "id": 60,
    "county": "Stanly",
    "street": "28315 Rowland Rd",
    "city": "Mount Pleasant",
@@ -2509,8 +2725,10 @@
    "alt": [],
    "status": "Active",
    "pendingOn": [],
-   "lat": 35.347349,
+   "lat": 35.34735,
    "lon": -80.37032,
+   "loc": "listing",
+   "locq": "",
    "links": [
     {
      "site": "LandWatch",
@@ -2543,11 +2761,12 @@
    "chg": "",
    "dom": 81,
    "q": "28315 Rowland Rd, Mount Pleasant, NC 28124",
-   "loc": "listing",
-   "locq": ""
+   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6427477141",
+   "photoCount": 1,
+   "dist": 18
   },
   {
-   "id": 60,
+   "id": 61,
    "county": "Stanly",
    "street": "Silver Rd",
    "city": "Oakboro",
@@ -2559,7 +2778,9 @@
    "status": "Active",
    "pendingOn": [],
    "lat": 35.22349,
-   "lon": -80.342509,
+   "lon": -80.34251,
+   "loc": "listing",
+   "locq": "",
    "links": [
     {
      "site": "LandWatch",
@@ -2587,11 +2808,12 @@
    "chg": "$50K price drop",
    "dom": 225,
    "q": "Silver Rd, Oakboro, NC 28129",
-   "loc": "listing",
-   "locq": ""
+   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6069398040",
+   "photoCount": 17,
+   "dist": 15
   },
   {
-   "id": 61,
+   "id": 62,
    "county": "Stanly",
    "street": "Herlocker Rd",
    "city": "New London",
@@ -2602,8 +2824,10 @@
    "alt": [],
    "status": "Active",
    "pendingOn": [],
-   "lat": 35.450574,
-   "lon": -80.221762,
+   "lat": 35.45057,
+   "lon": -80.22176,
+   "loc": "listing",
+   "locq": "",
    "links": [
     {
      "site": "LandWatch",
@@ -2636,11 +2860,12 @@
    "chg": "$37K PRICE DROP",
    "dom": 411,
    "q": "Herlocker Rd, New London, NC 28127",
-   "loc": "listing",
-   "locq": ""
+   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-5731655995",
+   "photoCount": 17,
+   "dist": 17
   },
   {
-   "id": 62,
+   "id": 63,
    "county": "Stanly",
    "street": "25838 Lingerfelt Rd",
    "city": "Albemarle",
@@ -2653,6 +2878,8 @@
    "pendingOn": [],
    "lat": 35.36291,
    "lon": -80.28385,
+   "loc": "listing",
+   "locq": "",
    "links": [
     {
      "site": "LandWatch",
@@ -2675,11 +2902,12 @@
    "chg": "",
    "dom": 15,
    "q": "25838 Lingerfelt Rd, Albemarle, NC 28001",
-   "loc": "listing",
-   "locq": ""
+   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6621534128",
+   "photoCount": 27,
+   "dist": 14
   },
   {
-   "id": 63,
+   "id": 64,
    "county": "Stanly",
    "street": "Renee Ford Rd",
    "city": "Stanfield",
@@ -2692,6 +2920,8 @@
    "pendingOn": [],
    "lat": 35.23353,
    "lon": -80.45082,
+   "loc": "road",
+   "locq": "Renee Ford Rd",
    "links": [
     {
      "site": "Realtor.com",
@@ -2714,11 +2944,12 @@
    "chg": "$56K PRICE DROP",
    "dom": null,
    "q": "Renee Ford Rd, Stanfield, NC 28163",
-   "loc": "road",
-   "locq": "Renee Ford Rd"
+   "photo": null,
+   "photoCount": null,
+   "dist": 21
   },
   {
-   "id": 64,
+   "id": 65,
    "county": "Stanly",
    "street": "Pennington Rd",
    "city": "Albemarle",
@@ -2731,6 +2962,8 @@
    "pendingOn": [],
    "lat": 35.36944,
    "lon": -80.22272,
+   "loc": "road",
+   "locq": "Pennington Rd",
    "links": [
     {
      "site": "Realtor.com",
@@ -2758,11 +2991,12 @@
    "chg": "$25K PRICE DROP",
    "dom": null,
    "q": "Pennington Rd, Albemarle, NC 28001",
-   "loc": "road",
-   "locq": "Pennington Rd"
+   "photo": null,
+   "photoCount": null,
+   "dist": 12
   },
   {
-   "id": 65,
+   "id": 66,
    "county": "Stanly",
    "street": "Acorn Acres Rd",
    "city": "Norwood",
@@ -2773,8 +3007,10 @@
    "alt": [],
    "status": "Active",
    "pendingOn": [],
-   "lat": 35.215825,
-   "lon": -80.109437,
+   "lat": 35.21583,
+   "lon": -80.10944,
+   "loc": "listing",
+   "locq": "",
    "links": [
     {
      "site": "LandWatch",
@@ -2807,11 +3043,12 @@
    "chg": "$1K PRICE DROP",
    "dom": 99,
    "q": "Acorn Acres Rd, Norwood, NC 28128",
-   "loc": "listing",
-   "locq": ""
+   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6393466677",
+   "photoCount": 10,
+   "dist": 2
   },
   {
-   "id": 66,
+   "id": 67,
    "county": "Stanly",
    "street": "33949 Rocky River Rd",
    "city": "Norwood",
@@ -2823,7 +3060,9 @@
    "status": "Active",
    "pendingOn": [],
    "lat": 35.21201,
-   "lon": -80.232225,
+   "lon": -80.23222,
+   "loc": "listing",
+   "locq": "",
    "links": [
     {
      "site": "LandWatch",
@@ -2846,11 +3085,12 @@
    "chg": "$51K price drop",
    "dom": 112,
    "q": "33949 Rocky River Rd, Norwood, NC 28128",
-   "loc": "listing",
-   "locq": ""
+   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6610680526",
+   "photoCount": 46,
+   "dist": 8
   },
   {
-   "id": 67,
+   "id": 68,
    "county": "Stanly",
    "street": "20743 Austin Rd",
    "city": "Albemarle",
@@ -2861,8 +3101,10 @@
    "alt": [],
    "status": "Active",
    "pendingOn": [],
-   "lat": 35.30873793,
-   "lon": -80.31860985,
+   "lat": 35.30874,
+   "lon": -80.31861,
+   "loc": "listing",
+   "locq": "",
    "links": [
     {
      "site": "LandWatch",
@@ -2881,11 +3123,12 @@
    "chg": "",
    "dom": 47,
    "q": "20743 Austin Rd, Albemarle, NC 28001",
-   "loc": "listing",
-   "locq": ""
+   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6512465454",
+   "photoCount": 30,
+   "dist": 14
   },
   {
-   "id": 68,
+   "id": 69,
    "county": "Stanly",
    "street": "Efird Rd",
    "city": "Endy",
@@ -2898,6 +3141,8 @@
    "pendingOn": [],
    "lat": 35.28078,
    "lon": -80.27854,
+   "loc": "road",
+   "locq": "Efird Rd",
    "links": [
     {
      "site": "Homes.com",
@@ -2920,11 +3165,12 @@
    "chg": "",
    "dom": null,
    "q": "Efird Rd, Endy, NC 28001",
-   "loc": "road",
-   "locq": "Efird Rd"
+   "photo": null,
+   "photoCount": null,
+   "dist": 11
   },
   {
-   "id": 69,
+   "id": 70,
    "county": "Stanly",
    "street": "State 24",
    "city": "Albemarle",
@@ -2937,6 +3183,8 @@
    "pendingOn": [],
    "lat": 35.33796,
    "lon": -80.2255,
+   "loc": "road",
+   "locq": "State 24",
    "links": [
     {
      "site": "Homes.com",
@@ -2959,11 +3207,12 @@
    "chg": "$620K PRICE DROP",
    "dom": null,
    "q": "State 24, Albemarle, NC 28001",
-   "loc": "road",
-   "locq": "State 24"
+   "photo": null,
+   "photoCount": null,
+   "dist": 11
   },
   {
-   "id": 70,
+   "id": 71,
    "county": "Stanly",
    "street": "201 Oak St",
    "city": "Stanfield",
@@ -2976,6 +3225,8 @@
    "pendingOn": [],
    "lat": 35.23565,
    "lon": -80.43026,
+   "loc": "address",
+   "locq": "201 Oak St, Stanfield, NC 28163",
    "links": [
     {
      "site": "Homes.com",
@@ -2993,8 +3244,214 @@
    "chg": "$160K PRICE INCREASE",
    "dom": null,
    "q": "201 Oak St, Stanfield, NC 28163",
-   "loc": "address",
-   "locq": "201 Oak St, Stanfield, NC 28163"
+   "photo": null,
+   "photoCount": null,
+   "dist": 20
+  },
+  {
+   "id": 72,
+   "county": "Stanly",
+   "street": "Bridge Rd",
+   "city": "Mount Pleasant",
+   "zip": "28124",
+   "acres": 37.32,
+   "price": 825000,
+   "ppa": 22106,
+   "alt": [],
+   "status": "Active",
+   "pendingOn": [],
+   "lat": null,
+   "lon": null,
+   "loc": null,
+   "locq": "",
+   "links": [
+    {
+     "site": "Homes.com",
+     "url": "https://www.homes.com/stanly-county-nc/land-for-sale/",
+     "direct": false
+    }
+   ],
+   "tags": [
+    "Land"
+   ],
+   "house": false,
+   "beds": null,
+   "baths": null,
+   "sqft": null,
+   "chg": "$25K PRICE DROP",
+   "dom": null,
+   "q": "Bridge Rd, Mount Pleasant, NC 28124",
+   "photo": null,
+   "photoCount": null,
+   "dist": null
+  },
+  {
+   "id": 73,
+   "county": "Stanly",
+   "street": "Ash St",
+   "city": "Albemarle",
+   "zip": "28001",
+   "acres": 10.2,
+   "price": 875000,
+   "ppa": 85784,
+   "alt": [],
+   "status": "Active",
+   "pendingOn": [],
+   "lat": 35.36843,
+   "lon": -80.20698,
+   "loc": "listing",
+   "locq": "",
+   "links": [
+    {
+     "site": "Redfin",
+     "url": "https://www.redfin.com/NC/Albemarle/Ash-St-28001/home/113379329",
+     "direct": true
+    },
+    {
+     "site": "Homes.com",
+     "url": "https://www.homes.com/stanly-county-nc/land-for-sale/",
+     "direct": false
+    }
+   ],
+   "tags": [
+    "Land"
+   ],
+   "house": false,
+   "beds": null,
+   "baths": null,
+   "sqft": null,
+   "chg": "",
+   "dom": 145,
+   "q": "Ash St, Albemarle, NC 28001",
+   "photo": null,
+   "photoCount": null,
+   "dist": 12
+  },
+  {
+   "id": 74,
+   "county": "Stanly",
+   "street": "8511 Rocky River Rd",
+   "city": "Oakboro",
+   "zip": "28129",
+   "acres": 23.3,
+   "price": 932000,
+   "ppa": 40000,
+   "alt": [],
+   "status": "Active",
+   "pendingOn": [],
+   "lat": 35.21603,
+   "lon": -80.32503,
+   "loc": "listing",
+   "locq": "",
+   "links": [
+    {
+     "site": "Redfin",
+     "url": "https://www.redfin.com/NC/Oakboro/8511-Rocky-River-Rd-28129/home/206086390",
+     "direct": true
+    },
+    {
+     "site": "Homes.com",
+     "url": "https://www.homes.com/stanly-county-nc/land-for-sale/",
+     "direct": false
+    },
+    {
+     "site": "LandSearch",
+     "url": "https://www.landsearch.com/properties/stanly-county-nc/filter/size[min]=10",
+     "direct": false
+    }
+   ],
+   "tags": [
+    "Land"
+   ],
+   "house": false,
+   "beds": null,
+   "baths": null,
+   "sqft": null,
+   "chg": "$32K PRICE INCREASE",
+   "dom": 32,
+   "q": "8511 Rocky River Rd, Oakboro, NC 28129",
+   "photo": null,
+   "photoCount": null,
+   "dist": 14
+  },
+  {
+   "id": 75,
+   "county": "Stanly",
+   "street": "32286 Laton Rd",
+   "city": "Albemarle",
+   "zip": "28001",
+   "acres": 54.04,
+   "price": 975000,
+   "ppa": 18042,
+   "alt": [],
+   "status": "Active",
+   "pendingOn": [],
+   "lat": null,
+   "lon": null,
+   "loc": null,
+   "locq": "",
+   "links": [
+    {
+     "site": "Homes.com",
+     "url": "https://www.homes.com/stanly-county-nc/land-for-sale/",
+     "direct": false
+    },
+    {
+     "site": "LandSearch",
+     "url": "https://www.landsearch.com/properties/stanly-county-nc/filter/size[min]=10",
+     "direct": false
+    }
+   ],
+   "tags": [
+    "Land"
+   ],
+   "house": false,
+   "beds": null,
+   "baths": null,
+   "sqft": null,
+   "chg": "$225K PRICE DROP",
+   "dom": null,
+   "q": "32286 Laton Rd, Albemarle, NC 28001",
+   "photo": null,
+   "photoCount": null,
+   "dist": null
+  },
+  {
+   "id": 76,
+   "county": "Stanly",
+   "street": "34272 Mabry Rd",
+   "city": "Albemarle",
+   "zip": "28001",
+   "acres": 45.2,
+   "price": 999900,
+   "ppa": 22122,
+   "alt": [],
+   "status": "Check status",
+   "pendingOn": [],
+   "lat": null,
+   "lon": null,
+   "loc": null,
+   "locq": "",
+   "links": [
+    {
+     "site": "LandSearch",
+     "url": "https://www.landsearch.com/properties/stanly-county-nc/filter/size[min]=10",
+     "direct": false
+    }
+   ],
+   "tags": [
+    "House"
+   ],
+   "house": true,
+   "beds": null,
+   "baths": null,
+   "sqft": null,
+   "chg": "",
+   "dom": null,
+   "q": "34272 Mabry Rd, Albemarle, NC 28001",
+   "photo": null,
+   "photoCount": null,
+   "dist": null
   }
  ]
 }
