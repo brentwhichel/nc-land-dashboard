@@ -13,8 +13,8 @@
    "alt": [],
    "status": "Active",
    "pendingOn": [],
-   "lat": null,
-   "lon": null,
+   "lat": 35.22055,
+   "lon": -79.86834,
    "links": [
     {
      "site": "Realtor.com",
@@ -36,7 +36,9 @@
    "sqft": null,
    "chg": "",
    "dom": null,
-   "q": "Dry Creek Rd, Candor, NC 27229"
+   "q": "Dry Creek Rd, Candor, NC 27229",
+   "loc": "road",
+   "locq": "Dry Crk"
   },
   {
    "id": 2,
@@ -78,7 +80,9 @@
    "sqft": null,
    "chg": "",
    "dom": null,
-   "q": "Mountain Grove Church Rd, Candor, NC 27229"
+   "q": "Mountain Grove Church Rd, Candor, NC 27229",
+   "loc": null,
+   "locq": ""
   },
   {
    "id": 3,
@@ -92,8 +96,8 @@
    "alt": [],
    "status": "Active",
    "pendingOn": [],
-   "lat": null,
-   "lon": null,
+   "lat": 35.18578,
+   "lon": -79.79764,
    "links": [
     {
      "site": "Realtor.com",
@@ -115,7 +119,9 @@
    "sqft": null,
    "chg": "",
    "dom": null,
-   "q": "Graham Rd, Candor, NC 27229"
+   "q": "Graham Rd, Candor, NC 27229",
+   "loc": "road",
+   "locq": "Graham Rd"
   },
   {
    "id": 4,
@@ -164,8 +170,10 @@
    "baths": null,
    "sqft": null,
    "chg": "",
-   "dom": 739923,
-   "q": "Lot 1 Capelsie Rd, Candor, NC 27229"
+   "dom": 15,
+   "q": "Lot 1 Capelsie Rd, Candor, NC 27229",
+   "loc": "listing",
+   "locq": ""
   },
   {
    "id": 5,
@@ -181,8 +189,8 @@
    "pendingOn": [
     "Realtor.com"
    ],
-   "lat": null,
-   "lon": null,
+   "lat": 35.39852,
+   "lon": -79.79706,
    "links": [
     {
      "site": "Realtor.com",
@@ -199,7 +207,9 @@
    "sqft": null,
    "chg": "",
    "dom": null,
-   "q": "170 Greentop Rd, Star, NC 27356"
+   "q": "170 Greentop Rd, Star, NC 27356",
+   "loc": "address",
+   "locq": "170 Greentop Rd, Star, NC 27356"
   },
   {
    "id": 6,
@@ -215,8 +225,8 @@
    "pendingOn": [
     "Realtor.com"
    ],
-   "lat": null,
-   "lon": null,
+   "lat": 35.2166,
+   "lon": -79.95754,
    "links": [
     {
      "site": "Realtor.com",
@@ -233,7 +243,9 @@
    "sqft": null,
    "chg": "",
    "dom": null,
-   "q": "1893 Yank Rd, Mount Gilead, NC 27306"
+   "q": "1893 Yank Rd, Mount Gilead, NC 27306",
+   "loc": "address",
+   "locq": "1893 Yank Rd, Mount Gilead, NC 27306"
   },
   {
    "id": 7,
@@ -280,7 +292,9 @@
    "sqft": null,
    "chg": "",
    "dom": 291,
-   "q": "Dry Creek Rd, Candor, NC 27336"
+   "q": "Dry Creek Rd, Candor, NC 27336",
+   "loc": "listing",
+   "locq": ""
   },
   {
    "id": 8,
@@ -296,8 +310,8 @@
    "pendingOn": [
     "Realtor.com"
    ],
-   "lat": null,
-   "lon": null,
+   "lat": 35.28073,
+   "lon": -79.86308,
    "links": [
     {
      "site": "Realtor.com",
@@ -314,7 +328,9 @@
    "sqft": null,
    "chg": "",
    "dom": null,
-   "q": "Pekin Rd Unit 2, Candor, NC 27229"
+   "q": "Pekin Rd Unit 2, Candor, NC 27229",
+   "loc": "road",
+   "locq": "Pekin Rd"
   },
   {
    "id": 9,
@@ -351,8 +367,10 @@
    "baths": null,
    "sqft": null,
    "chg": "",
-   "dom": 739923,
-   "q": "2141 NC 731, Candor, NC 27229"
+   "dom": 49,
+   "q": "2141 NC 731, Candor, NC 27229",
+   "loc": "listing",
+   "locq": ""
   },
   {
    "id": 10,
@@ -399,7 +417,9 @@
    "sqft": null,
    "chg": "",
    "dom": 292,
-   "q": "Bowden Dr, Candor, NC 27229"
+   "q": "Bowden Dr, Candor, NC 27229",
+   "loc": "listing",
+   "locq": ""
   },
   {
    "id": 11,
@@ -415,8 +435,8 @@
    "pendingOn": [
     "Realtor.com"
    ],
-   "lat": null,
-   "lon": null,
+   "lat": 35.17105,
+   "lon": -79.66377,
    "links": [
     {
      "site": "Realtor.com",
@@ -433,7 +453,9 @@
    "sqft": null,
    "chg": "",
    "dom": null,
-   "q": "County Line Rd, Candor, NC 27229"
+   "q": "County Line Rd, Candor, NC 27229",
+   "loc": "road",
+   "locq": "County Line Rd"
   },
   {
    "id": 12,
@@ -470,8 +492,10 @@
    "baths": null,
    "sqft": null,
    "chg": "",
-   "dom": 739923,
-   "q": "NC 731, Mount Gilead, NC 27371"
+   "dom": 14,
+   "q": "NC 731, Mount Gilead, NC 27371",
+   "loc": "listing",
+   "locq": ""
   },
   {
    "id": 13,
@@ -516,8 +540,10 @@
    "baths": null,
    "sqft": null,
    "chg": "",
-   "dom": 739923,
-   "q": "Lot 12 Capelsie Rd, Candor, NC 27229"
+   "dom": 0,
+   "q": "Lot 12 Capelsie Rd, Candor, NC 27229",
+   "loc": "listing",
+   "locq": ""
   },
   {
    "id": 14,
@@ -563,8 +589,10 @@
    "baths": null,
    "sqft": null,
    "chg": "",
-   "dom": 739923,
-   "q": "Lot 3 Capelsie Rd, Candor, NC 27229"
+   "dom": 11,
+   "q": "Lot 3 Capelsie Rd, Candor, NC 27229",
+   "loc": "listing",
+   "locq": ""
   },
   {
    "id": 15,
@@ -610,8 +638,10 @@
    "baths": null,
    "sqft": null,
    "chg": "",
-   "dom": 739923,
-   "q": "Pleasant Valley Rd, Mount Gilead, NC 27306"
+   "dom": 5,
+   "q": "Pleasant Valley Rd, Mount Gilead, NC 27306",
+   "loc": "listing",
+   "locq": ""
   },
   {
    "id": 16,
@@ -661,8 +691,10 @@
    "baths": null,
    "sqft": null,
    "chg": "",
-   "dom": 739923,
-   "q": "Lot 5 Capelsie Rd, Candor, NC 27229"
+   "dom": 26,
+   "q": "Lot 5 Capelsie Rd, Candor, NC 27229",
+   "loc": "listing",
+   "locq": ""
   },
   {
    "id": 17,
@@ -676,8 +708,8 @@
    "alt": [],
    "status": "Active",
    "pendingOn": [],
-   "lat": null,
-   "lon": null,
+   "lat": 35.21856,
+   "lon": -80.00993,
    "links": [
     {
      "site": "Homes.com",
@@ -694,7 +726,9 @@
    "sqft": null,
    "chg": "$190K PRICE DROP",
    "dom": null,
-   "q": "Pleasant Valley Rd, Mount Gilead, NC 27306"
+   "q": "Pleasant Valley Rd, Mount Gilead, NC 27306",
+   "loc": "road",
+   "locq": "Pleasant Valley Rd"
   },
   {
    "id": 18,
@@ -736,7 +770,9 @@
    "sqft": null,
    "chg": "",
    "dom": null,
-   "q": "Mountain Grove Church Rd, Candor, NC 27229"
+   "q": "Mountain Grove Church Rd, Candor, NC 27229",
+   "loc": null,
+   "locq": ""
   },
   {
    "id": 19,
@@ -783,8 +819,10 @@
    "baths": null,
    "sqft": null,
    "chg": "",
-   "dom": 739923,
-   "q": "Lot 6 Capelsie Rd, Candor, NC 27229"
+   "dom": 11,
+   "q": "Lot 6 Capelsie Rd, Candor, NC 27229",
+   "loc": "listing",
+   "locq": ""
   },
   {
    "id": 20,
@@ -828,8 +866,10 @@
    "baths": null,
    "sqft": null,
    "chg": "$10K price drop",
-   "dom": 739923,
-   "q": "N NC 109 Hwy, Troy, NC 27371"
+   "dom": 394,
+   "q": "N NC 109 Hwy, Troy, NC 27371",
+   "loc": "listing",
+   "locq": ""
   },
   {
    "id": 21,
@@ -874,8 +914,10 @@
    "baths": null,
    "sqft": null,
    "chg": "",
-   "dom": 739923,
-   "q": "Lot 7 Capelsie Rd, Candor, NC 27229"
+   "dom": 1,
+   "q": "Lot 7 Capelsie Rd, Candor, NC 27229",
+   "loc": "listing",
+   "locq": ""
   },
   {
    "id": 22,
@@ -889,8 +931,8 @@
    "alt": [],
    "status": "Active",
    "pendingOn": [],
-   "lat": null,
-   "lon": null,
+   "lat": 35.30629,
+   "lon": -79.96146,
    "links": [
     {
      "site": "Realtor.com",
@@ -912,7 +954,9 @@
    "sqft": null,
    "chg": "",
    "dom": null,
-   "q": "McLeod Rd, Mount Gilead, NC 27306"
+   "q": "McLeod Rd, Mount Gilead, NC 27306",
+   "loc": "road",
+   "locq": "McLeod Rd"
   },
   {
    "id": 23,
@@ -955,8 +999,10 @@
    "baths": null,
    "sqft": null,
    "chg": "",
-   "dom": 739923,
-   "q": "Lot 10 Capelsie Rd, Candor, NC 27229"
+   "dom": 8,
+   "q": "Lot 10 Capelsie Rd, Candor, NC 27229",
+   "loc": "listing",
+   "locq": ""
   },
   {
    "id": 24,
@@ -972,8 +1018,8 @@
    "pendingOn": [
     "Realtor.com"
    ],
-   "lat": null,
-   "lon": null,
+   "lat": 35.28073,
+   "lon": -79.86308,
    "links": [
     {
      "site": "Realtor.com",
@@ -990,7 +1036,9 @@
    "sqft": null,
    "chg": "",
    "dom": null,
-   "q": "3076 Pekin Rd, Mount Gilead, NC 27306"
+   "q": "3076 Pekin Rd, Mount Gilead, NC 27306",
+   "loc": "road",
+   "locq": "Pekin Rd"
   },
   {
    "id": 25,
@@ -1034,8 +1082,10 @@
    "baths": null,
    "sqft": null,
    "chg": "",
-   "dom": 739923,
-   "q": "Lot 11 Capelsie Rd, Candor, NC 27229"
+   "dom": 1,
+   "q": "Lot 11 Capelsie Rd, Candor, NC 27229",
+   "loc": "listing",
+   "locq": ""
   },
   {
    "id": 26,
@@ -1049,8 +1099,8 @@
    "alt": [],
    "status": "Active",
    "pendingOn": [],
-   "lat": null,
-   "lon": null,
+   "lat": 35.18578,
+   "lon": -79.79764,
    "links": [
     {
      "site": "Realtor.com",
@@ -1077,7 +1127,9 @@
    "sqft": null,
    "chg": "",
    "dom": null,
-   "q": "Graham Rd, Candor, NC 27229"
+   "q": "Graham Rd, Candor, NC 27229",
+   "loc": "road",
+   "locq": "Graham Rd"
   },
   {
    "id": 27,
@@ -1091,8 +1143,8 @@
    "alt": [],
    "status": "Active",
    "pendingOn": [],
-   "lat": null,
-   "lon": null,
+   "lat": 35.18578,
+   "lon": -79.79764,
    "links": [
     {
      "site": "Realtor.com",
@@ -1114,7 +1166,9 @@
    "sqft": null,
    "chg": "",
    "dom": null,
-   "q": "Graham Rd, Candor, NC 27229"
+   "q": "Graham Rd, Candor, NC 27229",
+   "loc": "road",
+   "locq": "Graham"
   },
   {
    "id": 28,
@@ -1155,8 +1209,10 @@
    "baths": null,
    "sqft": null,
    "chg": "$20K price drop",
-   "dom": 739923,
-   "q": "Center Baptist Church Rd, Jackson Springs, NC 27281"
+   "dom": 364,
+   "q": "Center Baptist Church Rd, Jackson Springs, NC 27281",
+   "loc": "listing",
+   "locq": ""
   },
   {
    "id": 29,
@@ -1192,8 +1248,10 @@
    "baths": 2.0,
    "sqft": 1792,
    "chg": "",
-   "dom": 739923,
-   "q": "Track 11 Belford Church Rd, Jackson Springs, NC 27281"
+   "dom": 159,
+   "q": "Track 11 Belford Church Rd, Jackson Springs, NC 27281",
+   "loc": "listing",
+   "locq": ""
   },
   {
    "id": 30,
@@ -1234,8 +1292,10 @@
    "baths": null,
    "sqft": null,
    "chg": "",
-   "dom": 739923,
-   "q": "Deerfield Cir, Troy, NC 27371"
+   "dom": 204,
+   "q": "Deerfield Cir, Troy, NC 27371",
+   "loc": "listing",
+   "locq": ""
   },
   {
    "id": 31,
@@ -1268,8 +1328,10 @@
    "baths": 1.0,
    "sqft": null,
    "chg": "$64K price drop",
-   "dom": 739923,
-   "q": "164 Haines Rd, Jackson Springs, NC 27281"
+   "dom": 343,
+   "q": "164 Haines Rd, Jackson Springs, NC 27281",
+   "loc": "listing",
+   "locq": ""
   },
   {
    "id": 32,
@@ -1301,7 +1363,9 @@
    "sqft": null,
    "chg": "",
    "dom": null,
-   "q": "Biscoe, NC 27209"
+   "q": "Biscoe, NC 27209",
+   "loc": null,
+   "locq": ""
   },
   {
    "id": 33,
@@ -1350,8 +1414,10 @@
    "baths": null,
    "sqft": null,
    "chg": "",
-   "dom": 739923,
-   "q": "Brewer Farm Rd, Mount Gilead, NC 27306"
+   "dom": 317,
+   "q": "Brewer Farm Rd, Mount Gilead, NC 27306",
+   "loc": "listing",
+   "locq": ""
   },
   {
    "id": 34,
@@ -1397,8 +1463,10 @@
    "baths": null,
    "sqft": null,
    "chg": "",
-   "dom": 739923,
-   "q": "130 Myers Dr, Candor, NC 27229"
+   "dom": 35,
+   "q": "130 Myers Dr, Candor, NC 27229",
+   "loc": "listing",
+   "locq": ""
   },
   {
    "id": 35,
@@ -1436,8 +1504,10 @@
    "baths": 2.0,
    "sqft": 1994,
    "chg": "",
-   "dom": 739923,
-   "q": "1910 NC Hwy 134 N, Troy, NC 27371"
+   "dom": 56,
+   "q": "1910 NC Hwy 134 N, Troy, NC 27371",
+   "loc": "listing",
+   "locq": ""
   },
   {
    "id": 36,
@@ -1451,8 +1521,8 @@
    "alt": [],
    "status": "Active",
    "pendingOn": [],
-   "lat": null,
-   "lon": null,
+   "lat": 35.21217,
+   "lon": -80.00052,
    "links": [
     {
      "site": "LandSearch",
@@ -1469,7 +1539,9 @@
    "sqft": null,
    "chg": "",
    "dom": null,
-   "q": "201 S Main St, Mount Gilead, NC 27306"
+   "q": "201 S Main St, Mount Gilead, NC 27306",
+   "loc": "address",
+   "locq": "201 S Main St, Mount Gilead, NC 27306"
   },
   {
    "id": 37,
@@ -1520,8 +1592,10 @@
    "baths": null,
    "sqft": null,
    "chg": "",
-   "dom": 739923,
-   "q": "Haltiwanger Retreat Rd, Troy, NC 27371"
+   "dom": 132,
+   "q": "Haltiwanger Retreat Rd, Troy, NC 27371",
+   "loc": "listing",
+   "locq": ""
   },
   {
    "id": 38,
@@ -1560,8 +1634,10 @@
    "baths": null,
    "sqft": null,
    "chg": "",
-   "dom": 739923,
-   "q": "Riverview Rd, Norwood, NC 28128"
+   "dom": 566,
+   "q": "Riverview Rd, Norwood, NC 28128",
+   "loc": "listing",
+   "locq": ""
   },
   {
    "id": 39,
@@ -1575,8 +1651,8 @@
    "alt": [],
    "status": "Active",
    "pendingOn": [],
-   "lat": null,
-   "lon": null,
+   "lat": 35.4776,
+   "lon": -80.27797,
    "links": [
     {
      "site": "Realtor.com",
@@ -1598,7 +1674,9 @@
    "sqft": null,
    "chg": "",
    "dom": null,
-   "q": "Wagoner Rd, Richfield, NC 28137"
+   "q": "Wagoner Rd, Richfield, NC 28137",
+   "loc": "road",
+   "locq": "Wagoner Rd"
   },
   {
    "id": 40,
@@ -1642,8 +1720,10 @@
    "baths": null,
    "sqft": null,
    "chg": "",
-   "dom": 739923,
-   "q": "03 Ramsey Rd, Albemarle, NC 28001"
+   "dom": 175,
+   "q": "03 Ramsey Rd, Albemarle, NC 28001",
+   "loc": "listing",
+   "locq": ""
   },
   {
    "id": 41,
@@ -1689,8 +1769,10 @@
    "baths": null,
    "sqft": null,
    "chg": "",
-   "dom": 739923,
-   "q": "Stony Gap Rd, Albemarle, NC 28001"
+   "dom": 187,
+   "q": "Stony Gap Rd, Albemarle, NC 28001",
+   "loc": "listing",
+   "locq": ""
   },
   {
    "id": 42,
@@ -1706,8 +1788,8 @@
    "pendingOn": [
     "Realtor.com"
    ],
-   "lat": null,
-   "lon": null,
+   "lat": 35.28424,
+   "lon": -80.37686,
    "links": [
     {
      "site": "Realtor.com",
@@ -1724,7 +1806,9 @@
    "sqft": null,
    "chg": "",
    "dom": null,
-   "q": "Joes Rd, Locust, NC 28097"
+   "q": "Joes Rd, Locust, NC 28097",
+   "loc": "road",
+   "locq": "Joes Rd"
   },
   {
    "id": 43,
@@ -1770,8 +1854,10 @@
    "baths": null,
    "sqft": null,
    "chg": "",
-   "dom": 739923,
-   "q": "Lot 2 Griffin Greene Blvd, Oakboro, NC 28163"
+   "dom": 18,
+   "q": "Lot 2 Griffin Greene Blvd, Oakboro, NC 28163",
+   "loc": "listing",
+   "locq": ""
   },
   {
    "id": 44,
@@ -1812,8 +1898,10 @@
    "baths": null,
    "sqft": null,
    "chg": "",
-   "dom": 739923,
-   "q": "Lot 3 Griffin Greene Blvd, Oakboro, NC 28163"
+   "dom": 19,
+   "q": "Lot 3 Griffin Greene Blvd, Oakboro, NC 28163",
+   "loc": "listing",
+   "locq": ""
   },
   {
    "id": 45,
@@ -1849,8 +1937,10 @@
    "baths": null,
    "sqft": null,
    "chg": "",
-   "dom": 739923,
-   "q": "Lot 1 Griffin Greene Blvd, Oakboro, NC 28163"
+   "dom": 19,
+   "q": "Lot 1 Griffin Greene Blvd, Oakboro, NC 28163",
+   "loc": "listing",
+   "locq": ""
   },
   {
    "id": 46,
@@ -1886,8 +1976,10 @@
    "baths": 1.0,
    "sqft": 1416,
    "chg": "",
-   "dom": 739923,
-   "q": "37324 Barnhardt Rd, Albemarle, NC 28001"
+   "dom": 1,
+   "q": "37324 Barnhardt Rd, Albemarle, NC 28001",
+   "loc": "listing",
+   "locq": ""
   },
   {
    "id": 47,
@@ -1903,8 +1995,8 @@
    "pendingOn": [
     "Realtor.com"
    ],
-   "lat": null,
-   "lon": null,
+   "lat": 35.25562,
+   "lon": -80.17249,
    "links": [
     {
      "site": "Realtor.com",
@@ -1921,7 +2013,9 @@
    "sqft": null,
    "chg": "",
    "dom": null,
-   "q": "16252 Eury Rd, Norwood, NC 28128"
+   "q": "16252 Eury Rd, Norwood, NC 28128",
+   "loc": "address",
+   "locq": "16252 Eury Rd, Norwood, NC 28128"
   },
   {
    "id": 48,
@@ -1967,8 +2061,10 @@
    "baths": null,
    "sqft": null,
    "chg": "",
-   "dom": 739923,
-   "q": "Cottonville Rd, Norwood, NC 28128"
+   "dom": 385,
+   "q": "Cottonville Rd, Norwood, NC 28128",
+   "loc": "listing",
+   "locq": ""
   },
   {
    "id": 49,
@@ -1982,8 +2078,8 @@
    "alt": [],
    "status": "Active",
    "pendingOn": [],
-   "lat": null,
-   "lon": null,
+   "lat": 35.28747,
+   "lon": -80.16812,
    "links": [
     {
      "site": "Realtor.com",
@@ -2005,7 +2101,9 @@
    "sqft": null,
    "chg": "$5K PRICE DROP",
    "dom": null,
-   "q": "Southbound Rd, Albemarle, NC 28001"
+   "q": "Southbound Rd, Albemarle, NC 28001",
+   "loc": "road",
+   "locq": "Southbound Rd"
   },
   {
    "id": 50,
@@ -2041,8 +2139,10 @@
    "baths": 2.0,
    "sqft": 1925,
    "chg": "",
-   "dom": 739923,
-   "q": "104 Three Kings Way, Albemarle, NC 28001"
+   "dom": 55,
+   "q": "104 Three Kings Way, Albemarle, NC 28001",
+   "loc": "listing",
+   "locq": ""
   },
   {
    "id": 51,
@@ -2056,8 +2156,8 @@
    "alt": [],
    "status": "Active",
    "pendingOn": [],
-   "lat": null,
-   "lon": null,
+   "lat": 35.38086,
+   "lon": -80.33491,
    "links": [
     {
      "site": "Homes.com",
@@ -2074,7 +2174,9 @@
    "sqft": null,
    "chg": "$35K PRICE INCREASE",
    "dom": null,
-   "q": "20125 Old Concord Rd, Albemarle, NC 28001"
+   "q": "20125 Old Concord Rd, Albemarle, NC 28001",
+   "loc": "address",
+   "locq": "20125 Old Concord Rd, Albemarle, NC 28001"
   },
   {
    "id": 52,
@@ -2120,8 +2222,10 @@
    "baths": null,
    "sqft": null,
    "chg": "",
-   "dom": 739923,
-   "q": "Scallybark Rd, Albemarle, NC 28001"
+   "dom": 99,
+   "q": "Scallybark Rd, Albemarle, NC 28001",
+   "loc": "listing",
+   "locq": ""
   },
   {
    "id": 53,
@@ -2162,8 +2266,10 @@
    "baths": null,
    "sqft": null,
    "chg": "",
-   "dom": 739923,
-   "q": "12453 Barrier Store Rd, Mount Pleasant, NC 28124"
+   "dom": 8,
+   "q": "12453 Barrier Store Rd, Mount Pleasant, NC 28124",
+   "loc": "listing",
+   "locq": ""
   },
   {
    "id": 54,
@@ -2177,8 +2283,8 @@
    "alt": [],
    "status": "Active",
    "pendingOn": [],
-   "lat": null,
-   "lon": null,
+   "lat": 35.39364,
+   "lon": -80.16008,
    "links": [
     {
      "site": "Realtor.com",
@@ -2200,7 +2306,9 @@
    "sqft": null,
    "chg": "",
    "dom": null,
-   "q": "35893 Red Bird Rd, Albemarle, NC 28001"
+   "q": "35893 Red Bird Rd, Albemarle, NC 28001",
+   "loc": "address",
+   "locq": "35893 Red Bird Rd, Albemarle, NC 28001"
   },
   {
    "id": 55,
@@ -2246,8 +2354,10 @@
    "baths": null,
    "sqft": null,
    "chg": "$30K PRICE DROP",
-   "dom": 739923,
-   "q": "Huneycutt Mill Rd, Albemarle, NC 28001"
+   "dom": 67,
+   "q": "Huneycutt Mill Rd, Albemarle, NC 28001",
+   "loc": "listing",
+   "locq": ""
   },
   {
    "id": 56,
@@ -2291,8 +2401,10 @@
    "baths": null,
    "sqft": null,
    "chg": "",
-   "dom": 739923,
-   "q": "Pond Rd, Locust, NC 28097"
+   "dom": 82,
+   "q": "Pond Rd, Locust, NC 28097",
+   "loc": "listing",
+   "locq": ""
   },
   {
    "id": 57,
@@ -2306,8 +2418,8 @@
    "alt": [],
    "status": "Active",
    "pendingOn": [],
-   "lat": null,
-   "lon": null,
+   "lat": 35.38345,
+   "lon": -80.21032,
    "links": [
     {
      "site": "Realtor.com",
@@ -2329,7 +2441,9 @@
    "sqft": null,
    "chg": "",
    "dom": null,
-   "q": "Snuggs Park Rd, Albemarle, NC 28001"
+   "q": "Snuggs Park Rd, Albemarle, NC 28001",
+   "loc": "road",
+   "locq": "Snuggs Park Rd"
   },
   {
    "id": 58,
@@ -2378,8 +2492,10 @@
    "baths": null,
    "sqft": null,
    "chg": "$48K PRICE DROP",
-   "dom": 739923,
-   "q": "Carriker Rd, Albemarle, NC 28001"
+   "dom": 139,
+   "q": "Carriker Rd, Albemarle, NC 28001",
+   "loc": "listing",
+   "locq": ""
   },
   {
    "id": 59,
@@ -2425,8 +2541,10 @@
    "baths": null,
    "sqft": null,
    "chg": "",
-   "dom": 739923,
-   "q": "28315 Rowland Rd, Mount Pleasant, NC 28124"
+   "dom": 81,
+   "q": "28315 Rowland Rd, Mount Pleasant, NC 28124",
+   "loc": "listing",
+   "locq": ""
   },
   {
    "id": 60,
@@ -2467,8 +2585,10 @@
    "baths": null,
    "sqft": null,
    "chg": "$50K price drop",
-   "dom": 739923,
-   "q": "Silver Rd, Oakboro, NC 28129"
+   "dom": 225,
+   "q": "Silver Rd, Oakboro, NC 28129",
+   "loc": "listing",
+   "locq": ""
   },
   {
    "id": 61,
@@ -2514,8 +2634,10 @@
    "baths": null,
    "sqft": null,
    "chg": "$37K PRICE DROP",
-   "dom": 739923,
-   "q": "Herlocker Rd, New London, NC 28127"
+   "dom": 411,
+   "q": "Herlocker Rd, New London, NC 28127",
+   "loc": "listing",
+   "locq": ""
   },
   {
    "id": 62,
@@ -2551,8 +2673,10 @@
    "baths": 2.0,
    "sqft": 1296,
    "chg": "",
-   "dom": 739923,
-   "q": "25838 Lingerfelt Rd, Albemarle, NC 28001"
+   "dom": 15,
+   "q": "25838 Lingerfelt Rd, Albemarle, NC 28001",
+   "loc": "listing",
+   "locq": ""
   },
   {
    "id": 63,
@@ -2566,8 +2690,8 @@
    "alt": [],
    "status": "Active",
    "pendingOn": [],
-   "lat": null,
-   "lon": null,
+   "lat": 35.23353,
+   "lon": -80.45082,
    "links": [
     {
      "site": "Realtor.com",
@@ -2589,7 +2713,9 @@
    "sqft": null,
    "chg": "$56K PRICE DROP",
    "dom": null,
-   "q": "Renee Ford Rd, Stanfield, NC 28163"
+   "q": "Renee Ford Rd, Stanfield, NC 28163",
+   "loc": "road",
+   "locq": "Renee Ford Rd"
   },
   {
    "id": 64,
@@ -2603,8 +2729,8 @@
    "alt": [],
    "status": "Active",
    "pendingOn": [],
-   "lat": null,
-   "lon": null,
+   "lat": 35.36944,
+   "lon": -80.22272,
    "links": [
     {
      "site": "Realtor.com",
@@ -2631,7 +2757,9 @@
    "sqft": null,
    "chg": "$25K PRICE DROP",
    "dom": null,
-   "q": "Pennington Rd, Albemarle, NC 28001"
+   "q": "Pennington Rd, Albemarle, NC 28001",
+   "loc": "road",
+   "locq": "Pennington Rd"
   },
   {
    "id": 65,
@@ -2677,8 +2805,10 @@
    "baths": null,
    "sqft": null,
    "chg": "$1K PRICE DROP",
-   "dom": 739923,
-   "q": "Acorn Acres Rd, Norwood, NC 28128"
+   "dom": 99,
+   "q": "Acorn Acres Rd, Norwood, NC 28128",
+   "loc": "listing",
+   "locq": ""
   },
   {
    "id": 66,
@@ -2714,8 +2844,10 @@
    "baths": 3.0,
    "sqft": 2897,
    "chg": "$51K price drop",
-   "dom": 739923,
-   "q": "33949 Rocky River Rd, Norwood, NC 28128"
+   "dom": 112,
+   "q": "33949 Rocky River Rd, Norwood, NC 28128",
+   "loc": "listing",
+   "locq": ""
   },
   {
    "id": 67,
@@ -2747,8 +2879,10 @@
    "baths": 2.0,
    "sqft": null,
    "chg": "",
-   "dom": 739923,
-   "q": "20743 Austin Rd, Albemarle, NC 28001"
+   "dom": 47,
+   "q": "20743 Austin Rd, Albemarle, NC 28001",
+   "loc": "listing",
+   "locq": ""
   },
   {
    "id": 68,
@@ -2762,8 +2896,8 @@
    "alt": [],
    "status": "Active",
    "pendingOn": [],
-   "lat": null,
-   "lon": null,
+   "lat": 35.28078,
+   "lon": -80.27854,
    "links": [
     {
      "site": "Homes.com",
@@ -2785,7 +2919,9 @@
    "sqft": null,
    "chg": "",
    "dom": null,
-   "q": "Efird Rd, Endy, NC 28001"
+   "q": "Efird Rd, Endy, NC 28001",
+   "loc": "road",
+   "locq": "Efird Rd"
   },
   {
    "id": 69,
@@ -2799,8 +2935,8 @@
    "alt": [],
    "status": "Active",
    "pendingOn": [],
-   "lat": null,
-   "lon": null,
+   "lat": 35.33796,
+   "lon": -80.2255,
    "links": [
     {
      "site": "Homes.com",
@@ -2822,7 +2958,9 @@
    "sqft": null,
    "chg": "$620K PRICE DROP",
    "dom": null,
-   "q": "State 24, Albemarle, NC 28001"
+   "q": "State 24, Albemarle, NC 28001",
+   "loc": "road",
+   "locq": "State 24"
   },
   {
    "id": 70,
@@ -2836,8 +2974,8 @@
    "alt": [],
    "status": "Active",
    "pendingOn": [],
-   "lat": null,
-   "lon": null,
+   "lat": 35.23565,
+   "lon": -80.43026,
    "links": [
     {
      "site": "Homes.com",
@@ -2854,7 +2992,9 @@
    "sqft": null,
    "chg": "$160K PRICE INCREASE",
    "dom": null,
-   "q": "201 Oak St, Stanfield, NC 28163"
+   "q": "201 Oak St, Stanfield, NC 28163",
+   "loc": "address",
+   "locq": "201 Oak St, Stanfield, NC 28163"
   }
  ]
 }
