@@ -4063,45 +4063,6 @@
    "driveMin": 81
   },
   {
-   "id": 115,
-   "key": "rowan||white oak|12.1",
-   "county": "Rowan",
-   "street": "",
-   "city": "White Oak",
-   "zip": "28399",
-   "acres": 12.08,
-   "price": 60000,
-   "ppa": 4967,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.69105,
-   "lon": -80.54078,
-   "loc": "road",
-   "locq": "0",
-   "links": [
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/rowan-county-nc/land-for-sale/",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "",
-   "dom": null,
-   "q": "White Oak, NC 28399",
-   "photo": null,
-   "photoCount": null,
-   "drive": 48.1,
-   "driveMin": 85
-  },
-  {
    "id": 116,
    "key": "rowan|stokesferryrd|gold hill|16.3",
    "county": "Rowan",
