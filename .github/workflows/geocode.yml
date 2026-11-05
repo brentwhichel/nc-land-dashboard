@@ -1,0 +1,101 @@
+name: Map location helper
+
+on:
+  repository_dispatch:
+    types: [geocode]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: geocode-helper
+  cancel-in-progress: false
+
+jobs:
+  geocode:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Look up map locations (US Census and OpenStreetMap)
+        shell: python
+        env:
+          REQ: ${{ github.event.client_payload.req }}
+          RUN_TOKEN: ${{ github.event.client_payload.token }}
+        run: |
+          import base64, json, lzma, os, time, urllib.parse, urllib.request
+          req = json.loads(lzma.decompress(base64.b64decode(os.environ["REQ"])))
+          UA = {"User-Agent": "nc-land-dashboard/1.0 (+https://github.com/brentwhichel/nc-land-dashboard)"}
+          def get(url, tries=3):
+              last = None
+              for i in range(tries):
+                  try:
+                      with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=45) as r:
+                          return json.loads(r.read().decode("utf-8"))
+                  except Exception as e:
+                      last = e
+                      time.sleep(2 + 3 * i)
+              print("lookup failed:", type(last).__name__)
+              return None
+          q = urllib.parse.urlencode({"where": "GEOID IN (%s)" % ",".join("'%s'" % g for g in req["geoids"]),
+                                      "outFields": "NAME,GEOID", "returnGeometry": "true", "outSR": "4326",
+                                      "geometryPrecision": "4", "maxAllowableOffset": "0.003", "f": "geojson"})
+          counties = get("https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?" + q)
+          polys = {}
+          for f in (counties or {}).get("features", []):
+              g = f["geometry"]
+              rings = g["coordinates"] if g["type"] == "Polygon" else [r for p in g["coordinates"] for r in p]
+              polys[f["properties"]["NAME"].replace(" County", "")] = rings
+          def inside(lon, lat, rings):
+              hit = False
+              for ring in rings:
+                  j = len(ring) - 1
+                  for i in range(len(ring)):
+                      xi, yi = ring[i]; xj, yj = ring[j]
+                      if (yi > lat) != (yj > lat) and lon < (xj - xi) * (lat - yi) / ((yj - yi) or 1e-12) + xi:
+                          hit = not hit
+                      j = i
+              return hit
+          def county_of(lat, lon):
+              return next((n for n, r in polys.items() if inside(lon, lat, r)), None)
+          out = {}
+          for it in req["items"]:
+              res = None
+              if it.get("address"):
+                  j = get("https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?" +
+                          urllib.parse.urlencode({"address": it["address"], "benchmark": "Public_AR_Current", "format": "json"}))
+                  try:
+                      c = j["result"]["addressMatches"][0]["coordinates"]
+                      res = {"lat": round(c["y"], 5), "lon": round(c["x"], 5), "precision": "address", "query": it["address"]}
+                  except Exception:
+                      res = None
+              if res is None and it.get("road"):
+                  want = it.get("county")
+                  for params in ({"street": it["road"], "city": it.get("city") or "", "state": "North Carolina"},
+                                 {"q": "%s, %s, North Carolina" % (it["road"], (want + " County") if want else (it.get("city") or ""))}):
+                      time.sleep(1.2)
+                      j = get("https://nominatim.openstreetmap.org/search?" +
+                              urllib.parse.urlencode(dict(params, format="jsonv2", limit="8", countrycodes="us")))
+                      cands = [(float(x["lat"]), float(x["lon"])) for x in (j or []) if isinstance(x, dict) and x.get("lat")]
+                      cands = [c for c in cands if county_of(*c) and (not want or county_of(*c) == want)]
+                      if cands:
+                          res = {"lat": round(cands[0][0], 5), "lon": round(cands[0][1], 5), "precision": "road", "query": it["road"]}
+                          break
+              if res:
+                  res["county"] = county_of(res["lat"], res["lon"])
+              out[str(it["id"])] = res
+          os.makedirs("geo-out", exist_ok=True)
+          with open("geo-out/geo-results.json", "w") as f:
+              json.dump({"token": os.environ.get("RUN_TOKEN", ""), "counties": counties, "results": out}, f)
+          print("placed", sum(1 for v in out.values() if v), "of", len(out), "| county outlines:", len(polys))
+
+      - name: Save the results on the geo-data branch
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          cd geo-out
+          git init -q -b geo-data
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add geo-results.json
+          git commit -q -m "Map location results"
+          git push -q -f "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" geo-data
