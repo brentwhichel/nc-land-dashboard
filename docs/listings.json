@@ -1168,12 +1168,10 @@
    "street": "Graham Rd",
    "city": "Candor",
    "zip": "27229",
-   "acres": 32.1,
+   "acres": 31.5,
    "price": 276727,
-   "ppa": 8621,
-   "alt": [
-    281998
-   ],
+   "ppa": 8785,
+   "alt": [],
    "status": "Active",
    "pendingOn": [],
    "lat": 35.18578,
@@ -1213,6 +1211,48 @@
   },
   {
    "id": 27,
+   "county": "Montgomery",
+   "street": "Graham Rd",
+   "city": "Candor",
+   "zip": "27229",
+   "acres": 32.1,
+   "price": 281998,
+   "ppa": 8785,
+   "alt": [],
+   "status": "Active",
+   "pendingOn": [],
+   "lat": 35.18578,
+   "lon": -79.79764,
+   "loc": "road",
+   "locq": "Graham",
+   "links": [
+    {
+     "site": "Realtor.com",
+     "url": "https://www.realtor.com/realestateandhomes-search/Montgomery-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
+     "direct": false
+    },
+    {
+     "site": "LandSearch",
+     "url": "https://www.landsearch.com/properties/montgomery-county-nc/filter/size[min]=10",
+     "direct": false
+    }
+   ],
+   "tags": [
+    "Land"
+   ],
+   "house": false,
+   "beds": null,
+   "baths": null,
+   "sqft": null,
+   "chg": "",
+   "dom": null,
+   "q": "Graham Rd, Candor, NC 27229",
+   "photo": null,
+   "photoCount": null,
+   "dist": 16
+  },
+  {
+   "id": 28,
    "county": "Montgomery",
    "street": "Center Baptist Church Rd",
    "city": "Jackson Springs",
@@ -1259,7 +1299,7 @@
    "dist": 20
   },
   {
-   "id": 28,
+   "id": 29,
    "county": "Montgomery",
    "street": "Track 11 Belford Church Rd",
    "city": "Jackson Springs",
@@ -1301,7 +1341,7 @@
    "dist": 20
   },
   {
-   "id": 29,
+   "id": 30,
    "county": "Montgomery",
    "street": "Deerfield Cir",
    "city": "Troy",
@@ -1348,7 +1388,7 @@
    "dist": 12
   },
   {
-   "id": 30,
+   "id": 31,
    "county": "Montgomery",
    "street": "164 Haines Rd",
    "city": "Jackson Springs",
@@ -1387,7 +1427,7 @@
    "dist": 21
   },
   {
-   "id": 31,
+   "id": 32,
    "county": "Montgomery",
    "street": "",
    "city": "Biscoe",
@@ -1424,7 +1464,7 @@
    "dist": null
   },
   {
-   "id": 32,
+   "id": 33,
    "county": "Montgomery",
    "street": "Brewer Farm Rd",
    "city": "Mount Gilead",
@@ -1479,7 +1519,7 @@
    "dist": 10
   },
   {
-   "id": 33,
+   "id": 34,
    "county": "Montgomery",
    "street": "130 Myers Dr",
    "city": "Candor",
@@ -1531,7 +1571,7 @@
    "dist": 20
   },
   {
-   "id": 34,
+   "id": 35,
    "county": "Montgomery",
    "street": "1910 NC Hwy 134 N",
    "city": "Troy",
@@ -1575,7 +1615,7 @@
    "dist": 17
   },
   {
-   "id": 35,
+   "id": 36,
    "county": "Montgomery",
    "street": "201 S Main St",
    "city": "Mount Gilead",
@@ -1617,7 +1657,7 @@
    "dist": 5
   },
   {
-   "id": 36,
+   "id": 37,
    "county": "Montgomery",
    "street": "Haltiwanger Retreat Rd",
    "city": "Troy",
@@ -1674,7 +1714,7 @@
    "dist": 10
   },
   {
-   "id": 37,
+   "id": 38,
    "county": "Montgomery",
    "street": "182 Lake View Dr",
    "city": "Star",
@@ -1716,7 +1756,7 @@
    "dist": 20
   },
   {
-   "id": 38,
+   "id": 39,
    "county": "Stanly",
    "street": "Riverview Rd",
    "city": "Norwood",
@@ -1761,7 +1801,7 @@
    "dist": 3
   },
   {
-   "id": 39,
+   "id": 40,
    "county": "Stanly",
    "street": "Wagoner Rd",
    "city": "Richfield",
@@ -1803,7 +1843,7 @@
    "dist": 20
   },
   {
-   "id": 40,
+   "id": 41,
    "county": "Stanly",
    "street": "03 Ramsey Rd",
    "city": "Albemarle",
@@ -1853,7 +1893,7 @@
    "dist": 13
   },
   {
-   "id": 41,
+   "id": 42,
    "county": "Stanly",
    "street": "Stony Gap Rd",
    "city": "Albemarle",
@@ -1905,7 +1945,7 @@
    "dist": 7
   },
   {
-   "id": 42,
+   "id": 43,
    "county": "Stanly",
    "street": "Joes Rd",
    "city": "Locust",
@@ -1944,7 +1984,7 @@
    "dist": 17
   },
   {
-   "id": 43,
+   "id": 44,
    "county": "Stanly",
    "street": "Lot 2 Griffin Greene Blvd",
    "city": "Oakboro",
@@ -1996,7 +2036,7 @@
    "dist": 16
   },
   {
-   "id": 44,
+   "id": 45,
    "county": "Stanly",
    "street": "Lot 3 Griffin Greene Blvd",
    "city": "Oakboro",
@@ -2043,7 +2083,7 @@
    "dist": 16
   },
   {
-   "id": 45,
+   "id": 46,
    "county": "Stanly",
    "street": "Lot 1 Griffin Greene Blvd",
    "city": "Oakboro",
@@ -2085,7 +2125,7 @@
    "dist": 16
   },
   {
-   "id": 46,
+   "id": 47,
    "county": "Stanly",
    "street": "37324 Barnhardt Rd",
    "city": "Albemarle",
@@ -2127,7 +2167,7 @@
    "dist": 13
   },
   {
-   "id": 47,
+   "id": 48,
    "county": "Stanly",
    "street": "16252 Eury Rd",
    "city": "Norwood",
@@ -2166,7 +2206,7 @@
    "dist": 5
   },
   {
-   "id": 48,
+   "id": 49,
    "county": "Stanly",
    "street": "Cottonville Rd",
    "city": "Norwood",
@@ -2218,7 +2258,7 @@
    "dist": 6
   },
   {
-   "id": 49,
+   "id": 50,
    "county": "Stanly",
    "street": "Southbound Rd",
    "city": "Albemarle",
@@ -2260,7 +2300,7 @@
    "dist": 6
   },
   {
-   "id": 50,
+   "id": 51,
    "county": "Stanly",
    "street": "104 Three Kings Way",
    "city": "Albemarle",
@@ -2302,7 +2342,7 @@
    "dist": 10
   },
   {
-   "id": 51,
+   "id": 52,
    "county": "Stanly",
    "street": "20125 Old Concord Rd",
    "city": "Albemarle",
@@ -2339,7 +2379,7 @@
    "dist": 17
   },
   {
-   "id": 52,
+   "id": 53,
    "county": "Stanly",
    "street": "Scallybark Rd",
    "city": "Albemarle",
@@ -2391,7 +2431,7 @@
    "dist": 11
   },
   {
-   "id": 53,
+   "id": 54,
    "county": "Stanly",
    "street": "12453 Barrier Store Rd",
    "city": "Mount Pleasant",
@@ -2438,7 +2478,7 @@
    "dist": 19
   },
   {
-   "id": 54,
+   "id": 55,
    "county": "Stanly",
    "street": "35893 Red Bird Rd",
    "city": "Albemarle",
@@ -2480,7 +2520,7 @@
    "dist": 12
   },
   {
-   "id": 55,
+   "id": 56,
    "county": "Stanly",
    "street": "Huneycutt Mill Rd",
    "city": "Albemarle",
@@ -2532,7 +2572,7 @@
    "dist": 7
   },
   {
-   "id": 56,
+   "id": 57,
    "county": "Stanly",
    "street": "Pond Rd",
    "city": "Locust",
@@ -2582,7 +2622,7 @@
    "dist": 18
   },
   {
-   "id": 57,
+   "id": 58,
    "county": "Stanly",
    "street": "Snuggs Park Rd",
    "city": "Albemarle",
@@ -2624,7 +2664,7 @@
    "dist": 12
   },
   {
-   "id": 58,
+   "id": 59,
    "county": "Stanly",
    "street": "Carriker Rd",
    "city": "Albemarle",
@@ -2679,7 +2719,7 @@
    "dist": 10
   },
   {
-   "id": 59,
+   "id": 60,
    "county": "Stanly",
    "street": "28315 Rowland Rd",
    "city": "Mount Pleasant",
@@ -2731,7 +2771,7 @@
    "dist": 18
   },
   {
-   "id": 60,
+   "id": 61,
    "county": "Stanly",
    "street": "Silver Rd",
    "city": "Oakboro",
@@ -2778,7 +2818,7 @@
    "dist": 15
   },
   {
-   "id": 61,
+   "id": 62,
    "county": "Stanly",
    "street": "Herlocker Rd",
    "city": "New London",
@@ -2830,7 +2870,7 @@
    "dist": 17
   },
   {
-   "id": 62,
+   "id": 63,
    "county": "Stanly",
    "street": "25838 Lingerfelt Rd",
    "city": "Albemarle",
@@ -2872,7 +2912,7 @@
    "dist": 14
   },
   {
-   "id": 63,
+   "id": 64,
    "county": "Stanly",
    "street": "Renee Ford Rd",
    "city": "Stanfield",
@@ -2914,7 +2954,7 @@
    "dist": 21
   },
   {
-   "id": 64,
+   "id": 65,
    "county": "Stanly",
    "street": "Pennington Rd",
    "city": "Albemarle",
@@ -2961,7 +3001,7 @@
    "dist": 12
   },
   {
-   "id": 65,
+   "id": 66,
    "county": "Stanly",
    "street": "Acorn Acres Rd",
    "city": "Norwood",
@@ -3013,7 +3053,7 @@
    "dist": 2
   },
   {
-   "id": 66,
+   "id": 67,
    "county": "Stanly",
    "street": "33949 Rocky River Rd",
    "city": "Norwood",
@@ -3055,7 +3095,7 @@
    "dist": 8
   },
   {
-   "id": 67,
+   "id": 68,
    "county": "Stanly",
    "street": "20743 Austin Rd",
    "city": "Albemarle",
@@ -3093,7 +3133,7 @@
    "dist": 14
   },
   {
-   "id": 68,
+   "id": 69,
    "county": "Stanly",
    "street": "Efird Rd",
    "city": "Endy",
@@ -3135,7 +3175,7 @@
    "dist": 11
   },
   {
-   "id": 69,
+   "id": 70,
    "county": "Stanly",
    "street": "State 24",
    "city": "Albemarle",
@@ -3177,7 +3217,7 @@
    "dist": 11
   },
   {
-   "id": 70,
+   "id": 71,
    "county": "Stanly",
    "street": "201 Oak St",
    "city": "Stanfield",
@@ -3214,7 +3254,7 @@
    "dist": 20
   },
   {
-   "id": 71,
+   "id": 72,
    "county": "Stanly",
    "street": "Bridge Rd",
    "city": "Mount Pleasant",
@@ -3251,7 +3291,7 @@
    "dist": 19
   },
   {
-   "id": 72,
+   "id": 73,
    "county": "Stanly",
    "street": "Ash St",
    "city": "Albemarle",
@@ -3293,7 +3333,7 @@
    "dist": 12
   },
   {
-   "id": 73,
+   "id": 74,
    "county": "Stanly",
    "street": "8511 Rocky River Rd",
    "city": "Oakboro",
@@ -3340,7 +3380,7 @@
    "dist": 14
   },
   {
-   "id": 74,
+   "id": 75,
    "county": "Stanly",
    "street": "32286 Laton Rd",
    "city": "Albemarle",
@@ -3382,7 +3422,7 @@
    "dist": 10
   },
   {
-   "id": 75,
+   "id": 76,
    "county": "Stanly",
    "street": "34272 Mabry Rd",
    "city": "Albemarle",
@@ -3419,7 +3459,7 @@
    "dist": 9
   },
   {
-   "id": 76,
+   "id": 77,
    "county": "Anson",
    "street": "Vintage Rd",
    "city": "Lilesville",
@@ -3456,7 +3496,7 @@
    "dist": 20
   },
   {
-   "id": 77,
+   "id": 78,
    "county": "Anson",
    "street": "Mt Vernon Rd",
    "city": "Ansonville",
@@ -3493,7 +3533,7 @@
    "dist": 10
   },
   {
-   "id": 78,
+   "id": 79,
    "county": "Anson",
    "street": "688 Mclendon Rd",
    "city": "Morven",
@@ -3530,7 +3570,7 @@
    "dist": 30
   },
   {
-   "id": 79,
+   "id": 80,
    "county": "Anson",
    "street": "2135 Stanback Ferry-Ice Plant Rd",
    "city": "Wadesboro",
@@ -3577,7 +3617,7 @@
    "dist": 18
   },
   {
-   "id": 80,
+   "id": 81,
    "county": "Anson",
    "street": "3145 Upper White Store Rd Unit 381",
    "city": "Peachland",
@@ -3614,7 +3654,7 @@
    "dist": 23
   },
   {
-   "id": 81,
+   "id": 82,
    "county": "Anson",
    "street": "Sneedsboro Rd",
    "city": "Morven",
@@ -3656,7 +3696,7 @@
    "dist": 29
   },
   {
-   "id": 82,
+   "id": 83,
    "county": "Anson",
    "street": "3232 Adams Rd",
    "city": "Morven",
@@ -3695,7 +3735,7 @@
    "dist": 29
   },
   {
-   "id": 83,
+   "id": 84,
    "county": "Anson",
    "street": "812 Mclendon Rd",
    "city": "Morven",
@@ -3732,7 +3772,7 @@
    "dist": 29
   },
   {
-   "id": 84,
+   "id": 85,
    "county": "Anson",
    "street": "Upper White Store Rd",
    "city": "Peachland",
@@ -3771,7 +3811,7 @@
    "dist": 23
   },
   {
-   "id": 85,
+   "id": 86,
    "county": "Anson",
    "street": "1456 Edwards Store Rd",
    "city": "Polkton",
@@ -3818,7 +3858,7 @@
    "dist": 15
   },
   {
-   "id": 86,
+   "id": 87,
    "county": "Anson",
    "street": "3909 Wightman Church Rd",
    "city": "Polkton",
@@ -3855,7 +3895,7 @@
    "dist": 9
   },
   {
-   "id": 87,
+   "id": 88,
    "county": "Anson",
    "street": "1440-2 Carl Taylor Rd",
    "city": "Peachland",
@@ -3892,7 +3932,7 @@
    "dist": 15
   },
   {
-   "id": 88,
+   "id": 89,
    "county": "Anson",
    "street": "247 German Hill Rd",
    "city": "Peachland",
@@ -3929,7 +3969,7 @@
    "dist": 19
   },
   {
-   "id": 89,
+   "id": 90,
    "county": "Anson",
    "street": "W Hwy 74",
    "city": "Wadesboro",
@@ -3966,7 +4006,7 @@
    "dist": 18
   },
   {
-   "id": 90,
+   "id": 91,
    "county": "Anson",
    "street": "1490 Pork Rd",
    "city": "Peachland",
@@ -4013,7 +4053,7 @@
    "dist": 15
   },
   {
-   "id": 91,
+   "id": 92,
    "county": "Richmond",
    "street": "188 Wentworth Pass Lot 105",
    "city": "Rockingham",
@@ -4050,7 +4090,7 @@
    "dist": 21
   },
   {
-   "id": 92,
+   "id": 93,
    "county": "Richmond",
    "street": "695 County Home Rd",
    "city": "Hamlet",
@@ -4092,7 +4132,7 @@
    "dist": 29
   },
   {
-   "id": 93,
+   "id": 94,
    "county": "Richmond",
    "street": "Cartledge Creek Rd (#100573244)",
    "city": "Rockingham",
@@ -4129,7 +4169,7 @@
    "dist": 26
   },
   {
-   "id": 94,
+   "id": 95,
    "county": "Richmond",
    "street": "Cartledge Creek Rd (#100573245)",
    "city": "Rockingham",
@@ -4166,7 +4206,7 @@
    "dist": 26
   },
   {
-   "id": 95,
+   "id": 96,
    "county": "Richmond",
    "street": "Cartledge Creek Rd (#100573247)",
    "city": "Rockingham",
@@ -4203,7 +4243,7 @@
    "dist": 26
   },
   {
-   "id": 96,
+   "id": 97,
    "county": "Richmond",
    "street": "Cartledge Creek Rd (#100573246)",
    "city": "Rockingham",
@@ -4240,7 +4280,7 @@
    "dist": 26
   },
   {
-   "id": 97,
+   "id": 98,
    "county": "Richmond",
    "street": "Us-220",
    "city": "Ellerbe",
@@ -4277,7 +4317,7 @@
    "dist": 22
   },
   {
-   "id": 98,
+   "id": 99,
    "county": "Richmond",
    "street": "Davis Haywood Rd",
    "city": "Mount Gilead",
@@ -4314,7 +4354,7 @@
    "dist": 9
   },
   {
-   "id": 99,
+   "id": 100,
    "county": "Richmond",
    "street": "Nicholson Rd",
    "city": "Rockingham",
@@ -4351,7 +4391,7 @@
    "dist": 26
   },
   {
-   "id": 100,
+   "id": 101,
    "county": "Richmond",
    "street": "Tract 2 Scholl Rd",
    "city": "Hamlet",
@@ -4388,7 +4428,7 @@
    "dist": 37
   },
   {
-   "id": 101,
+   "id": 102,
    "county": "Richmond",
    "street": "261 Springhill Church Rd",
    "city": "Hamlet",
@@ -4430,7 +4470,7 @@
    "dist": 35
   },
   {
-   "id": 102,
+   "id": 103,
    "county": "Richmond",
    "street": "John Moore Rd",
    "city": "Ellerbe",
@@ -4472,7 +4512,7 @@
    "dist": null
   },
   {
-   "id": 103,
+   "id": 104,
    "county": "Richmond",
    "street": "311 Green Rd",
    "city": "Ellerbe",
@@ -4514,7 +4554,7 @@
    "dist": 15
   },
   {
-   "id": 104,
+   "id": 105,
    "county": "Richmond",
    "street": "County Line Rd",
    "city": "Ellerbe",
@@ -4556,7 +4596,7 @@
    "dist": 20
   },
   {
-   "id": 105,
+   "id": 106,
    "county": "Richmond",
    "street": "Nicholson Rd",
    "city": "Rockingham",
@@ -4598,7 +4638,7 @@
    "dist": 26
   },
   {
-   "id": 106,
+   "id": 107,
    "county": "Richmond",
    "street": "Hwy74 Bypass Hwy 74 Interchange",
    "city": "Hamlet",
@@ -4635,7 +4675,7 @@
    "dist": null
   },
   {
-   "id": 107,
+   "id": 108,
    "county": "Richmond",
    "street": "E V Hogan Dr",
    "city": "Rockingham",
@@ -4677,7 +4717,7 @@
    "dist": 32
   },
   {
-   "id": 108,
+   "id": 109,
    "county": "Richmond",
    "street": "145 Horseshoe Rd",
    "city": "Rockingham",
@@ -4714,7 +4754,7 @@
    "dist": 30
   },
   {
-   "id": 109,
+   "id": 110,
    "county": "Richmond",
    "street": "234 Gin Mill Rd",
    "city": "Hamlet",
@@ -4751,7 +4791,7 @@
    "dist": 33
   },
   {
-   "id": 110,
+   "id": 111,
    "county": "Richmond",
    "street": "Hwy 1 N",
    "city": "Rockingham",
@@ -4788,7 +4828,7 @@
    "dist": 27
   },
   {
-   "id": 111,
+   "id": 112,
    "county": "Richmond",
    "street": "311 Louis Breeden Blvd",
    "city": "Hamlet",
@@ -4825,7 +4865,7 @@
    "dist": 34
   },
   {
-   "id": 112,
+   "id": 113,
    "county": "Richmond",
    "street": "Hwy 1 N",
    "city": "Rockingham",
@@ -4862,7 +4902,7 @@
    "dist": 27
   },
   {
-   "id": 113,
+   "id": 114,
    "county": "Richmond",
    "street": "1598 Marks Creek Church Rd",
    "city": "Laurel Hill",
@@ -4899,7 +4939,7 @@
    "dist": 36
   },
   {
-   "id": 114,
+   "id": 115,
    "county": "Richmond",
    "street": "490 Springhill Church Rd",
    "city": "Hamlet",
@@ -4936,7 +4976,7 @@
    "dist": 36
   },
   {
-   "id": 115,
+   "id": 116,
    "county": "Richmond",
    "street": "Us Hwy 1",
    "city": "Rockingham",
@@ -4975,7 +5015,7 @@
    "dist": 27
   },
   {
-   "id": 117,
+   "id": 118,
    "county": "Richmond",
    "street": "1780 N Us Hwy 1",
    "city": "Rockingham",
@@ -5014,7 +5054,7 @@
    "dist": 31
   },
   {
-   "id": 118,
+   "id": 119,
    "county": "Richmond",
    "street": "W US 74 Hwy",
    "city": "Rockingham",
@@ -5056,7 +5096,7 @@
    "dist": 26
   },
   {
-   "id": 119,
+   "id": 120,
    "county": "Richmond",
    "street": "",
    "city": "Ellerbe",
@@ -5093,7 +5133,7 @@
    "dist": null
   },
   {
-   "id": 120,
+   "id": 121,
    "county": "Rowan",
    "street": "Old Cress Rd",
    "city": "Salisbury",
@@ -5130,7 +5170,7 @@
    "dist": 38
   },
   {
-   "id": 121,
+   "id": 122,
    "county": "Rowan",
    "street": "",
    "city": "White Oak",
@@ -5167,7 +5207,7 @@
    "dist": 41
   },
   {
-   "id": 122,
+   "id": 123,
    "county": "Rowan",
    "street": "Stokes Ferry Rd",
    "city": "Gold Hill",
@@ -5214,7 +5254,7 @@
    "dist": 35
   },
   {
-   "id": 123,
+   "id": 124,
    "county": "Rowan",
    "street": "215 Rowan Rd",
    "city": "Cleveland",
@@ -5251,7 +5291,7 @@
    "dist": 51
   },
   {
-   "id": 124,
+   "id": 125,
    "county": "Rowan",
    "street": "675-J1 Chaffin Rd",
    "city": "Woodleaf",
@@ -5288,7 +5328,7 @@
    "dist": 50
   },
   {
-   "id": 125,
+   "id": 126,
    "county": "Rowan",
    "street": "5 Carson Rd",
    "city": "Cleveland",
@@ -5328,7 +5368,7 @@
    "dist": 48
   },
   {
-   "id": 126,
+   "id": 127,
    "county": "Rowan",
    "street": "Carson Rd Unit 3",
    "city": "Cleveland",
@@ -5365,7 +5405,7 @@
    "dist": 48
   },
   {
-   "id": 127,
+   "id": 128,
    "county": "Rowan",
    "street": "Carson Rd",
    "city": "Cleveland",
@@ -5402,7 +5442,7 @@
    "dist": 48
   },
   {
-   "id": 128,
+   "id": 129,
    "county": "Rowan",
    "street": "Carson Rd",
    "city": "Cleveland",
@@ -5439,7 +5479,7 @@
    "dist": 48
   },
   {
-   "id": 129,
+   "id": 130,
    "county": "Rowan",
    "street": "Carson Rd Unit 1",
    "city": "Cleveland",
@@ -5476,7 +5516,7 @@
    "dist": 48
   },
   {
-   "id": 130,
+   "id": 131,
    "county": "Rowan",
    "street": "Mahaley Rd",
    "city": "Salisbury",
@@ -5515,7 +5555,7 @@
    "dist": 35
   },
   {
-   "id": 131,
+   "id": 132,
    "county": "Rowan",
    "street": "Morgan Rd",
    "city": "Gold Hill",
@@ -5567,7 +5607,7 @@
    "dist": 25
   },
   {
-   "id": 132,
+   "id": 133,
    "county": "Rowan",
    "street": "Catawba Dr",
    "city": "Salisbury",
@@ -5609,7 +5649,7 @@
    "dist": 38
   },
   {
-   "id": 133,
+   "id": 134,
    "county": "Rowan",
    "street": "5 Carson Rd",
    "city": "Cleveland",
@@ -5648,7 +5688,7 @@
    "dist": 48
   },
   {
-   "id": 134,
+   "id": 135,
    "county": "Rowan",
    "street": "Dukemont St",
    "city": "Salisbury",
@@ -5690,7 +5730,7 @@
    "dist": 35
   },
   {
-   "id": 135,
+   "id": 136,
    "county": "Rowan",
    "street": "931 Mount Vernon Rd",
    "city": "Woodleaf",
@@ -5732,7 +5772,7 @@
    "dist": 50
   },
   {
-   "id": 136,
+   "id": 137,
    "county": "Rowan",
    "street": "Pasture Place",
    "city": "Bear Poplar",
@@ -5771,7 +5811,7 @@
    "dist": null
   },
   {
-   "id": 137,
+   "id": 138,
    "county": "Rowan",
    "street": "China Grove Hwy",
    "city": "Rockwell",
@@ -5808,7 +5848,7 @@
    "dist": 29
   },
   {
-   "id": 138,
+   "id": 139,
    "county": "Rowan",
    "street": "6 Ketchie Rd",
    "city": "Mount Ulla",
@@ -5845,7 +5885,7 @@
    "dist": 48
   },
   {
-   "id": 139,
+   "id": 140,
    "county": "Rowan",
    "street": "Raven Brook Way",
    "city": "Salisbury",
@@ -5882,7 +5922,7 @@
    "dist": 33
   },
   {
-   "id": 140,
+   "id": 141,
    "county": "Rowan",
    "street": "2870 Dunns Mountain Rd",
    "city": "Salisbury",
@@ -5919,7 +5959,7 @@
    "dist": 34
   },
   {
-   "id": 141,
+   "id": 142,
    "county": "Rowan",
    "street": "425 Mimosa St",
    "city": "Cleveland",
@@ -5956,7 +5996,7 @@
    "dist": 48
   },
   {
-   "id": 142,
+   "id": 143,
    "county": "Rowan",
    "street": "470 Gaskey Rd",
    "city": "Salisbury",
@@ -5995,7 +6035,7 @@
    "dist": 38
   },
   {
-   "id": 143,
+   "id": 144,
    "county": "Rowan",
    "street": "713 Eastbend Ln",
    "city": "Salisbury",
@@ -6032,7 +6072,7 @@
    "dist": 35
   },
   {
-   "id": 144,
+   "id": 145,
    "county": "Rowan",
    "street": "625 Dream Ln",
    "city": "Salisbury",
@@ -6076,7 +6116,7 @@
    "dist": 34
   },
   {
-   "id": 145,
+   "id": 146,
    "county": "Rowan",
    "street": "Barnhardt Rd",
    "city": "China Grove",
@@ -6118,7 +6158,7 @@
    "dist": 38
   },
   {
-   "id": 146,
+   "id": 147,
    "county": "Rowan",
    "street": "2565 Weaver Rd",
    "city": "China Grove",
@@ -6157,7 +6197,7 @@
    "dist": 41
   },
   {
-   "id": 147,
+   "id": 148,
    "county": "Rowan",
    "street": "Hwy 152 E",
    "city": "China Grove",
@@ -6194,7 +6234,7 @@
    "dist": 29
   },
   {
-   "id": 148,
+   "id": 149,
    "county": "Rowan",
    "street": "Bud Ln",
    "city": "China Grove",
@@ -6231,7 +6271,7 @@
    "dist": 35
   },
   {
-   "id": 149,
+   "id": 150,
    "county": "Rowan",
    "street": "Mooresville Rd",
    "city": "Mooresville",
@@ -6268,7 +6308,7 @@
    "dist": 37
   },
   {
-   "id": 150,
+   "id": 151,
    "county": "Rowan",
    "street": "Statesville Blvd",
    "city": "Salisbury",
@@ -6310,7 +6350,7 @@
    "dist": 40
   },
   {
-   "id": 151,
+   "id": 152,
    "county": "Rowan",
    "street": "1416 W A St",
    "city": "Kannapolis",
@@ -6352,7 +6392,7 @@
    "dist": 36
   },
   {
-   "id": 152,
+   "id": 153,
    "county": "Rowan",
    "street": "Old Bradshaw Rd",
    "city": "Salisbury",
@@ -6394,7 +6434,7 @@
    "dist": 41
   },
   {
-   "id": 153,
+   "id": 154,
    "county": "Rowan",
    "street": "2430 Grubb Ferry Rd",
    "city": "Salisbury",
@@ -6431,7 +6471,7 @@
    "dist": 39
   },
   {
-   "id": 154,
+   "id": 155,
    "county": "Rowan",
    "street": "6795 Jones Rd",
    "city": "Salisbury",
@@ -6468,7 +6508,7 @@
    "dist": 43
   },
   {
-   "id": 155,
+   "id": 156,
    "county": "Rowan",
    "street": "2955 Sherrills Ford Rd",
    "city": "Salisbury",
@@ -6505,7 +6545,7 @@
    "dist": 40
   },
   {
-   "id": 156,
+   "id": 157,
    "county": "Rowan",
    "street": "E NC 152 Hwy",
    "city": "Rockwell",
@@ -6547,7 +6587,7 @@
    "dist": 29
   },
   {
-   "id": 157,
+   "id": 158,
    "county": "Rowan",
    "street": "1175 McCoy Farm Rd",
    "city": "Salisbury",
@@ -6584,7 +6624,7 @@
    "dist": 35
   },
   {
-   "id": 158,
+   "id": 159,
    "county": "Rowan",
    "street": "625 Jackson Rd",
    "city": "Salisbury",
@@ -6621,7 +6661,7 @@
    "dist": 31
   },
   {
-   "id": 159,
+   "id": 160,
    "county": "Rowan",
    "street": "6650 Dellwood Dr",
    "city": "Kannapolis",
@@ -6658,7 +6698,7 @@
    "dist": 40
   },
   {
-   "id": 160,
+   "id": 161,
    "county": "Rowan",
    "street": "1125 Ballpark Dr",
    "city": "Mooresville",
@@ -6697,7 +6737,7 @@
    "dist": null
   },
   {
-   "id": 161,
+   "id": 162,
    "county": "Rowan",
    "street": "465 Baxx Dr",
    "city": "Salisbury",
@@ -6736,7 +6776,7 @@
    "dist": 40
   },
   {
-   "id": 162,
+   "id": 163,
    "county": "Rowan",
    "street": "801 Hwy",
    "city": "Bear Poplar",
