@@ -1,732 +1,11 @@
 {
- "asOf": "Nov 5, 2026, 8:45 AM CST",
+ "asOf": "Nov 6, 2026, 9:30 PM ET",
+ "criteria": "Montgomery, Stanly and Anson Counties NC; more than 25 acres; under $1,000,000; active; with a listing photo",
  "listings": [
   {
    "id": 1,
-   "key": "montgomery|drycreekrd|candor|10.0",
-   "county": "Montgomery",
-   "street": "Dry Creek Rd",
-   "city": "Candor",
-   "zip": "27229",
-   "acres": 10.0,
-   "price": 87850,
-   "ppa": 8785,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.22055,
-   "lon": -79.86834,
-   "loc": "road",
-   "locq": "Dry Crk",
-   "links": [
-    {
-     "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Montgomery-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
-     "direct": false
-    },
-    {
-     "site": "LandSearch",
-     "url": "https://www.landsearch.com/properties/montgomery-county-nc/filter/size[min]=10",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "",
-   "dom": null,
-   "q": "Dry Creek Rd, Candor, NC 27229",
-   "photo": null,
-   "photoCount": null,
-   "drive": 18.2,
-   "driveMin": 41
-  },
-  {
-   "id": 2,
-   "key": "montgomery|mountaingrovechurchrd|candor|10.7",
-   "county": "Montgomery",
-   "street": "Mountain Grove Church Rd",
-   "city": "Candor",
-   "zip": "27229",
-   "acres": 10.7,
-   "price": 93999,
-   "ppa": 8785,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": null,
-   "lon": null,
-   "loc": null,
-   "locq": "",
-   "links": [
-    {
-     "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Montgomery-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
-     "direct": false
-    },
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/montgomery-county-nc/land-for-sale/",
-     "direct": false
-    },
-    {
-     "site": "LandSearch",
-     "url": "https://www.landsearch.com/properties/montgomery-county-nc/filter/size[min]=10",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "",
-   "dom": null,
-   "q": "Mountain Grove Church Rd, Candor, NC 27229",
-   "photo": null,
-   "photoCount": null,
-   "drive": null,
-   "driveMin": null
-  },
-  {
-   "id": 3,
-   "key": "montgomery|grahamrd|candor|10.7",
-   "county": "Montgomery",
-   "street": "Graham Rd",
-   "city": "Candor",
-   "zip": "27229",
-   "acres": 10.7,
-   "price": 94000,
-   "ppa": 8785,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.18578,
-   "lon": -79.79764,
-   "loc": "road",
-   "locq": "Graham Rd",
-   "links": [
-    {
-     "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Montgomery-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
-     "direct": false
-    },
-    {
-     "site": "LandSearch",
-     "url": "https://www.landsearch.com/properties/montgomery-county-nc/filter/size[min]=10",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "",
-   "dom": null,
-   "q": "Graham Rd, Candor, NC 27229",
-   "photo": null,
-   "photoCount": null,
-   "drive": 24.1,
-   "driveMin": 56
-  },
-  {
-   "id": 6,
-   "key": "montgomery|drycreekrd|candor|18.4",
-   "county": "Montgomery",
-   "street": "Dry Creek Rd",
-   "city": "Candor",
-   "zip": "27336",
-   "acres": 18.36,
-   "price": 110160,
-   "ppa": 6000,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.20685,
-   "lon": -79.79175,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "Redfin",
-     "url": "https://www.redfin.com/NC/Candor/0-Dry-Creek-RD-27336/home/199977988",
-     "direct": true
-    },
-    {
-     "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Montgomery-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
-     "direct": false
-    },
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/montgomery-county-nc/land-for-sale/",
-     "direct": false
-    },
-    {
-     "site": "LandSearch",
-     "url": "https://www.landsearch.com/properties/montgomery-county-nc/filter/size[min]=10",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "",
-   "dom": 291,
-   "q": "Dry Creek Rd, Candor, NC 27336",
-   "photo": null,
-   "photoCount": null,
-   "drive": 22.5,
-   "driveMin": 49
-  },
-  {
-   "id": 8,
-   "key": "montgomery|2141nc731|candor|18.6",
-   "county": "Montgomery",
-   "street": "2141 NC 731",
-   "city": "Candor",
-   "zip": "27229",
-   "acres": 18.57,
-   "price": 111420,
-   "ppa": 6000,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.23323,
-   "lon": -79.79266,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/montgomery-county-north-carolina-timberland-property-for-sale/pid/428223558",
-     "direct": true
-    },
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/montgomery-county-nc/land-for-sale/",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Hunting",
-    "Timberland"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "",
-   "dom": 49,
-   "q": "2141 NC 731, Candor, NC 27229",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6519724574",
-   "photoCount": 28,
-   "drive": 23.0,
-   "driveMin": 49
-  },
-  {
-   "id": 9,
-   "key": "montgomery|bowdendr|candor|22.4",
-   "county": "Montgomery",
-   "street": "Bowden Dr",
-   "city": "Candor",
-   "zip": "27229",
-   "acres": 22.43,
-   "price": 112150,
-   "ppa": 5000,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.21097,
-   "lon": -79.79246,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "Redfin",
-     "url": "https://www.redfin.com/NC/Candor/Dry-Creek-Rd-27229/home/65331974",
-     "direct": true
-    },
-    {
-     "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Montgomery-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
-     "direct": false
-    },
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/montgomery-county-nc/land-for-sale/",
-     "direct": false
-    },
-    {
-     "site": "LandSearch",
-     "url": "https://www.landsearch.com/properties/montgomery-county-nc/filter/size[min]=10",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "",
-   "dom": 292,
-   "q": "Bowden Dr, Candor, NC 27229",
-   "photo": null,
-   "photoCount": null,
-   "drive": 22.3,
-   "driveMin": 49
-  },
-  {
-   "id": 11,
-   "key": "montgomery|nc731|mount gilead|20.3",
-   "county": "Montgomery",
-   "street": "NC 731",
-   "city": "Mount Gilead",
-   "zip": "27371",
-   "acres": 20.31,
-   "price": 120000,
-   "ppa": 5908,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.20531,
-   "lon": -79.89865,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/montgomery-county-north-carolina-recreational-property-for-sale/pid/428594230",
-     "direct": true
-    },
-    {
-     "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Montgomery-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Hunting",
-    "Recreational"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "",
-   "dom": 14,
-   "q": "NC 731, Mount Gilead, NC 27371",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6589350616",
-   "photoCount": 29,
-   "drive": 15.6,
-   "driveMin": 35
-  },
-  {
-   "id": 13,
-   "key": "montgomery|lot3capelsierd|candor|12.9",
-   "county": "Montgomery",
-   "street": "Lot 3 Capelsie Rd",
-   "city": "Candor",
-   "zip": "27229",
-   "acres": 12.94,
-   "price": 125000,
-   "ppa": 9660,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.25628,
-   "lon": -79.79982,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/montgomery-county-north-carolina-undeveloped-land-for-sale/pid/428627629",
-     "direct": true
-    },
-    {
-     "site": "Redfin",
-     "url": "https://www.redfin.com/NC/Candor/Lot-3-Capelsie-Rd-27229/home/206655673",
-     "direct": true
-    },
-    {
-     "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Montgomery-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
-     "direct": false
-    },
-    {
-     "site": "LandSearch",
-     "url": "https://www.landsearch.com/properties/montgomery-county-nc/filter/size[min]=10",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "",
-   "dom": 11,
-   "q": "Lot 3 Capelsie Rd, Candor, NC 27229",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6620662334",
-   "photoCount": 8,
-   "drive": 23.1,
-   "driveMin": 59
-  },
-  {
-   "id": 14,
-   "key": "montgomery|pleasantvalleyrd|mount gilead|17.3",
-   "county": "Montgomery",
-   "street": "Pleasant Valley Rd",
-   "city": "Mount Gilead",
-   "zip": "27306",
-   "acres": 17.3,
-   "price": 140000,
-   "ppa": 8092,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.21713,
-   "lon": -80.01298,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/montgomery-county-north-carolina-undeveloped-land-for-sale/pid/428684966",
-     "direct": true
-    },
-    {
-     "site": "Redfin",
-     "url": "https://www.redfin.com/NC/Mount-Gilead/Pleasant-Valley-Rd-27306/home/65328506",
-     "direct": true
-    },
-    {
-     "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Montgomery-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
-     "direct": false
-    },
-    {
-     "site": "LandSearch",
-     "url": "https://www.landsearch.com/properties/montgomery-county-nc/filter/size[min]=10",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "",
-   "dom": 5,
-   "q": "Pleasant Valley Rd, Mount Gilead, NC 27306",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6610261496",
-   "photoCount": 13,
-   "drive": 10.0,
-   "driveMin": 27
-  },
-  {
-   "id": 16,
-   "key": "montgomery|pleasantvalleyrd|mount gilead|17.7",
-   "county": "Montgomery",
-   "street": "Pleasant Valley Rd",
-   "city": "Mount Gilead",
-   "zip": "27306",
-   "acres": 17.74,
-   "price": 149999,
-   "ppa": 8455,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.21856,
-   "lon": -80.00993,
-   "loc": "road",
-   "locq": "Pleasant Valley Rd",
-   "links": [
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/montgomery-county-nc/land-for-sale/",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "$190K PRICE DROP",
-   "dom": null,
-   "q": "Pleasant Valley Rd, Mount Gilead, NC 27306",
-   "photo": null,
-   "photoCount": null,
-   "drive": 9.8,
-   "driveMin": 26
-  },
-  {
-   "id": 17,
-   "key": "montgomery|mountaingrovechurchrd|candor|17.9",
-   "county": "Montgomery",
-   "street": "Mountain Grove Church Rd",
-   "city": "Candor",
-   "zip": "27229",
-   "acres": 17.9,
-   "price": 157251,
-   "ppa": 8785,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": null,
-   "lon": null,
-   "loc": null,
-   "locq": "",
-   "links": [
-    {
-     "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Montgomery-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
-     "direct": false
-    },
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/montgomery-county-nc/land-for-sale/",
-     "direct": false
-    },
-    {
-     "site": "LandSearch",
-     "url": "https://www.landsearch.com/properties/montgomery-county-nc/filter/size[min]=10",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "",
-   "dom": null,
-   "q": "Mountain Grove Church Rd, Candor, NC 27229",
-   "photo": null,
-   "photoCount": null,
-   "drive": null,
-   "driveMin": null
-  },
-  {
-   "id": 18,
-   "key": "montgomery|lot6capelsierd|candor|13.4",
-   "county": "Montgomery",
-   "street": "Lot 6 Capelsie Rd",
-   "city": "Candor",
-   "zip": "27229",
-   "acres": 13.43,
-   "price": 165000,
-   "ppa": 12286,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.31761,
-   "lon": -79.87582,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/montgomery-county-north-carolina-undeveloped-land-for-sale/pid/428627630",
-     "direct": true
-    },
-    {
-     "site": "Redfin",
-     "url": "https://www.redfin.com/NC/Candor/Lot-6-Capelsie-Rd-27229/home/206656746",
-     "direct": true
-    },
-    {
-     "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Montgomery-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
-     "direct": false
-    },
-    {
-     "site": "LandSearch",
-     "url": "https://www.landsearch.com/properties/montgomery-county-nc/filter/size[min]=10",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Lakefront",
-    "Waterfront"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "",
-   "dom": 11,
-   "q": "Lot 6 Capelsie Rd, Candor, NC 27229",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6620662390",
-   "photoCount": 12,
-   "drive": 19.2,
-   "driveMin": 40
-  },
-  {
-   "id": 21,
-   "key": "montgomery|mcleodrd|mount gilead|18.0",
-   "county": "Montgomery",
-   "street": "McLeod Rd",
-   "city": "Mount Gilead",
-   "zip": "27306",
-   "acres": 18.0,
-   "price": 190000,
-   "ppa": 10556,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.30629,
-   "lon": -79.96146,
-   "loc": "road",
-   "locq": "McLeod Rd",
-   "links": [
-    {
-     "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Montgomery-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
-     "direct": false
-    },
-    {
-     "site": "LandSearch",
-     "url": "https://www.landsearch.com/properties/montgomery-county-nc/filter/size[min]=10",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "",
-   "dom": null,
-   "q": "McLeod Rd, Mount Gilead, NC 27306",
-   "photo": null,
-   "photoCount": null,
-   "drive": 15.3,
-   "driveMin": 31
-  },
-  {
-   "id": 25,
-   "key": "montgomery|grahamrd|candor|31.5",
-   "county": "Montgomery",
-   "street": "Graham Rd",
-   "city": "Candor",
-   "zip": "27229",
-   "acres": 31.5,
-   "price": 276727,
-   "ppa": 8785,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.18578,
-   "lon": -79.79764,
-   "loc": "road",
-   "locq": "Graham Rd",
-   "links": [
-    {
-     "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Montgomery-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
-     "direct": false
-    },
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/montgomery-county-nc/land-for-sale/",
-     "direct": false
-    },
-    {
-     "site": "LandSearch",
-     "url": "https://www.landsearch.com/properties/montgomery-county-nc/filter/size[min]=10",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "",
-   "dom": null,
-   "q": "Graham Rd, Candor, NC 27229",
-   "photo": null,
-   "photoCount": null,
-   "drive": 24.1,
-   "driveMin": 56
-  },
-  {
-   "id": 26,
-   "key": "montgomery|grahamrd|candor|32.1",
-   "county": "Montgomery",
-   "street": "Graham Rd",
-   "city": "Candor",
-   "zip": "27229",
-   "acres": 32.1,
-   "price": 281998,
-   "ppa": 8785,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.18578,
-   "lon": -79.79764,
-   "loc": "road",
-   "locq": "Graham",
-   "links": [
-    {
-     "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Montgomery-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
-     "direct": false
-    },
-    {
-     "site": "LandSearch",
-     "url": "https://www.landsearch.com/properties/montgomery-county-nc/filter/size[min]=10",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "",
-   "dom": null,
-   "q": "Graham Rd, Candor, NC 27229",
-   "photo": null,
-   "photoCount": null,
-   "drive": 24.1,
-   "driveMin": 56
-  },
-  {
-   "id": 27,
    "key": "montgomery|centerbaptistchurchrd|jackson springs|31.0",
+   "aliases": [],
    "county": "Montgomery",
    "street": "Center Baptist Church Rd",
    "city": "Jackson Springs",
@@ -748,13 +27,13 @@
      "direct": true
     },
     {
-     "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Montgomery-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
-     "direct": false
+     "site": "Redfin",
+     "url": "https://www.redfin.com/NC/Jackson-Springs/Center-Baptist-Church-Rd-27281/home/65340037",
+     "direct": true
     },
     {
-     "site": "LandSearch",
-     "url": "https://www.landsearch.com/properties/montgomery-county-nc/filter/size[min]=10",
+     "site": "Realtor.com",
+     "url": "https://www.realtor.com/realestateandhomes-search/Montgomery-County_NC/type-land/price-na-1000000/lot-sqft-1089000-na",
      "direct": false
     }
    ],
@@ -766,109 +45,18 @@
    "baths": null,
    "sqft": null,
    "chg": "$20K price drop",
-   "dom": 364,
+   "dom": 366,
    "q": "Center Baptist Church Rd, Jackson Springs, NC 27281",
    "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-5972976480",
    "photoCount": 8,
+   "photoSrc": "LandWatch",
    "drive": 30.9,
    "driveMin": 54
   },
   {
-   "id": 28,
-   "key": "montgomery|track11belfordchurchrd|jackson springs|10.3",
-   "county": "Montgomery",
-   "street": "Track 11 Belford Church Rd",
-   "city": "Jackson Springs",
-   "zip": "27281",
-   "acres": 10.28,
-   "price": 325000,
-   "ppa": 31615,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.22772,
-   "lon": -79.72541,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/montgomery-county-north-carolina-homes-for-sale/pid/426877646",
-     "direct": true
-    },
-    {
-     "site": "LandSearch",
-     "url": "https://www.landsearch.com/properties/montgomery-county-nc/filter/size[min]=10",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "House"
-   ],
-   "house": true,
-   "beds": 3.0,
-   "baths": 2.0,
-   "sqft": 1792,
-   "chg": "",
-   "dom": 159,
-   "q": "Track 11 Belford Church Rd, Jackson Springs, NC 27281",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6223648896",
-   "photoCount": 9,
-   "drive": 33.4,
-   "driveMin": 57
-  },
-  {
-   "id": 29,
-   "key": "montgomery|deerfieldcir|troy|21.4",
-   "county": "Montgomery",
-   "street": "Deerfield Cir",
-   "city": "Troy",
-   "zip": "27371",
-   "acres": 21.44,
-   "price": 364500,
-   "ppa": 17001,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.35327,
-   "lon": -79.92734,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/montgomery-county-north-carolina-undeveloped-land-for-sale/pid/426351438",
-     "direct": true
-    },
-    {
-     "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Montgomery-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
-     "direct": false
-    },
-    {
-     "site": "LandSearch",
-     "url": "https://www.landsearch.com/properties/montgomery-county-nc/filter/size[min]=10",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "",
-   "dom": 204,
-   "q": "Deerfield Cir, Troy, NC 27371",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6114891773",
-   "photoCount": 2,
-   "drive": 16.9,
-   "driveMin": 37
-  },
-  {
-   "id": 30,
+   "id": 2,
    "key": "montgomery|164hainesrd|jackson springs|50.0",
+   "aliases": [],
    "county": "Montgomery",
    "street": "164 Haines Rd",
    "city": "Jackson Springs",
@@ -900,55 +88,18 @@
    "baths": 1.0,
    "sqft": null,
    "chg": "$64K price drop",
-   "dom": 343,
+   "dom": 345,
    "q": "164 Haines Rd, Jackson Springs, NC 27281",
    "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-5892858203",
    "photoCount": 29,
+   "photoSrc": "LandWatch",
    "drive": 34.9,
    "driveMin": 62
   },
   {
-   "id": 31,
-   "key": "montgomery||biscoe|13.7",
-   "county": "Montgomery",
-   "street": "",
-   "city": "Biscoe",
-   "zip": "27209",
-   "acres": 13.7,
-   "price": 489000,
-   "ppa": 35693,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": null,
-   "lon": null,
-   "loc": null,
-   "locq": "",
-   "links": [
-    {
-     "site": "LandSearch",
-     "url": "https://www.landsearch.com/properties/montgomery-county-nc/filter/size[min]=10",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "",
-   "dom": null,
-   "q": "Biscoe, NC 27209",
-   "photo": null,
-   "photoCount": null,
-   "drive": null,
-   "driveMin": null
-  },
-  {
-   "id": 32,
+   "id": 3,
    "key": "montgomery|brewerfarmrd|mount gilead|30.0",
+   "aliases": [],
    "county": "Montgomery",
    "street": "Brewer Farm Rd",
    "city": "Mount Gilead",
@@ -970,13 +121,13 @@
      "direct": true
     },
     {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/montgomery-county-nc/land-for-sale/",
+     "site": "Realtor.com",
+     "url": "https://www.realtor.com/realestateandhomes-search/Montgomery-County_NC/type-land/price-na-1000000/lot-sqft-1089000-na",
      "direct": false
     },
     {
-     "site": "LandSearch",
-     "url": "https://www.landsearch.com/properties/montgomery-county-nc/filter/size[min]=10",
+     "site": "Homes.com",
+     "url": "https://www.homes.com/montgomery-county-nc/land-for-sale/",
      "direct": false
     }
    ],
@@ -991,49 +142,48 @@
    "baths": null,
    "sqft": null,
    "chg": "",
-   "dom": 317,
+   "dom": 319,
    "q": "Brewer Farm Rd, Mount Gilead, NC 27306",
    "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-5910507431",
    "photoCount": 1,
+   "photoSrc": "LandWatch",
    "drive": 15.9,
    "driveMin": 37
   },
   {
-   "id": 33,
-   "key": "montgomery|130myersdr|candor|13.1",
+   "id": 4,
+   "key": "montgomery|2939nchwy134n|troy|105.0",
+   "aliases": [],
    "county": "Montgomery",
-   "street": "130 Myers Dr",
-   "city": "Candor",
-   "zip": "27229",
-   "acres": 13.11,
-   "price": 499900,
-   "ppa": 38131,
-   "alt": [],
+   "street": "2939 NC Hwy 134 N",
+   "city": "Troy",
+   "zip": "27371",
+   "acres": 105.0,
+   "price": 680000,
+   "ppa": 6476,
+   "alt": [
+    720000
+   ],
    "status": "Active",
    "pendingOn": [],
-   "lat": 35.29481,
-   "lon": -79.7299,
+   "lat": 35.44585,
+   "lon": -79.87613,
    "loc": "listing",
    "locq": "",
    "links": [
     {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/montgomery-county-north-carolina-undeveloped-land-for-sale/pid/428372689",
+     "site": "Redfin",
+     "url": "https://www.redfin.com/NC/Troy/2939-N-Carolina-134-27371/home/202655244",
      "direct": true
     },
     {
      "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Montgomery-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
+     "url": "https://www.realtor.com/realestateandhomes-search/Montgomery-County_NC/type-land/price-na-1000000/lot-sqft-1089000-na",
      "direct": false
     },
     {
      "site": "Homes.com",
      "url": "https://www.homes.com/montgomery-county-nc/land-for-sale/",
-     "direct": false
-    },
-    {
-     "site": "LandSearch",
-     "url": "https://www.landsearch.com/properties/montgomery-county-nc/filter/size[min]=10",
      "direct": false
     }
    ],
@@ -1045,143 +195,99 @@
    "baths": null,
    "sqft": null,
    "chg": "",
-   "dom": 35,
-   "q": "130 Myers Dr, Candor, NC 27229",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6543099229",
+   "dom": 123,
+   "q": "2939 NC Hwy 134 N, Troy, NC 27371",
+   "photo": "https://ssl.cdn-redfin.com/photo/103/mbphotov3/798/genMid.4400798_2.jpg",
    "photoCount": 7,
-   "drive": 29.3,
-   "driveMin": 50
+   "photoSrc": "Redfin",
+   "drive": 24.2,
+   "driveMin": 46
   },
   {
-   "id": 35,
-   "key": "montgomery|201smainst|mount gilead|14.0",
+   "id": 5,
+   "key": "montgomery|ophirrd|troy|147.7",
+   "aliases": [],
    "county": "Montgomery",
-   "street": "201 S Main St",
-   "city": "Mount Gilead",
-   "zip": "27306",
-   "acres": 14.0,
-   "price": 589750,
-   "ppa": 42125,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.21217,
-   "lon": -80.00052,
-   "loc": "address",
-   "locq": "201 S Main St, Mount Gilead, NC 27306",
-   "links": [
-    {
-     "site": "LandSearch",
-     "url": "https://www.landsearch.com/properties/montgomery-county-nc/filter/size[min]=10",
-     "direct": false
-    },
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/richmond-county-north-carolina-homes-for-sale/pid/428078635",
-     "direct": true
-    }
-   ],
-   "tags": [
-    "House"
-   ],
-   "house": true,
-   "beds": 3.0,
-   "baths": 2.0,
-   "sqft": 3702,
-   "chg": "",
-   "dom": null,
-   "q": "201 S Main St, Mount Gilead, NC 27306",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6620752859",
-   "photoCount": 34,
-   "drive": 9.4,
-   "driveMin": 25
-  },
-  {
-   "id": 36,
-   "key": "montgomery|haltiwangerretreatrd|troy|15.5",
-   "county": "Montgomery",
-   "street": "Haltiwanger Retreat Rd",
+   "street": "Ophir Rd",
    "city": "Troy",
    "zip": "27371",
-   "acres": 15.54,
-   "price": 595000,
-   "ppa": 38288,
+   "acres": 147.74,
+   "price": 725000,
+   "ppa": 4907,
    "alt": [],
    "status": "Active",
    "pendingOn": [],
-   "lat": 35.38426,
-   "lon": -80.05848,
+   "lat": 35.46962,
+   "lon": -80.00671,
    "loc": "listing",
    "locq": "",
    "links": [
     {
      "site": "LandWatch",
-     "url": "https://www.landwatch.com/montgomery-county-north-carolina-undeveloped-land-for-sale/pid/427242524",
+     "url": "https://www.landwatch.com/montgomery-county-north-carolina-undeveloped-land-for-sale/pid/424832523",
      "direct": true
     },
     {
      "site": "Redfin",
-     "url": "https://www.redfin.com/NC/Troy/Tbd-Haltiwanger-Retreat-Rd-27371/home/202372533",
+     "url": "https://www.redfin.com/NC/Troy/Tbd-Ophir-Rd-27371/home/193765642",
      "direct": true
     },
     {
      "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Montgomery-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
-     "direct": false
-    },
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/montgomery-county-nc/land-for-sale/",
-     "direct": false
-    },
-    {
-     "site": "LandSearch",
-     "url": "https://www.landsearch.com/properties/montgomery-county-nc/filter/size[min]=10",
+     "url": "https://www.realtor.com/realestateandhomes-search/Montgomery-County_NC/type-land/price-na-1000000/lot-sqft-1089000-na",
      "direct": false
     }
    ],
    "tags": [
-    "Land"
+    "Lakefront",
+    "Waterfront"
    ],
    "house": false,
    "beds": null,
    "baths": null,
    "sqft": null,
-   "chg": "",
-   "dom": 132,
-   "q": "Haltiwanger Retreat Rd, Troy, NC 27371",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6294121672",
-   "photoCount": 21,
-   "drive": 23.7,
-   "driveMin": 112
+   "chg": "$84K price drop",
+   "dom": 368,
+   "q": "Ophir Rd, Troy, NC 27371",
+   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-5859470382",
+   "photoCount": 4,
+   "photoSrc": "LandWatch",
+   "drive": 20.8,
+   "driveMin": 42
   },
   {
-   "id": 37,
-   "key": "montgomery|182lakeviewdr|star|26.0",
+   "id": 6,
+   "key": "montgomery|ncarolina731|candor|173.2",
+   "aliases": [],
    "county": "Montgomery",
-   "street": "182 Lake View Dr",
-   "city": "Star",
-   "zip": "27356",
-   "acres": 26.0,
-   "price": 1050000,
-   "ppa": 40385,
+   "street": "NC 731",
+   "city": "Candor",
+   "zip": "27229",
+   "acres": 173.23,
+   "price": 890910,
+   "ppa": 5143,
    "alt": [],
    "status": "Active",
    "pendingOn": [],
-   "lat": 35.41502,
-   "lon": -79.79808,
-   "loc": "address",
-   "locq": "182 Lake View Dr, Star, NC 27356",
+   "lat": 35.21088,
+   "lon": -79.80946,
+   "loc": "listing",
+   "locq": "",
    "links": [
+    {
+     "site": "Redfin",
+     "url": "https://www.redfin.com/NC/Candor/NC-Highway-731-E-27229/home/65338202",
+     "direct": true
+    },
+    {
+     "site": "Realtor.com",
+     "url": "https://www.realtor.com/realestateandhomes-search/Montgomery-County_NC/type-land/price-na-1000000/lot-sqft-1089000-na",
+     "direct": false
+    },
     {
      "site": "Homes.com",
      "url": "https://www.homes.com/montgomery-county-nc/land-for-sale/",
      "direct": false
-    },
-    {
-     "site": "LandSearch",
-     "url": "https://www.landsearch.com/properties/montgomery-county-nc/filter/size[min]=10",
-     "direct": false
     }
    ],
    "tags": [
@@ -1191,362 +297,19 @@
    "beds": null,
    "baths": null,
    "sqft": null,
-   "chg": "$20K PRICE INCREASE",
-   "dom": null,
-   "q": "182 Lake View Dr, Star, NC 27356",
-   "photo": null,
-   "photoCount": null,
-   "drive": 29.7,
-   "driveMin": 55
+   "chg": "$99K PRICE DROP",
+   "dom": 191,
+   "q": "NC 731, Candor, NC 27229",
+   "photo": "https://ssl.cdn-redfin.com/photo/103/mbphotov3/741/genMid.4375741_1.jpg",
+   "photoCount": 48,
+   "photoSrc": "Redfin",
+   "drive": 20.9,
+   "driveMin": 45
   },
   {
-   "id": 39,
-   "key": "stanly|wagonerrd|richfield|14.0",
-   "county": "Stanly",
-   "street": "Wagoner Rd",
-   "city": "Richfield",
-   "zip": "28137",
-   "acres": 14.0,
-   "price": 199900,
-   "ppa": 14279,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.4776,
-   "lon": -80.27797,
-   "loc": "road",
-   "locq": "Wagoner Rd",
-   "links": [
-    {
-     "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Stanly-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
-     "direct": false
-    },
-    {
-     "site": "LandSearch",
-     "url": "https://www.landsearch.com/properties/stanly-county-nc/filter/size[min]=10",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "",
-   "dom": null,
-   "q": "Wagoner Rd, Richfield, NC 28137",
-   "photo": null,
-   "photoCount": null,
-   "drive": 24.8,
-   "driveMin": 46
-  },
-  {
-   "id": 40,
-   "key": "stanly|03ramseyrd|albemarle|12.9",
-   "county": "Stanly",
-   "street": "03 Ramsey Rd",
-   "city": "Albemarle",
-   "zip": "28001",
-   "acres": 12.92,
-   "price": 238928,
-   "ppa": 18493,
-   "alt": [],
-   "status": "Check status",
-   "pendingOn": [
-    "LandWatch"
-   ],
-   "lat": 35.31792,
-   "lon": -80.29661,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/stanly-county-north-carolina-undeveloped-land-for-sale/pid/426685562",
-     "direct": true
-    },
-    {
-     "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Stanly-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
-     "direct": false
-    },
-    {
-     "site": "LandSearch",
-     "url": "https://www.landsearch.com/properties/stanly-county-nc/filter/size[min]=10",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "",
-   "dom": 175,
-   "q": "03 Ramsey Rd, Albemarle, NC 28001",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6183825265",
-   "photoCount": 23,
-   "drive": 21.2,
-   "driveMin": 46
-  },
-  {
-   "id": 41,
-   "key": "stanly|stonygaprd|albemarle|10.3",
-   "county": "Stanly",
-   "street": "Stony Gap Rd",
-   "city": "Albemarle",
-   "zip": "28001",
-   "acres": 10.35,
-   "price": 240000,
-   "ppa": 23188,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.31784,
-   "lon": -80.1584,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/stanly-county-north-carolina-undeveloped-land-for-sale/pid/426551302",
-     "direct": true
-    },
-    {
-     "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Stanly-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
-     "direct": false
-    },
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/stanly-county-nc/land-for-sale/",
-     "direct": false
-    },
-    {
-     "site": "LandSearch",
-     "url": "https://www.landsearch.com/properties/stanly-county-nc/filter/size[min]=10",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "",
-   "dom": 187,
-   "q": "Stony Gap Rd, Albemarle, NC 28001",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6156299178",
-   "photoCount": 9,
-   "drive": 12.2,
-   "driveMin": 31
-  },
-  {
-   "id": 43,
-   "key": "stanly|lot2griffingreeneblvd|oakboro|11.3",
-   "county": "Stanly",
-   "street": "Lot 2 Griffin Greene Blvd",
-   "city": "Oakboro",
-   "zip": "28163",
-   "acres": 11.3,
-   "price": 249900,
-   "ppa": 22115,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.20052,
-   "lon": -80.35802,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/stanly-county-north-carolina-undeveloped-land-for-sale/pid/428549951",
-     "direct": true
-    },
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/stanly-county-nc/land-for-sale/",
-     "direct": false
-    },
-    {
-     "site": "LandSearch",
-     "url": "https://www.landsearch.com/properties/stanly-county-nc/filter/size[min]=10",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "",
-   "dom": 18,
-   "q": "Lot 2 Griffin Greene Blvd, Oakboro, NC 28163",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6580379982",
-   "photoCount": 5,
-   "drive": 30.8,
-   "driveMin": 59
-  },
-  {
-   "id": 44,
-   "key": "stanly|lot3griffingreeneblvd|oakboro|11.3",
-   "county": "Stanly",
-   "street": "Lot 3 Griffin Greene Blvd",
-   "city": "Oakboro",
-   "zip": "28163",
-   "acres": 11.3,
-   "price": 249900,
-   "ppa": 22115,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.19998,
-   "lon": -80.35795,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/stanly-county-north-carolina-undeveloped-land-for-sale/pid/428547173",
-     "direct": true
-    },
-    {
-     "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Stanly-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
-     "direct": false
-    },
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/stanly-county-nc/land-for-sale/",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "",
-   "dom": 19,
-   "q": "Lot 3 Griffin Greene Blvd, Oakboro, NC 28163",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6580224768",
-   "photoCount": 5,
-   "drive": 32.3,
-   "driveMin": 59
-  },
-  {
-   "id": 45,
-   "key": "stanly|lot1griffingreeneblvd|oakboro|11.3",
-   "county": "Stanly",
-   "street": "Lot 1 Griffin Greene Blvd",
-   "city": "Oakboro",
-   "zip": "28163",
-   "acres": 11.3,
-   "price": 249900,
-   "ppa": 22115,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.20006,
-   "lon": -80.35789,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/stanly-county-north-carolina-undeveloped-land-for-sale/pid/428546837",
-     "direct": true
-    },
-    {
-     "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Stanly-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "",
-   "dom": 19,
-   "q": "Lot 1 Griffin Greene Blvd, Oakboro, NC 28163",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6580204942",
-   "photoCount": 5,
-   "drive": 32.3,
-   "driveMin": 59
-  },
-  {
-   "id": 48,
-   "key": "stanly|cottonvillerd|norwood|21.3",
-   "county": "Stanly",
-   "street": "Cottonville Rd",
-   "city": "Norwood",
-   "zip": "28128",
-   "acres": 21.34,
-   "price": 290000,
-   "ppa": 13590,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.20778,
-   "lon": -80.18345,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/stanly-county-north-carolina-undeveloped-land-for-sale/pid/424609358",
-     "direct": true
-    },
-    {
-     "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Stanly-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
-     "direct": false
-    },
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/stanly-county-nc/land-for-sale/",
-     "direct": false
-    },
-    {
-     "site": "LandSearch",
-     "url": "https://www.landsearch.com/properties/stanly-county-nc/filter/size[min]=10",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "",
-   "dom": 385,
-   "q": "Cottonville Rd, Norwood, NC 28128",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-5786582666",
-   "photoCount": 8,
-   "drive": 17.5,
-   "driveMin": 44
-  },
-  {
-   "id": 49,
+   "id": 7,
    "key": "stanly|southboundrd|albemarle|25.0",
+   "aliases": [],
    "county": "Stanly",
    "street": "Southbound Rd",
    "city": "Albemarle",
@@ -1557,14 +320,19 @@
    "alt": [],
    "status": "Active",
    "pendingOn": [],
-   "lat": 35.28747,
-   "lon": -80.16812,
-   "loc": "road",
-   "locq": "Southbound Rd",
+   "lat": 35.28546,
+   "lon": -80.16647,
+   "loc": "listing",
+   "locq": "",
    "links": [
     {
+     "site": "Redfin",
+     "url": "https://www.redfin.com/NC/Albemarle/Southbound-Rd-28001/home/199936074",
+     "direct": true
+    },
+    {
      "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Stanly-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
+     "url": "https://www.realtor.com/realestateandhomes-search/Stanly-County_NC/type-land/price-na-1000000/lot-sqft-1089000-na",
      "direct": false
     },
     {
@@ -1583,14 +351,16 @@
    "chg": "$5K PRICE DROP",
    "dom": null,
    "q": "Southbound Rd, Albemarle, NC 28001",
-   "photo": null,
-   "photoCount": null,
-   "drive": 18.6,
-   "driveMin": 35
+   "photo": "https://ssl.cdn-redfin.com/photo/103/mbphotov3/272/genMid.4342272_1.jpg",
+   "photoCount": 2,
+   "photoSrc": "Redfin",
+   "drive": 18.2,
+   "driveMin": 34
   },
   {
-   "id": 50,
+   "id": 8,
    "key": "stanly|104threekingsway|albemarle|25.8",
+   "aliases": [],
    "county": "Stanly",
    "street": "104 Three Kings Way",
    "city": "Albemarle",
@@ -1610,11 +380,6 @@
      "site": "LandWatch",
      "url": "https://www.landwatch.com/stanly-county-north-carolina-homes-for-sale/pid/428155892",
      "direct": true
-    },
-    {
-     "site": "LandSearch",
-     "url": "https://www.landsearch.com/properties/stanly-county-nc/filter/size[min]=10",
-     "direct": false
     }
    ],
    "tags": [
@@ -1625,202 +390,59 @@
    "baths": 2.0,
    "sqft": 1925,
    "chg": "",
-   "dom": 55,
+   "dom": 57,
    "q": "104 Three Kings Way, Albemarle, NC 28001",
    "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6504457277",
    "photoCount": 3,
+   "photoSrc": "LandWatch",
    "drive": 15.3,
    "driveMin": 32
   },
   {
-   "id": 51,
-   "key": "stanly|20125oldconcordrd|albemarle|9.8",
+   "id": 9,
+   "key": "stanly|1810montgomeryave|albemarle|60.8",
+   "aliases": [],
    "county": "Stanly",
-   "street": "20125 Old Concord Rd",
+   "street": "1810 Montgomery Ave",
    "city": "Albemarle",
    "zip": "28001",
-   "acres": 9.79,
-   "price": 350000,
-   "ppa": 35751,
+   "acres": 60.83,
+   "price": 359725,
+   "ppa": 5914,
    "alt": [],
    "status": "Active",
    "pendingOn": [],
-   "lat": 35.38086,
-   "lon": -80.33491,
-   "loc": "address",
-   "locq": "20125 Old Concord Rd, Albemarle, NC 28001",
-   "links": [
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/stanly-county-nc/land-for-sale/",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "$35K PRICE INCREASE",
-   "dom": null,
-   "q": "20125 Old Concord Rd, Albemarle, NC 28001",
-   "photo": null,
-   "photoCount": null,
-   "drive": 24.2,
-   "driveMin": 45
-  },
-  {
-   "id": 52,
-   "key": "stanly|scallybarkrd|albemarle|14.9",
-   "county": "Stanly",
-   "street": "Scallybark Rd",
-   "city": "Albemarle",
-   "zip": "28001",
-   "acres": 14.95,
-   "price": 355000,
-   "ppa": 23746,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.32849,
-   "lon": -80.24192,
+   "lat": 35.35541,
+   "lon": -80.17404,
    "loc": "listing",
    "locq": "",
    "links": [
     {
      "site": "LandWatch",
-     "url": "https://www.landwatch.com/stanly-county-north-carolina-undeveloped-land-for-sale/pid/427639418",
+     "url": "https://www.landwatch.com/stanly-county-north-carolina-homes-for-sale/pid/428126669",
      "direct": true
-    },
-    {
-     "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Stanly-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
-     "direct": false
-    },
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/stanly-county-nc/land-for-sale/",
-     "direct": false
-    },
-    {
-     "site": "LandSearch",
-     "url": "https://www.landsearch.com/properties/stanly-county-nc/filter/size[min]=10",
-     "direct": false
     }
    ],
    "tags": [
-    "Land"
+    "House"
    ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "",
-   "dom": 99,
-   "q": "Scallybark Rd, Albemarle, NC 28001",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6515492243",
-   "photoCount": 9,
-   "drive": 17.6,
-   "driveMin": 35
+   "house": true,
+   "beds": 3.0,
+   "baths": 2.0,
+   "sqft": 1738,
+   "chg": "$32K price increase",
+   "dom": 60,
+   "q": "1810 Montgomery Ave, Albemarle, NC 28001",
+   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6484928688",
+   "photoCount": 1,
+   "photoSrc": "LandWatch",
+   "drive": 13.7,
+   "driveMin": 29
   },
   {
-   "id": 53,
-   "key": "stanly|12453barrierstorerd|mount pleasant|17.3",
-   "county": "Stanly",
-   "street": "12453 Barrier Store Rd",
-   "city": "Mount Pleasant",
-   "zip": "28124",
-   "acres": 17.3,
-   "price": 390000,
-   "ppa": 22543,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.33694,
-   "lon": -80.40399,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/stanly-county-north-carolina-undeveloped-land-for-sale/pid/428648149",
-     "direct": true
-    },
-    {
-     "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Stanly-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
-     "direct": false
-    },
-    {
-     "site": "LandSearch",
-     "url": "https://www.landsearch.com/properties/stanly-county-nc/filter/size[min]=10",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "",
-   "dom": 8,
-   "q": "12453 Barrier Store Rd, Mount Pleasant, NC 28124",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6602664391",
-   "photoCount": 16,
-   "drive": 30.9,
-   "driveMin": 59
-  },
-  {
-   "id": 54,
-   "key": "stanly|35893redbirdrd|albemarle|21.6",
-   "county": "Stanly",
-   "street": "35893 Red Bird Rd",
-   "city": "Albemarle",
-   "zip": "28001",
-   "acres": 21.6,
-   "price": 400000,
-   "ppa": 18519,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.39364,
-   "lon": -80.16008,
-   "loc": "address",
-   "locq": "35893 Red Bird Rd, Albemarle, NC 28001",
-   "links": [
-    {
-     "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Stanly-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
-     "direct": false
-    },
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/stanly-county-nc/land-for-sale/",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "",
-   "dom": null,
-   "q": "35893 Red Bird Rd, Albemarle, NC 28001",
-   "photo": null,
-   "photoCount": null,
-   "drive": 16.2,
-   "driveMin": 32
-  },
-  {
-   "id": 55,
+   "id": 10,
    "key": "stanly|silverrd|oakboro|26.4",
+   "aliases": [],
    "county": "Stanly",
    "street": "Silver Rd",
    "city": "Oakboro",
@@ -1842,8 +464,13 @@
      "direct": true
     },
     {
+     "site": "Redfin",
+     "url": "https://www.redfin.com/NC/Oakboro/Silver-Rd-28129/home/164994206",
+     "direct": true
+    },
+    {
      "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Stanly-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
+     "url": "https://www.realtor.com/realestateandhomes-search/Stanly-County_NC/type-land/price-na-1000000/lot-sqft-1089000-na",
      "direct": false
     }
    ],
@@ -1855,207 +482,18 @@
    "baths": null,
    "sqft": null,
    "chg": "$84K price drop",
-   "dom": 225,
+   "dom": 227,
    "q": "Silver Rd, Oakboro, NC 28129",
    "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6069398040",
    "photoCount": 17,
+   "photoSrc": "LandWatch",
    "drive": 29.4,
    "driveMin": 53
   },
   {
-   "id": 56,
-   "key": "stanly|huneycuttmillrd|albemarle|15.4",
-   "county": "Stanly",
-   "street": "Huneycutt Mill Rd",
-   "city": "Albemarle",
-   "zip": "28001",
-   "acres": 15.4,
-   "price": 419899,
-   "ppa": 27266,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.27641,
-   "lon": -80.18798,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/stanly-county-north-carolina-undeveloped-land-for-sale/pid/428030817",
-     "direct": true
-    },
-    {
-     "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Stanly-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
-     "direct": false
-    },
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/stanly-county-nc/land-for-sale/",
-     "direct": false
-    },
-    {
-     "site": "LandSearch",
-     "url": "https://www.landsearch.com/properties/stanly-county-nc/filter/size[min]=10",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "$30K PRICE DROP",
-   "dom": 67,
-   "q": "Huneycutt Mill Rd, Albemarle, NC 28001",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6621047782",
-   "photoCount": 7,
-   "drive": 18.5,
-   "driveMin": 38
-  },
-  {
-   "id": 58,
-   "key": "stanly|snuggsparkrd|albemarle|22.8",
-   "county": "Stanly",
-   "street": "Snuggs Park Rd",
-   "city": "Albemarle",
-   "zip": "28001",
-   "acres": 22.79,
-   "price": 425000,
-   "ppa": 18649,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.38345,
-   "lon": -80.21032,
-   "loc": "road",
-   "locq": "Snuggs Park Rd",
-   "links": [
-    {
-     "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Stanly-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
-     "direct": false
-    },
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/stanly-county-nc/land-for-sale/",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "",
-   "dom": null,
-   "q": "Snuggs Park Rd, Albemarle, NC 28001",
-   "photo": null,
-   "photoCount": null,
-   "drive": 17.3,
-   "driveMin": 38
-  },
-  {
-   "id": 60,
-   "key": "stanly|28315rowlandrd|mount pleasant|15.2",
-   "county": "Stanly",
-   "street": "28315 Rowland Rd",
-   "city": "Mount Pleasant",
-   "zip": "28124",
-   "acres": 15.21,
-   "price": 450000,
-   "ppa": 29586,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.34735,
-   "lon": -80.37032,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/stanly-county-north-carolina-undeveloped-land-for-sale/pid/427883460",
-     "direct": true
-    },
-    {
-     "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Stanly-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
-     "direct": false
-    },
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/stanly-county-nc/land-for-sale/",
-     "direct": false
-    },
-    {
-     "site": "LandSearch",
-     "url": "https://www.landsearch.com/properties/stanly-county-nc/filter/size[min]=10",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "",
-   "dom": 81,
-   "q": "28315 Rowland Rd, Mount Pleasant, NC 28124",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6427477141",
-   "photoCount": 1,
-   "drive": 28.8,
-   "driveMin": 54
-  },
-  {
-   "id": 61,
-   "key": "stanly||oakboro|26.4",
-   "county": "Stanly",
-   "street": "",
-   "city": "Oakboro",
-   "zip": "28129",
-   "acres": 26.4,
-   "price": 499900,
-   "ppa": 18936,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": null,
-   "lon": null,
-   "loc": null,
-   "locq": "",
-   "links": [
-    {
-     "site": "LandSearch",
-     "url": "https://www.landsearch.com/properties/stanly-county-nc/filter/size[min]=10",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "",
-   "dom": null,
-   "q": "Oakboro, NC 28129",
-   "photo": null,
-   "photoCount": null,
-   "drive": null,
-   "driveMin": null
-  },
-  {
-   "id": 62,
+   "id": 11,
    "key": "stanly|herlockerrd|new london|31.6",
+   "aliases": [],
    "county": "Stanly",
    "street": "Herlocker Rd",
    "city": "New London",
@@ -2077,13 +515,18 @@
      "direct": true
     },
     {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/stanly-county-nc/land-for-sale/",
+     "site": "Redfin",
+     "url": "https://www.redfin.com/NC/New-London/Herlocker-Rd-28127/home/165013006",
+     "direct": true
+    },
+    {
+     "site": "Realtor.com",
+     "url": "https://www.realtor.com/realestateandhomes-search/Stanly-County_NC/type-land/price-na-1000000/lot-sqft-1089000-na",
      "direct": false
     },
     {
-     "site": "LandSearch",
-     "url": "https://www.landsearch.com/properties/stanly-county-nc/filter/size[min]=10",
+     "site": "Homes.com",
+     "url": "https://www.homes.com/stanly-county-nc/land-for-sale/",
      "direct": false
     }
    ],
@@ -2095,104 +538,18 @@
    "baths": null,
    "sqft": null,
    "chg": "$37K PRICE DROP",
-   "dom": 411,
+   "dom": 413,
    "q": "Herlocker Rd, New London, NC 28127",
    "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-5731655995",
    "photoCount": 17,
+   "photoSrc": "LandWatch",
    "drive": 21.2,
    "driveMin": 40
   },
   {
-   "id": 63,
-   "key": "stanly|25838lingerfeltrd|albemarle|17.8",
-   "county": "Stanly",
-   "street": "25838 Lingerfelt Rd",
-   "city": "Albemarle",
-   "zip": "28001",
-   "acres": 17.77,
-   "price": 530000,
-   "ppa": 29826,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.36291,
-   "lon": -80.28385,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/stanly-county-north-carolina-homes-for-sale/pid/428573268",
-     "direct": true
-    },
-    {
-     "site": "LandSearch",
-     "url": "https://www.landsearch.com/properties/stanly-county-nc/filter/size[min]=10",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "House"
-   ],
-   "house": true,
-   "beds": 3.0,
-   "baths": 2.0,
-   "sqft": 1296,
-   "chg": "",
-   "dom": 15,
-   "q": "25838 Lingerfelt Rd, Albemarle, NC 28001",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6621534128",
-   "photoCount": 27,
-   "drive": 20.8,
-   "driveMin": 42
-  },
-  {
-   "id": 64,
-   "key": "stanly|reneefordrd|stanfield|23.0",
-   "county": "Stanly",
-   "street": "Renee Ford Rd",
-   "city": "Stanfield",
-   "zip": "28163",
-   "acres": 22.96,
-   "price": 540500,
-   "ppa": 23541,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.23353,
-   "lon": -80.45082,
-   "loc": "road",
-   "locq": "Renee Ford Rd",
-   "links": [
-    {
-     "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Stanly-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
-     "direct": false
-    },
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/stanly-county-nc/land-for-sale/",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "$56K PRICE DROP",
-   "dom": null,
-   "q": "Renee Ford Rd, Stanfield, NC 28163",
-   "photo": null,
-   "photoCount": null,
-   "drive": 32.1,
-   "driveMin": 57
-  },
-  {
-   "id": 65,
+   "id": 12,
    "key": "stanly|penningtonrd|albemarle|28.8",
+   "aliases": [],
    "county": "Stanly",
    "street": "Pennington Rd",
    "city": "Albemarle",
@@ -2203,24 +560,24 @@
    "alt": [],
    "status": "Active",
    "pendingOn": [],
-   "lat": 35.36944,
-   "lon": -80.22272,
-   "loc": "road",
-   "locq": "Pennington Rd",
+   "lat": 35.38271,
+   "lon": -80.25724,
+   "loc": "listing",
+   "locq": "",
    "links": [
     {
+     "site": "Redfin",
+     "url": "https://www.redfin.com/NC/Albemarle/Pennington-Rd-28001/home/52302964",
+     "direct": true
+    },
+    {
      "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Stanly-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
+     "url": "https://www.realtor.com/realestateandhomes-search/Stanly-County_NC/type-land/price-na-1000000/lot-sqft-1089000-na",
      "direct": false
     },
     {
      "site": "Homes.com",
      "url": "https://www.homes.com/stanly-county-nc/land-for-sale/",
-     "direct": false
-    },
-    {
-     "site": "LandSearch",
-     "url": "https://www.landsearch.com/properties/stanly-county-nc/filter/size[min]=10",
      "direct": false
     }
    ],
@@ -2234,147 +591,16 @@
    "chg": "$25K PRICE DROP",
    "dom": null,
    "q": "Pennington Rd, Albemarle, NC 28001",
-   "photo": null,
-   "photoCount": null,
-   "drive": 17.5,
-   "driveMin": 35
-  },
-  {
-   "id": 66,
-   "key": "stanly|acornacresrd|norwood|19.3",
-   "county": "Stanly",
-   "street": "Acorn Acres Rd",
-   "city": "Norwood",
-   "zip": "28128",
-   "acres": 19.26,
-   "price": 598999,
-   "ppa": 31101,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.21583,
-   "lon": -80.10944,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/stanly-county-north-carolina-undeveloped-land-for-sale/pid/427639416",
-     "direct": true
-    },
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/stanly-county-nc/land-for-sale/",
-     "direct": false
-    },
-    {
-     "site": "LandSearch",
-     "url": "https://www.landsearch.com/properties/stanly-county-nc/filter/size[min]=10",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "$1K PRICE DROP",
-   "dom": 99,
-   "q": "Acorn Acres Rd, Norwood, NC 28128",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6393466677",
+   "photo": "https://ssl.cdn-redfin.com/photo/103/mbphotov3/058/genMid.4263058_8.jpg",
    "photoCount": 10,
-   "drive": 12.5,
-   "driveMin": 28
+   "photoSrc": "Redfin",
+   "drive": 19.8,
+   "driveMin": 40
   },
   {
-   "id": 67,
-   "key": "stanly|33949rockyriverrd|norwood|11.4",
-   "county": "Stanly",
-   "street": "33949 Rocky River Rd",
-   "city": "Norwood",
-   "zip": "28128",
-   "acres": 11.36,
-   "price": 599000,
-   "ppa": 52729,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.21201,
-   "lon": -80.23222,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/stanly-county-north-carolina-homes-for-sale/pid/427475172",
-     "direct": true
-    },
-    {
-     "site": "LandSearch",
-     "url": "https://www.landsearch.com/properties/stanly-county-nc/filter/size[min]=10",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "House"
-   ],
-   "house": true,
-   "beds": 3.0,
-   "baths": 3.0,
-   "sqft": 2897,
-   "chg": "$51K price drop",
-   "dom": 112,
-   "q": "33949 Rocky River Rd, Norwood, NC 28128",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6610680526",
-   "photoCount": 46,
-   "drive": 24.3,
-   "driveMin": 49
-  },
-  {
-   "id": 68,
-   "key": "stanly|20743austinrd|albemarle|15.5",
-   "county": "Stanly",
-   "street": "20743 Austin Rd",
-   "city": "Albemarle",
-   "zip": "28001",
-   "acres": 15.46,
-   "price": 725000,
-   "ppa": 46895,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.30874,
-   "lon": -80.31861,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/stanly-county-north-carolina-commercial-property-for-sale/pid/428254685",
-     "direct": true
-    }
-   ],
-   "tags": [
-    "Commercial",
-    "House"
-   ],
-   "house": true,
-   "beds": null,
-   "baths": 2.0,
-   "sqft": null,
-   "chg": "",
-   "dom": 47,
-   "q": "20743 Austin Rd, Albemarle, NC 28001",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6512465454",
-   "photoCount": 30,
-   "drive": 23.2,
-   "driveMin": 48
-  },
-  {
-   "id": 69,
+   "id": 13,
    "key": "stanly|efirdrd|albemarle|37.6",
+   "aliases": [],
    "county": "Stanly",
    "street": "Efird Rd",
    "city": "Albemarle",
@@ -2396,18 +622,18 @@
      "direct": true
     },
     {
+     "site": "Redfin",
+     "url": "https://www.redfin.com/NC/Albemarle/Efird-Rd-28001/home/59271958",
+     "direct": true
+    },
+    {
      "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Stanly-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
+     "url": "https://www.realtor.com/realestateandhomes-search/Stanly-County_NC/type-land/price-na-1000000/lot-sqft-1089000-na",
      "direct": false
     },
     {
      "site": "Homes.com",
      "url": "https://www.homes.com/stanly-county-nc/land-for-sale/",
-     "direct": false
-    },
-    {
-     "site": "LandSearch",
-     "url": "https://www.landsearch.com/properties/stanly-county-nc/filter/size[min]=10",
      "direct": false
     }
    ],
@@ -2419,70 +645,18 @@
    "baths": null,
    "sqft": null,
    "chg": "",
-   "dom": 23,
+   "dom": 25,
    "q": "Efird Rd, Albemarle, NC 28001",
    "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6572669701",
    "photoCount": 1,
+   "photoSrc": "LandWatch",
    "drive": 22.4,
    "driveMin": 45
   },
   {
-   "id": 71,
-   "key": "stanly|nchwy2427rd|albemarle|24.2",
-   "county": "Stanly",
-   "street": "NC Hwy 24/27 Rd",
-   "city": "Albemarle",
-   "zip": "28001",
-   "acres": 24.19,
-   "price": 775000,
-   "ppa": 32038,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.34183,
-   "lon": -80.18933,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/stanly-county-north-carolina-undeveloped-land-for-sale/pid/421711396",
-     "direct": true
-    },
-    {
-     "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Stanly-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
-     "direct": false
-    },
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/stanly-county-nc/land-for-sale/",
-     "direct": false
-    },
-    {
-     "site": "LandSearch",
-     "url": "https://www.landsearch.com/properties/stanly-county-nc/filter/size[min]=10",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "$620K PRICE DROP",
-   "dom": 670,
-   "q": "NC Hwy 24/27 Rd, Albemarle, NC 28001",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-5656402880",
-   "photoCount": 7,
-   "drive": 14.1,
-   "driveMin": 29
-  },
-  {
-   "id": 72,
+   "id": 14,
    "key": "stanly|201oakst|stanfield|25.9",
+   "aliases": [],
    "county": "Stanly",
    "street": "201 Oak St",
    "city": "Stanfield",
@@ -2504,8 +678,13 @@
      "direct": true
     },
     {
+     "site": "Redfin",
+     "url": "https://www.redfin.com/NC/Stanfield/201-Oak-St-28163/home/43762015",
+     "direct": true
+    },
+    {
      "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Stanly-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
+     "url": "https://www.realtor.com/realestateandhomes-search/Stanly-County_NC/type-land/price-na-1000000/lot-sqft-1089000-na",
      "direct": false
     },
     {
@@ -2515,23 +694,25 @@
     }
    ],
    "tags": [
-    "Land"
+    "House"
    ],
-   "house": false,
-   "beds": null,
+   "house": true,
+   "beds": 3,
    "baths": null,
    "sqft": null,
    "chg": "$160K PRICE INCREASE",
-   "dom": 1974,
+   "dom": 1976,
    "q": "201 Oak St, Stanfield, NC 28163",
    "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-5656403502",
    "photoCount": 1,
+   "photoSrc": "LandWatch",
    "drive": 31.5,
    "driveMin": 55
   },
   {
-   "id": 73,
+   "id": 15,
    "key": "stanly|bridgerd|mount pleasant|37.3",
+   "aliases": [],
    "county": "Stanly",
    "street": "Bridge Rd",
    "city": "Mount Pleasant",
@@ -2553,8 +734,13 @@
      "direct": true
     },
     {
+     "site": "Redfin",
+     "url": "https://www.redfin.com/NC/Mount-Pleasant/Bridge-Rd-28124/home/164964177",
+     "direct": true
+    },
+    {
      "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Stanly-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
+     "url": "https://www.realtor.com/realestateandhomes-search/Stanly-County_NC/type-land/price-na-1000000/lot-sqft-1089000-na",
      "direct": false
     },
     {
@@ -2571,129 +757,18 @@
    "baths": null,
    "sqft": null,
    "chg": "$25K PRICE DROP",
-   "dom": 237,
+   "dom": 239,
    "q": "Bridge Rd, Mount Pleasant, NC 28124",
    "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6610663474",
    "photoCount": 7,
+   "photoSrc": "LandWatch",
    "drive": 25.5,
    "driveMin": 46
   },
   {
-   "id": 74,
-   "key": "stanly|ashst|albemarle|10.2",
-   "county": "Stanly",
-   "street": "Ash St",
-   "city": "Albemarle",
-   "zip": "28001",
-   "acres": 10.2,
-   "price": 875000,
-   "ppa": 85784,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.36883,
-   "lon": -80.20634,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/stanly-county-north-carolina-undeveloped-land-for-sale/pid/427082443",
-     "direct": true
-    },
-    {
-     "site": "Redfin",
-     "url": "https://www.redfin.com/NC/Albemarle/Ash-St-28001/home/113379329",
-     "direct": true
-    },
-    {
-     "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Stanly-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
-     "direct": false
-    },
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/stanly-county-nc/land-for-sale/",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "",
-   "dom": 144,
-   "q": "Ash St, Albemarle, NC 28001",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6621212895",
-   "photoCount": 1,
-   "drive": 17.0,
-   "driveMin": 35
-  },
-  {
-   "id": 75,
-   "key": "stanly|8511rockyriverrd|oakboro|23.3",
-   "county": "Stanly",
-   "street": "8511 Rocky River Rd",
-   "city": "Oakboro",
-   "zip": "28129",
-   "acres": 23.3,
-   "price": 932000,
-   "ppa": 40000,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.21637,
-   "lon": -80.32635,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/stanly-county-north-carolina-undeveloped-land-for-sale/pid/428413634",
-     "direct": true
-    },
-    {
-     "site": "Redfin",
-     "url": "https://www.redfin.com/NC/Oakboro/8511-Rocky-River-Rd-28129/home/206086390",
-     "direct": true
-    },
-    {
-     "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Stanly-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
-     "direct": false
-    },
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/stanly-county-nc/land-for-sale/",
-     "direct": false
-    },
-    {
-     "site": "LandSearch",
-     "url": "https://www.landsearch.com/properties/stanly-county-nc/filter/size[min]=10",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "$32K PRICE INCREASE",
-   "dom": 32,
-   "q": "8511 Rocky River Rd, Oakboro, NC 28129",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6551267487",
-   "photoCount": 4,
-   "drive": 29.7,
-   "driveMin": 54
-  },
-  {
-   "id": 76,
+   "id": 16,
    "key": "stanly|32286latonrd|albemarle|54.0",
+   "aliases": [],
    "county": "Stanly",
    "street": "32286 Laton Rd",
    "city": "Albemarle",
@@ -2704,180 +779,70 @@
    "alt": [],
    "status": "Active",
    "pendingOn": [],
-   "lat": 35.37337,
-   "lon": -80.1592,
-   "loc": "road",
-   "locq": "Laton Rd",
-   "links": [
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/stanly-county-nc/land-for-sale/",
-     "direct": false
-    },
-    {
-     "site": "LandSearch",
-     "url": "https://www.landsearch.com/properties/stanly-county-nc/filter/size[min]=10",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "$225K PRICE DROP",
-   "dom": null,
-   "q": "32286 Laton Rd, Albemarle, NC 28001",
-   "photo": null,
-   "photoCount": null,
-   "drive": 13.9,
-   "driveMin": 29
-  },
-  {
-   "id": 77,
-   "key": "stanly|40659ridenhourrd|richfield|12.1",
-   "county": "Stanly",
-   "street": "40659 Ridenhour Rd",
-   "city": "Richfield",
-   "zip": "28137",
-   "acres": 12.14,
-   "price": 998000,
-   "ppa": 82208,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.42499,
-   "lon": -80.32918,
+   "lat": 35.36999,
+   "lon": -80.15748,
    "loc": "listing",
    "locq": "",
    "links": [
     {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/stanly-county-north-carolina-homes-for-sale/pid/425743208",
+     "site": "Redfin",
+     "url": "https://www.redfin.com/NC/Albemarle/32286-Laton-Rd-28001/home/43767451",
      "direct": true
+    },
+    {
+     "site": "Homes.com",
+     "url": "https://www.homes.com/stanly-county-nc/land-for-sale/",
+     "direct": false
     }
    ],
    "tags": [
     "House"
    ],
    "house": true,
-   "beds": 3.0,
-   "baths": 3.0,
-   "sqft": 5153,
-   "chg": "$72K price drop",
-   "dom": 263,
-   "q": "40659 Ridenhour Rd, Richfield, NC 28137",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6206915708",
-   "photoCount": 22,
-   "drive": 26.1,
-   "driveMin": 50
-  },
-  {
-   "id": 79,
-   "key": "anson|vintagerd|lilesville|12.2",
-   "county": "Anson",
-   "street": "Vintage Rd",
-   "city": "Lilesville",
-   "zip": "28091",
-   "acres": 12.18,
-   "price": 103500,
-   "ppa": 8498,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 34.96588,
-   "lon": -79.93575,
-   "loc": "road",
-   "locq": "Vintage Rd",
-   "links": [
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/anson-county-nc/land-for-sale/",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
+   "beds": 2,
    "baths": null,
    "sqft": null,
-   "chg": "",
+   "chg": "$225K PRICE DROP",
    "dom": null,
-   "q": "Vintage Rd, Lilesville, NC 28091",
-   "photo": null,
-   "photoCount": null,
-   "drive": 32.8,
-   "driveMin": 62
+   "q": "32286 Laton Rd, Albemarle, NC 28001",
+   "photo": "https://ssl.cdn-redfin.com/photo/150/mbphotov3/675/genMid.1214675_2.jpg",
+   "photoCount": 33,
+   "photoSrc": "Redfin",
+   "drive": 13.6,
+   "driveMin": 29
   },
   {
-   "id": 80,
-   "key": "anson|mtvernonrd|ansonville|9.5",
+   "id": 17,
+   "key": "anson|hightowerrd|morven|59.0",
+   "aliases": [],
    "county": "Anson",
-   "street": "Mt Vernon Rd",
-   "city": "Ansonville",
-   "zip": "28170",
-   "acres": 9.53,
-   "price": 120000,
-   "ppa": 12592,
+   "street": "Hightower Rd",
+   "city": "Morven",
+   "zip": "28119",
+   "acres": 59.0,
+   "price": 274900,
+   "ppa": 4659,
    "alt": [],
    "status": "Active",
    "pendingOn": [],
-   "lat": 35.09707,
-   "lon": -80.11666,
-   "loc": "road",
-   "locq": "Mt Vernon Rd",
-   "links": [
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/anson-county-nc/land-for-sale/",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "",
-   "dom": null,
-   "q": "Mt Vernon Rd, Ansonville, NC 28170",
-   "photo": null,
-   "photoCount": null,
-   "drive": 18.8,
-   "driveMin": 38
-  },
-  {
-   "id": 83,
-   "key": "anson|2135stanbackferryiceplantrd|wadesboro|24.8",
-   "county": "Anson",
-   "street": "2135 Stanback Ferry-Ice Plant Rd",
-   "city": "Wadesboro",
-   "zip": "28170",
-   "acres": 24.8,
-   "price": 196000,
-   "ppa": 7903,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 34.98635,
-   "lon": -80.03861,
+   "lat": 34.81816,
+   "lon": -80.07672,
    "loc": "listing",
    "locq": "",
    "links": [
     {
      "site": "LandWatch",
-     "url": "https://www.landwatch.com/anson-county-north-carolina-farms-and-ranches-for-sale/pid/427625600",
+     "url": "https://www.landwatch.com/anson-county-north-carolina-undeveloped-land-for-sale/pid/426453315",
+     "direct": true
+    },
+    {
+     "site": "Redfin",
+     "url": "https://www.redfin.com/NC/Morven/TBD-Hightower-Rd-28119/home/186994379",
      "direct": true
     },
     {
      "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Anson-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
+     "url": "https://www.realtor.com/realestateandhomes-search/Anson-County_NC/type-land/price-na-1000000/lot-sqft-1089000-na",
      "direct": false
     },
     {
@@ -2887,9 +852,104 @@
     }
    ],
    "tags": [
-    "Farms and Ranches",
-    "Horse",
-    "Hunting"
+    "Land"
+   ],
+   "house": false,
+   "beds": null,
+   "baths": null,
+   "sqft": null,
+   "chg": "$25K PRICE DROP",
+   "dom": 197,
+   "q": "Hightower Rd, Morven, NC 28119",
+   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6134337140",
+   "photoCount": 3,
+   "photoSrc": "LandWatch",
+   "drive": 40.3,
+   "driveMin": 76
+  },
+  {
+   "id": 18,
+   "key": "anson|nchwy109n|wadesboro|64.4",
+   "aliases": [],
+   "county": "Anson",
+   "street": "NC Hwy 109 N",
+   "city": "Wadesboro",
+   "zip": "28170",
+   "acres": 64.41,
+   "price": 325000,
+   "ppa": 5046,
+   "alt": [],
+   "status": "Active",
+   "pendingOn": [],
+   "lat": 34.98176,
+   "lon": -80.06504,
+   "loc": "listing",
+   "locq": "",
+   "links": [
+    {
+     "site": "Redfin",
+     "url": "https://www.redfin.com/NC/Wadesboro/TBD-NC-28170/home/206052952",
+     "direct": true
+    },
+    {
+     "site": "Realtor.com",
+     "url": "https://www.realtor.com/realestateandhomes-search/Anson-County_NC/type-land/price-na-1000000/lot-sqft-1089000-na",
+     "direct": false
+    },
+    {
+     "site": "Homes.com",
+     "url": "https://www.homes.com/anson-county-nc/land-for-sale/",
+     "direct": false
+    }
+   ],
+   "tags": [
+    "Land"
+   ],
+   "house": false,
+   "beds": null,
+   "baths": null,
+   "sqft": null,
+   "chg": "",
+   "dom": null,
+   "q": "NC Hwy 109 N, Wadesboro, NC 28170",
+   "photo": "https://ssl.cdn-redfin.com/photo/103/mbphotov3/269/genMid.4427269_0.jpg",
+   "photoCount": 37,
+   "photoSrc": "Redfin",
+   "drive": 29.2,
+   "driveMin": 53
+  },
+  {
+   "id": 19,
+   "key": "anson|previtterd|morven|80.5",
+   "aliases": [],
+   "county": "Anson",
+   "street": "Previtte Rd",
+   "city": "Morven",
+   "zip": "28119",
+   "acres": 80.5,
+   "price": 359000,
+   "ppa": 4460,
+   "alt": [],
+   "status": "Active",
+   "pendingOn": [],
+   "lat": 34.83876,
+   "lon": -80.01317,
+   "loc": "listing",
+   "locq": "",
+   "links": [
+    {
+     "site": "LandWatch",
+     "url": "https://www.landwatch.com/anson-county-north-carolina-timberland-property-for-sale/pid/427647923",
+     "direct": true
+    },
+    {
+     "site": "Homes.com",
+     "url": "https://www.homes.com/anson-county-nc/land-for-sale/",
+     "direct": false
+    }
+   ],
+   "tags": [
+    "Timberland"
    ],
    "house": false,
    "beds": null,
@@ -2897,77 +957,101 @@
    "sqft": null,
    "chg": "",
    "dom": 100,
-   "q": "2135 Stanback Ferry-Ice Plant Rd, Wadesboro, NC 28170",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6377067393",
-   "photoCount": 2,
-   "drive": 25.9,
-   "driveMin": 53
+   "q": "Previtte Rd, Morven, NC 28119",
+   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6480755617",
+   "photoCount": 5,
+   "photoSrc": "LandWatch",
+   "drive": 39.7,
+   "driveMin": 69
   },
   {
-   "id": 84,
-   "key": "anson|3145upperwhitestorerdunit381|peachland|13.4",
+   "id": 20,
+   "key": "anson|chesterfieldrd|wadesboro|57.0",
+   "aliases": [],
    "county": "Anson",
-   "street": "3145 Upper White Store Rd Unit 381",
-   "city": "Peachland",
-   "zip": "28133",
-   "acres": 13.38,
-   "price": 250000,
-   "ppa": 18685,
+   "street": "Chesterfield Rd",
+   "city": "Wadesboro",
+   "zip": "28170",
+   "acres": 57.0,
+   "price": 427500,
+   "ppa": 7500,
    "alt": [],
    "status": "Active",
    "pendingOn": [],
-   "lat": 34.95285,
-   "lon": -80.29247,
-   "loc": "address",
-   "locq": "3145 Upper White Store Rd, Peachland, NC 28133",
-   "links": [
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/anson-county-nc/land-for-sale/",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "",
-   "dom": null,
-   "q": "3145 Upper White Store Rd Unit 381, Peachland, NC 28133",
-   "photo": null,
-   "photoCount": null,
-   "drive": 34.8,
-   "driveMin": 64
-  },
-  {
-   "id": 85,
-   "key": "anson|sneedsborord|morven|15.0",
-   "county": "Anson",
-   "street": "Sneedsboro Rd",
-   "city": "Morven",
-   "zip": "28119",
-   "acres": 15.03,
-   "price": 299900,
-   "ppa": 19953,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 34.83038,
-   "lon": -79.96153,
+   "lat": 34.95426,
+   "lon": -80.07756,
    "loc": "listing",
    "locq": "",
    "links": [
     {
      "site": "LandWatch",
-     "url": "https://www.landwatch.com/anson-county-north-carolina-undeveloped-land-for-sale/pid/426700212",
+     "url": "https://www.landwatch.com/anson-county-north-carolina-undeveloped-land-for-sale/pid/423612724",
+     "direct": true
+    },
+    {
+     "site": "Redfin",
+     "url": "https://www.redfin.com/NC/Wadesboro/0-Chesterfield-Rd-28170/home/196510882",
      "direct": true
     },
     {
      "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Anson-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
+     "url": "https://www.realtor.com/realestateandhomes-search/Anson-County_NC/type-land/price-na-1000000/lot-sqft-1089000-na",
+     "direct": false
+    },
+    {
+     "site": "Homes.com",
+     "url": "https://www.homes.com/anson-county-nc/land-for-sale/",
+     "direct": false
+    }
+   ],
+   "tags": [
+    "Land"
+   ],
+   "house": false,
+   "beds": null,
+   "baths": null,
+   "sqft": null,
+   "chg": "$60K PRICE DROP",
+   "dom": 473,
+   "q": "Chesterfield Rd, Wadesboro, NC 28170",
+   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-5656598834",
+   "photoCount": 8,
+   "photoSrc": "LandWatch",
+   "drive": 29.2,
+   "driveMin": 54
+  },
+  {
+   "id": 21,
+   "key": "anson|robinsonbridgerd|morven|61.4",
+   "aliases": [],
+   "county": "Anson",
+   "street": "Robinson Bridge Rd",
+   "city": "Morven",
+   "zip": "28119",
+   "acres": 61.38,
+   "price": 490400,
+   "ppa": 7990,
+   "alt": [],
+   "status": "Active",
+   "pendingOn": [],
+   "lat": 34.89317,
+   "lon": -80.06784,
+   "loc": "listing",
+   "locq": "",
+   "links": [
+    {
+     "site": "LandWatch",
+     "url": "https://www.landwatch.com/anson-county-north-carolina-undeveloped-land-for-sale/pid/426201717",
+     "direct": true
+    },
+    {
+     "site": "Redfin",
+     "url": "https://www.redfin.com/NC/Morven/Robinson-Bridge-Rd-28119/home/44195965",
+     "direct": true
+    },
+    {
+     "site": "Realtor.com",
+     "url": "https://www.realtor.com/realestateandhomes-search/Anson-County_NC/type-land/price-na-1000000/lot-sqft-1089000-na",
      "direct": false
     },
     {
@@ -2984,16 +1068,18 @@
    "baths": null,
    "sqft": null,
    "chg": "",
-   "dom": 174,
-   "q": "Sneedsboro Rd, Morven, NC 28119",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6186173106",
-   "photoCount": 2,
-   "drive": 41.7,
-   "driveMin": 71
+   "dom": 219,
+   "q": "Robinson Bridge Rd, Morven, NC 28119",
+   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6087697170",
+   "photoCount": 10,
+   "photoSrc": "LandWatch",
+   "drive": 33.5,
+   "driveMin": 64
   },
   {
-   "id": 87,
+   "id": 22,
    "key": "anson|1456edwardsstorerd|polkton|33.2",
+   "aliases": [],
    "county": "Anson",
    "street": "1456 Edwards Store Rd",
    "city": "Polkton",
@@ -3015,18 +1101,18 @@
      "direct": true
     },
     {
+     "site": "Redfin",
+     "url": "https://www.redfin.com/NC/Polkton/1456-Edwards-Store-RD-28135/home/201990077",
+     "direct": true
+    },
+    {
      "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Anson-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
+     "url": "https://www.realtor.com/realestateandhomes-search/Anson-County_NC/type-land/price-na-1000000/lot-sqft-1089000-na",
      "direct": false
     },
     {
      "site": "Homes.com",
      "url": "https://www.homes.com/anson-county-nc/land-for-sale/",
-     "direct": false
-    },
-    {
-     "site": "LandSearch",
-     "url": "https://www.landsearch.com/properties/anson-county-nc/filter/size[min]=10",
      "direct": false
     }
    ],
@@ -3038,16 +1124,18 @@
    "baths": null,
    "sqft": null,
    "chg": "",
-   "dom": 166,
+   "dom": 168,
    "q": "1456 Edwards Store Rd, Polkton, NC 28135",
    "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6206898356",
    "photoCount": 6,
+   "photoSrc": "LandWatch",
    "drive": 31.1,
    "driveMin": 59
   },
   {
-   "id": 88,
+   "id": 23,
    "key": "anson|3909wightmanchurchrd|polkton|34.1",
+   "aliases": [],
    "county": "Anson",
    "street": "3909 Wightman Church Rd",
    "city": "Polkton",
@@ -3077,35 +1165,88 @@
    "baths": 1.0,
    "sqft": 520,
    "chg": "",
-   "dom": 151,
+   "dom": 153,
    "q": "3909 Wightman Church Rd, Polkton, NC 28135",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6621637624",
+   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6626559957",
    "photoCount": 48,
+   "photoSrc": "LandWatch",
    "drive": 24.7,
    "driveMin": 52
   },
   {
-   "id": 90,
-   "key": "anson|whwy74|wadesboro|18.7",
+   "id": 24,
+   "key": "anson|589billcurleerd|polkton|77.0",
+   "aliases": [],
    "county": "Anson",
-   "street": "W Hwy 74",
-   "city": "Wadesboro",
-   "zip": "28170",
-   "acres": 18.7,
-   "price": 950000,
-   "ppa": 50802,
+   "street": "589 Bill Curlee Rd",
+   "city": "Polkton",
+   "zip": "28135",
+   "acres": 77.0,
+   "price": 685300,
+   "ppa": 8900,
    "alt": [],
    "status": "Active",
    "pendingOn": [],
-   "lat": 34.977,
-   "lon": -80.08798,
-   "loc": "road",
-   "locq": "W Hwy 74",
+   "lat": 35.00787,
+   "lon": -80.24924,
+   "loc": "listing",
+   "locq": "",
    "links": [
     {
+     "site": "Redfin",
+     "url": "https://www.redfin.com/NC/Polkton/589-Bill-Curlee-Rd-28135/home/44193159",
+     "direct": true
+    },
+    {
      "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Anson-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
+     "url": "https://www.realtor.com/realestateandhomes-search/Anson-County_NC/type-land/price-na-1000000/lot-sqft-1089000-na",
      "direct": false
+    },
+    {
+     "site": "Homes.com",
+     "url": "https://www.homes.com/anson-county-nc/land-for-sale/",
+     "direct": false
+    }
+   ],
+   "tags": [
+    "House"
+   ],
+   "house": true,
+   "beds": 3,
+   "baths": null,
+   "sqft": null,
+   "chg": "$77K PRICE DROP",
+   "dom": 56,
+   "q": "589 Bill Curlee Rd, Polkton, NC 28135",
+   "photo": "https://ssl.cdn-redfin.com/photo/103/mbphotov3/691/genMid.4423691_0.jpg",
+   "photoCount": 42,
+   "photoSrc": "Redfin",
+   "drive": 30.3,
+   "driveMin": 60
+  },
+  {
+   "id": 25,
+   "key": "anson|393redhillrd|wadesboro|75.0",
+   "aliases": [],
+   "county": "Anson",
+   "street": "393 Red Hill Rd",
+   "city": "Wadesboro",
+   "zip": "28170",
+   "acres": 75.02,
+   "price": 715000,
+   "ppa": 9531,
+   "alt": [],
+   "status": "Active",
+   "pendingOn": [],
+   "lat": 34.85564,
+   "lon": -80.14628,
+   "loc": "listing",
+   "locq": "",
+   "links": [
+    {
+     "site": "Redfin",
+     "url": "https://www.redfin.com/NC/Wadesboro/393-Red-Hill-Rd-28170/home/206630808",
+     "direct": true
     },
     {
      "site": "Homes.com",
@@ -3120,17 +1261,114 @@
    "beds": null,
    "baths": null,
    "sqft": null,
-   "chg": "$250K PRICE DROP",
-   "dom": null,
-   "q": "W Hwy 74, Wadesboro, NC 28170",
-   "photo": null,
-   "photoCount": null,
-   "drive": 27.1,
-   "driveMin": 49
+   "chg": "",
+   "dom": 16,
+   "q": "393 Red Hill Rd, Wadesboro, NC 28170",
+   "photo": "https://ssl.cdn-redfin.com/photo/103/mbphotov3/377/genMid.4436377_0.jpg",
+   "photoCount": 48,
+   "photoSrc": "Redfin",
+   "drive": 38.4,
+   "driveMin": 73
   },
   {
-   "id": 91,
+   "id": 26,
+   "key": "anson|oldnc515|wadesboro|194.5",
+   "aliases": [],
+   "county": "Anson",
+   "street": "Old NC 515",
+   "city": "Wadesboro",
+   "zip": "28170",
+   "acres": 194.5,
+   "price": 818067,
+   "ppa": 4206,
+   "alt": [],
+   "status": "Active",
+   "pendingOn": [],
+   "lat": 34.9388,
+   "lon": -80.12661,
+   "loc": "listing",
+   "locq": "",
+   "links": [
+    {
+     "site": "LandWatch",
+     "url": "https://www.landwatch.com/anson-county-north-carolina-recreational-property-for-sale/pid/428455126",
+     "direct": true
+    },
+    {
+     "site": "Homes.com",
+     "url": "https://www.homes.com/anson-county-nc/land-for-sale/",
+     "direct": false
+    }
+   ],
+   "tags": [
+    "Hunting",
+    "Recreational"
+   ],
+   "house": false,
+   "beds": null,
+   "baths": null,
+   "sqft": null,
+   "chg": "",
+   "dom": 29,
+   "q": "Old NC 515, Wadesboro, NC 28170",
+   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6615121118",
+   "photoCount": 26,
+   "photoSrc": "LandWatch",
+   "drive": 32.6,
+   "driveMin": 69
+  },
+  {
+   "id": 27,
+   "key": "anson|1634us52|wadesboro|128.9",
+   "aliases": [],
+   "county": "Anson",
+   "street": "1634 US 52",
+   "city": "Wadesboro",
+   "zip": "28170",
+   "acres": 128.91,
+   "price": 869497,
+   "ppa": 6745,
+   "alt": [],
+   "status": "Active",
+   "pendingOn": [],
+   "lat": 35.09719,
+   "lon": -80.09957,
+   "loc": "listing",
+   "locq": "",
+   "links": [
+    {
+     "site": "LandWatch",
+     "url": "https://www.landwatch.com/anson-county-north-carolina-recreational-property-for-sale/pid/426629690",
+     "direct": true
+    },
+    {
+     "site": "Homes.com",
+     "url": "https://www.homes.com/anson-county-nc/land-for-sale/",
+     "direct": false
+    }
+   ],
+   "tags": [
+    "Hunting",
+    "Recreational",
+    "Timberland"
+   ],
+   "house": false,
+   "beds": null,
+   "baths": null,
+   "sqft": null,
+   "chg": "$46K PRICE DROP",
+   "dom": 182,
+   "q": "1634 US 52, Wadesboro, NC 28170",
+   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6172246794",
+   "photoCount": 42,
+   "photoSrc": "LandWatch",
+   "drive": 18.8,
+   "driveMin": 37
+  },
+  {
+   "id": 28,
    "key": "anson|1490porkrd|peachland|49.5",
+   "aliases": [],
    "county": "Anson",
    "street": "1490 Pork Rd",
    "city": "Peachland",
@@ -3152,19 +1390,19 @@
      "direct": true
     },
     {
+     "site": "Redfin",
+     "url": "https://www.redfin.com/NC/Peachland/1490-Pork-Rd-28133/home/191587184",
+     "direct": true
+    },
+    {
      "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Anson-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
+     "url": "https://www.realtor.com/realestateandhomes-search/Anson-County_NC/type-land/price-na-1000000/lot-sqft-1089000-na",
      "direct": false
     },
     {
      "site": "Homes.com",
      "url": "https://www.homes.com/anson-county-nc/land-for-sale/",
      "direct": false
-    },
-    {
-     "site": "LandSearch",
-     "url": "https://www.landsearch.com/properties/anson-county-nc/filter/size[min]=10",
-     "direct": false
     }
    ],
    "tags": [
@@ -3175,2367 +1413,13 @@
    "baths": null,
    "sqft": null,
    "chg": "",
-   "dom": 104,
+   "dom": 106,
    "q": "1490 Pork Rd, Peachland, NC 28133",
    "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6367007133",
    "photoCount": 4,
+   "photoSrc": "LandWatch",
    "drive": 31.6,
    "driveMin": 63
-  },
-  {
-   "id": 92,
-   "key": "richmond|188wentworthpasslot105|rockingham|10.8",
-   "county": "Richmond",
-   "street": "188 Wentworth Pass Lot 105",
-   "city": "Rockingham",
-   "zip": "28379",
-   "acres": 10.77,
-   "price": 48950,
-   "ppa": 4545,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 34.99397,
-   "lon": -79.87119,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/richmond-county-north-carolina-undeveloped-land-for-sale/pid/428717177",
-     "direct": true
-    },
-    {
-     "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Richmond-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "",
-   "dom": 1,
-   "q": "188 Wentworth Pass Lot 105, Rockingham, NC 28379",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6620658565",
-   "photoCount": 16,
-   "drive": 42.1,
-   "driveMin": 80
-  },
-  {
-   "id": 93,
-   "key": "richmond|695countyhomerd|hamlet|11.4",
-   "county": "Richmond",
-   "street": "695 County Home Rd",
-   "city": "Hamlet",
-   "zip": "28345",
-   "acres": 11.4,
-   "price": 110000,
-   "ppa": 9649,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 34.92426,
-   "lon": -79.70462,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/richmond-county-north-carolina-undeveloped-land-for-sale/pid/428027371",
-     "direct": true
-    },
-    {
-     "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Richmond-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
-     "direct": false
-    },
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/richmond-county-nc/land-for-sale/",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "",
-   "dom": 68,
-   "q": "695 County Home Rd, Hamlet, NC 28345",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6461211508",
-   "photoCount": 6,
-   "drive": 43.9,
-   "driveMin": 74
-  },
-  {
-   "id": 94,
-   "key": "richmond|tract2schollrd|hamlet|15.9",
-   "county": "Richmond",
-   "street": "Tract 2 Scholl Rd",
-   "city": "Hamlet",
-   "zip": "28345",
-   "acres": 15.88,
-   "price": 165000,
-   "ppa": 10390,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 34.81102,
-   "lon": -79.65411,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/richmond-county-north-carolina-undeveloped-land-for-sale/pid/428644354",
-     "direct": true
-    },
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/richmond-county-nc/land-for-sale/",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "",
-   "dom": 8,
-   "q": "Tract 2 Scholl Rd, Hamlet, NC 28345",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6620712529",
-   "photoCount": 15,
-   "drive": 54.5,
-   "driveMin": 87
-  },
-  {
-   "id": 95,
-   "key": "richmond|261springhillchurchrd|hamlet|24.0",
-   "county": "Richmond",
-   "street": "261 Springhill Church Rd",
-   "city": "Hamlet",
-   "zip": "28345",
-   "acres": 24.0,
-   "price": 168000,
-   "ppa": 7000,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 34.84273,
-   "lon": -79.68692,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/richmond-county-north-carolina-undeveloped-land-for-sale/pid/427077460",
-     "direct": true
-    },
-    {
-     "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Richmond-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
-     "direct": false
-    },
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/richmond-county-nc/land-for-sale/",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "",
-   "dom": 144,
-   "q": "261 Springhill Church Rd, Hamlet, NC 28345",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6260744846",
-   "photoCount": 1,
-   "drive": 50.3,
-   "driveMin": 82
-  },
-  {
-   "id": 96,
-   "key": "richmond|johnmoorerd|ellerbe|21.2",
-   "county": "Richmond",
-   "street": "John Moore Rd",
-   "city": "Ellerbe",
-   "zip": "28338",
-   "acres": 21.16,
-   "price": 175000,
-   "ppa": 8270,
-   "alt": [
-    160000
-   ],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.13449,
-   "lon": -79.71378,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/richmond-county-north-carolina-farms-and-ranches-for-sale/pid/426752578",
-     "direct": true
-    },
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/richmond-county-nc/land-for-sale/",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Farms and Ranches",
-    "Horse"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "$15K price drop",
-   "dom": 169,
-   "q": "John Moore Rd, Ellerbe, NC 28338",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6198208868",
-   "photoCount": 12,
-   "drive": 32.5,
-   "driveMin": 59
-  },
-  {
-   "id": 97,
-   "key": "richmond|311greenrd|ellerbe|14.4",
-   "county": "Richmond",
-   "street": "311 Green Rd",
-   "city": "Ellerbe",
-   "zip": "28338",
-   "acres": 14.39,
-   "price": 199999,
-   "ppa": 13898,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.09492,
-   "lon": -79.8473,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/richmond-county-north-carolina-homes-for-sale/pid/428416982",
-     "direct": true
-    },
-    {
-     "site": "LandSearch",
-     "url": "https://www.landsearch.com/properties/richmond-county-nc/filter/size[min]=10",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "House"
-   ],
-   "house": true,
-   "beds": 4.0,
-   "baths": 2.0,
-   "sqft": 2079,
-   "chg": "",
-   "dom": 32,
-   "q": "311 Green Rd, Ellerbe, NC 28338",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6551712923",
-   "photoCount": 14,
-   "drive": 32.3,
-   "driveMin": 69
-  },
-  {
-   "id": 98,
-   "key": "richmond|nicholsonrd|rockingham|22.5",
-   "county": "Richmond",
-   "street": "Nicholson Rd",
-   "city": "Rockingham",
-   "zip": "28379",
-   "acres": 22.47,
-   "price": 220000,
-   "ppa": 9791,
-   "alt": [
-    237460
-   ],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 34.97137,
-   "lon": -79.74821,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/richmond-county-north-carolina-undeveloped-land-for-sale/pid/425073622",
-     "direct": true
-    },
-    {
-     "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Richmond-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
-     "direct": false
-    },
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/richmond-county-nc/land-for-sale/",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Lakefront",
-    "Waterfront"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "$12K PRICE DROP",
-   "dom": 342,
-   "q": "Nicholson Rd, Rockingham, NC 28379",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6504568172",
-   "photoCount": 1,
-   "drive": 35.9,
-   "driveMin": 68
-  },
-  {
-   "id": 99,
-   "key": "richmond|countylinerd|ellerbe|18.0",
-   "county": "Richmond",
-   "street": "County Line Rd",
-   "city": "Ellerbe",
-   "zip": "28338",
-   "acres": 18.0,
-   "price": 225000,
-   "ppa": 12500,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.17421,
-   "lon": -79.73553,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/richmond-county-north-carolina-undeveloped-land-for-sale/pid/428499122",
-     "direct": true
-    },
-    {
-     "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Richmond-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
-     "direct": false
-    },
-    {
-     "site": "LandSearch",
-     "url": "https://www.landsearch.com/properties/richmond-county-nc/filter/size[min]=10",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "",
-   "dom": 23,
-   "q": "County Line Rd, Ellerbe, NC 28338",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6572907241",
-   "photoCount": 7,
-   "drive": 33.8,
-   "driveMin": 60
-  },
-  {
-   "id": 101,
-   "key": "richmond|hwy74bypasshwy74interchange|hamlet|10.5",
-   "county": "Richmond",
-   "street": "Hwy74 Bypass Hwy 74 Interchange",
-   "city": "Hamlet",
-   "zip": "28345",
-   "acres": 10.5,
-   "price": 250000,
-   "ppa": 23810,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": null,
-   "lon": null,
-   "loc": null,
-   "locq": "",
-   "links": [
-    {
-     "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Richmond-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
-     "direct": false
-    },
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/richmond-county-nc/land-for-sale/",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "$149K PRICE INCREASE",
-   "dom": null,
-   "q": "Hwy74 Bypass Hwy 74 Interchange, Hamlet, NC 28345",
-   "photo": null,
-   "photoCount": null,
-   "drive": null,
-   "driveMin": null
-  },
-  {
-   "id": 102,
-   "key": "richmond|evhogandr|rockingham|35.0",
-   "county": "Richmond",
-   "street": "E V Hogan Dr",
-   "city": "Rockingham",
-   "zip": "28345",
-   "acres": 35.0,
-   "price": 275000,
-   "ppa": 7857,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 34.9316,
-   "lon": -79.6723,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/richmond-county-north-carolina-recreational-property-for-sale/pid/426858093",
-     "direct": true
-    },
-    {
-     "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Richmond-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
-     "direct": false
-    },
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/richmond-county-nc/land-for-sale/",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Hunting",
-    "Lakefront",
-    "Recreational",
-    "Timberland"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "",
-   "dom": 160,
-   "q": "E V Hogan Dr, Rockingham, NC 28345",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6220751840",
-   "photoCount": 19,
-   "drive": 46.9,
-   "driveMin": 79
-  },
-  {
-   "id": 103,
-   "key": "richmond|234ginmillrd|hamlet|55.0",
-   "county": "Richmond",
-   "street": "234 Gin Mill Rd",
-   "city": "Hamlet",
-   "zip": "28345",
-   "acres": 55.0,
-   "price": 359900,
-   "ppa": 6544,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 34.87324,
-   "lon": -79.7095,
-   "loc": "address",
-   "locq": "234 Gin Mill Rd, Hamlet, NC 28345",
-   "links": [
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/richmond-county-nc/land-for-sale/",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "",
-   "dom": null,
-   "q": "234 Gin Mill Rd, Hamlet, NC 28345",
-   "photo": null,
-   "photoCount": null,
-   "drive": 46.1,
-   "driveMin": 77
-  },
-  {
-   "id": 104,
-   "key": "richmond|hwy1n|rockingham|13.0",
-   "county": "Richmond",
-   "street": "Hwy 1 N",
-   "city": "Rockingham",
-   "zip": "28379",
-   "acres": 13.0,
-   "price": 390000,
-   "ppa": 30000,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 34.95077,
-   "lon": -79.73689,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/richmond-county-north-carolina-commercial-property-for-sale/pid/428532959",
-     "direct": true
-    }
-   ],
-   "tags": [
-    "Commercial"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "",
-   "dom": 20,
-   "q": "Hwy 1 N, Rockingham, NC 28379",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6578969518",
-   "photoCount": 2,
-   "drive": 41.1,
-   "driveMin": 67
-  },
-  {
-   "id": 105,
-   "key": "richmond|311louisbreedenblvd|hamlet|25.0",
-   "county": "Richmond",
-   "street": "311 Louis Breeden Blvd",
-   "city": "Hamlet",
-   "zip": "28345",
-   "acres": 25.0,
-   "price": 390500,
-   "ppa": 15620,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 34.86749,
-   "lon": -79.69428,
-   "loc": "address",
-   "locq": "311 Louis Breeden Blvd, Hamlet, NC 28345",
-   "links": [
-    {
-     "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Richmond-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
-     "direct": false
-    },
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/richmond-county-nc/land-for-sale/",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "$42K PRICE INCREASE",
-   "dom": null,
-   "q": "311 Louis Breeden Blvd, Hamlet, NC 28345",
-   "photo": null,
-   "photoCount": null,
-   "drive": 46.4,
-   "driveMin": 77
-  },
-  {
-   "id": 106,
-   "key": "richmond|hwy1n|rockingham|19.0",
-   "county": "Richmond",
-   "street": "Hwy 1 N",
-   "city": "Rockingham",
-   "zip": "28379",
-   "acres": 19.0,
-   "price": 421500,
-   "ppa": 22184,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 34.95145,
-   "lon": -79.73454,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/richmond-county-north-carolina-commercial-property-for-sale/pid/428532697",
-     "direct": true
-    }
-   ],
-   "tags": [
-    "Commercial"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "",
-   "dom": 20,
-   "q": "Hwy 1 N, Rockingham, NC 28379",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6578958595",
-   "photoCount": 2,
-   "drive": 41.2,
-   "driveMin": 68
-  },
-  {
-   "id": 107,
-   "key": "richmond|1598markscreekchurchrd|laurel hill|27.7",
-   "county": "Richmond",
-   "street": "1598 Marks Creek Church Rd",
-   "city": "Laurel Hill",
-   "zip": "28351",
-   "acres": 27.74,
-   "price": 425000,
-   "ppa": 15321,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 34.87172,
-   "lon": -79.6242,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/richmond-county-north-carolina-homes-for-sale/pid/428535413",
-     "direct": true
-    }
-   ],
-   "tags": [
-    "House"
-   ],
-   "house": true,
-   "beds": 3.0,
-   "baths": 2.0,
-   "sqft": 1736,
-   "chg": "",
-   "dom": 20,
-   "q": "1598 Marks Creek Church Rd, Laurel Hill, NC 28351",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6579119557",
-   "photoCount": 41,
-   "drive": 49.7,
-   "driveMin": 85
-  },
-  {
-   "id": 108,
-   "key": "richmond|490springhillchurchrd|hamlet|40.7",
-   "county": "Richmond",
-   "street": "490 Springhill Church Rd",
-   "city": "Hamlet",
-   "zip": "28345",
-   "acres": 40.67,
-   "price": 425000,
-   "ppa": 10450,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 34.82352,
-   "lon": -79.69137,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/richmond-county-north-carolina-homes-for-sale/pid/428126947",
-     "direct": true
-    }
-   ],
-   "tags": [
-    "House"
-   ],
-   "house": true,
-   "beds": 3.0,
-   "baths": 2.0,
-   "sqft": 910,
-   "chg": "",
-   "dom": 58,
-   "q": "490 Springhill Church Rd, Hamlet, NC 28345",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6484974087",
-   "photoCount": 24,
-   "drive": 51.5,
-   "driveMin": 86
-  },
-  {
-   "id": 109,
-   "key": "richmond|139horseshoerd|rockingham|10.0",
-   "county": "Richmond",
-   "street": "139 Horseshoe Rd",
-   "city": "Rockingham",
-   "zip": "28379",
-   "acres": 10.0,
-   "price": 500000,
-   "ppa": 50000,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 34.84072,
-   "lon": -79.86901,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/richmond-county-north-carolina-homes-for-sale/pid/428186583",
-     "direct": true
-    }
-   ],
-   "tags": [
-    "House"
-   ],
-   "house": true,
-   "beds": 3.0,
-   "baths": 2.0,
-   "sqft": 1731,
-   "chg": "$25K price drop",
-   "dom": 53,
-   "q": "139 Horseshoe Rd, Rockingham, NC 28379",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6497542716",
-   "photoCount": 53,
-   "drive": 47.7,
-   "driveMin": 78
-  },
-  {
-   "id": 112,
-   "key": "richmond|whwy74hwy|rockingham|20.6",
-   "county": "Richmond",
-   "street": "W Hwy 74 Hwy",
-   "city": "Rockingham",
-   "zip": "28379",
-   "acres": 20.56,
-   "price": 750000,
-   "ppa": 36479,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 34.9519,
-   "lon": -79.79059,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/richmond-county-north-carolina-undeveloped-land-for-sale/pid/422327868",
-     "direct": true
-    },
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/richmond-county-nc/land-for-sale/",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "$1M PRICE DROP",
-   "dom": 596,
-   "q": "W Hwy 74 Hwy, Rockingham, NC 28379",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6231437308",
-   "photoCount": 21,
-   "drive": 38.1,
-   "driveMin": 65
-  },
-  {
-   "id": 113,
-   "key": "richmond|2537nushwy220|ellerbe|43.0",
-   "county": "Richmond",
-   "street": "2537 N Us Hwy 220",
-   "city": "Ellerbe",
-   "zip": "28338",
-   "acres": 43.03,
-   "price": 775000,
-   "ppa": 18011,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.0924,
-   "lon": -79.76408,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/richmond-county-north-carolina-commercial-property-for-sale/pid/428719064",
-     "direct": true
-    },
-    {
-     "site": "LandSearch",
-     "url": "https://www.landsearch.com/properties/richmond-county-nc/filter/size[min]=10",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Commercial",
-    "House"
-   ],
-   "house": true,
-   "beds": null,
-   "baths": null,
-   "sqft": 6500,
-   "chg": "",
-   "dom": 1,
-   "q": "2537 N Us Hwy 220, Ellerbe, NC 28338",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6619757587",
-   "photoCount": 92,
-   "drive": 26.8,
-   "driveMin": 50
-  },
-  {
-   "id": 114,
-   "key": "rowan|oldcressrd|salisbury|17.0",
-   "county": "Rowan",
-   "street": "Old Cress Rd",
-   "city": "Salisbury",
-   "zip": "28147",
-   "acres": 17.0,
-   "price": 18000,
-   "ppa": 1059,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.60316,
-   "lon": -80.57646,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/rowan-county-north-carolina-land-for-sale/pid/428357546",
-     "direct": true
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "Price looks unusually low \u2014 verify",
-   "dom": 36,
-   "q": "Old Cress Rd, Salisbury, NC 28147",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6558403550",
-   "photoCount": 1,
-   "drive": 46.7,
-   "driveMin": 81
-  },
-  {
-   "id": 116,
-   "key": "rowan|stokesferryrd|gold hill|16.3",
-   "county": "Rowan",
-   "street": "Stokes Ferry Rd",
-   "city": "Gold Hill",
-   "zip": "28071",
-   "acres": 16.3,
-   "price": 109900,
-   "ppa": 6742,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.64809,
-   "lon": -80.45354,
-   "loc": "road",
-   "locq": "Stokes Ferry Rd",
-   "links": [
-    {
-     "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Rowan-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
-     "direct": false
-    },
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/rowan-county-nc/land-for-sale/",
-     "direct": false
-    },
-    {
-     "site": "LandSearch",
-     "url": "https://www.landsearch.com/properties/rowan-county-nc/filter/size[min]=10",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "$11K PRICE DROP",
-   "dom": null,
-   "q": "Stokes Ferry Rd, Gold Hill, NC 28071",
-   "photo": null,
-   "photoCount": null,
-   "drive": 42.3,
-   "driveMin": 71
-  },
-  {
-   "id": 117,
-   "key": "rowan|215rowanrd|cleveland|15.1",
-   "county": "Rowan",
-   "street": "215 Rowan Rd",
-   "city": "Cleveland",
-   "zip": "27013",
-   "acres": 15.13,
-   "price": 150000,
-   "ppa": 9914,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": null,
-   "lon": null,
-   "loc": null,
-   "locq": "215 Rowan Rd, Cleveland, NC 27013",
-   "links": [
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/rowan-county-nc/land-for-sale/",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "$26K PRICE DROP",
-   "dom": null,
-   "q": "215 Rowan Rd, Cleveland, NC 27013",
-   "photo": null,
-   "photoCount": null,
-   "drive": null,
-   "driveMin": null
-  },
-  {
-   "id": 118,
-   "key": "rowan|675j1chaffinrd|woodleaf|11.3",
-   "county": "Rowan",
-   "street": "675-J1 Chaffin Rd",
-   "city": "Woodleaf",
-   "zip": "27054",
-   "acres": 11.3,
-   "price": 155358,
-   "ppa": 13748,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.81888,
-   "lon": -80.61114,
-   "loc": "address",
-   "locq": "675 Chaffin Rd, Woodleaf, NC 27054",
-   "links": [
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/rowan-county-nc/land-for-sale/",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "",
-   "dom": null,
-   "q": "675-J1 Chaffin Rd, Woodleaf, NC 27054",
-   "photo": null,
-   "photoCount": null,
-   "drive": 57.8,
-   "driveMin": 99
-  },
-  {
-   "id": 120,
-   "key": "rowan|carsonrdunit3|cleveland|9.7",
-   "county": "Rowan",
-   "street": "Carson Rd Unit 3",
-   "city": "Cleveland",
-   "zip": "27013",
-   "acres": 9.7,
-   "price": 187000,
-   "ppa": 19278,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.77534,
-   "lon": -80.62976,
-   "loc": "road",
-   "locq": "Carson Rd",
-   "links": [
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/rowan-county-nc/land-for-sale/",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "$2K PRICE DROP",
-   "dom": null,
-   "q": "Carson Rd Unit 3, Cleveland, NC 27013",
-   "photo": null,
-   "photoCount": null,
-   "drive": 57.7,
-   "driveMin": 99
-  },
-  {
-   "id": 121,
-   "key": "rowan|carsonrd|cleveland|9.7",
-   "county": "Rowan",
-   "street": "Carson Rd",
-   "city": "Cleveland",
-   "zip": "27013",
-   "acres": 9.7,
-   "price": 187000,
-   "ppa": 19278,
-   "alt": [
-    189000
-   ],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.77534,
-   "lon": -80.62976,
-   "loc": "road",
-   "locq": "Carson Rd",
-   "links": [
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/rowan-county-nc/land-for-sale/",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "$2K PRICE DROP",
-   "dom": null,
-   "q": "Carson Rd, Cleveland, NC 27013",
-   "photo": null,
-   "photoCount": null,
-   "drive": 57.7,
-   "driveMin": 99
-  },
-  {
-   "id": 124,
-   "key": "rowan|carsonrdunit1|cleveland|10.7",
-   "county": "Rowan",
-   "street": "Carson Rd Unit 1",
-   "city": "Cleveland",
-   "zip": "27013",
-   "acres": 10.69,
-   "price": 199000,
-   "ppa": 18616,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.77534,
-   "lon": -80.62976,
-   "loc": "road",
-   "locq": "Carson Rd",
-   "links": [
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/rowan-county-nc/land-for-sale/",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "",
-   "dom": null,
-   "q": "Carson Rd Unit 1, Cleveland, NC 27013",
-   "photo": null,
-   "photoCount": null,
-   "drive": 57.7,
-   "driveMin": 99
-  },
-  {
-   "id": 126,
-   "key": "rowan|morganrd|gold hill|12.4",
-   "county": "Rowan",
-   "street": "Morgan Rd",
-   "city": "Gold Hill",
-   "zip": "28071",
-   "acres": 12.37,
-   "price": 220000,
-   "ppa": 17785,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.52926,
-   "lon": -80.33738,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/rowan-county-north-carolina-undeveloped-land-for-sale/pid/427678424",
-     "direct": true
-    },
-    {
-     "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Rowan-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
-     "direct": false
-    },
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/rowan-county-nc/land-for-sale/",
-     "direct": false
-    },
-    {
-     "site": "LandSearch",
-     "url": "https://www.landsearch.com/properties/rowan-county-nc/filter/size[min]=10",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "$80K PRICE DROP",
-   "dom": 96,
-   "q": "Morgan Rd, Gold Hill, NC 28071",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6621447736",
-   "photoCount": 21,
-   "drive": 30.0,
-   "driveMin": 53
-  },
-  {
-   "id": 128,
-   "key": "rowan|catawbadr|salisbury|21.2",
-   "county": "Rowan",
-   "street": "Catawba Dr",
-   "city": "Salisbury",
-   "zip": "28147",
-   "acres": 21.23,
-   "price": 229500,
-   "ppa": 10810,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.71699,
-   "lon": -80.56516,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/rowan-county-north-carolina-undeveloped-land-for-sale/pid/427678422",
-     "direct": true
-    },
-    {
-     "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Rowan-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
-     "direct": false
-    },
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/rowan-county-nc/land-for-sale/",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "$20K PRICE DROP",
-   "dom": 96,
-   "q": "Catawba Dr, Salisbury, NC 28147",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6621447578",
-   "photoCount": 28,
-   "drive": 50.0,
-   "driveMin": 86
-  },
-  {
-   "id": 129,
-   "key": "rowan|5carsonrd|cleveland|10.2",
-   "county": "Rowan",
-   "street": "5 Carson Rd",
-   "city": "Cleveland",
-   "zip": "27013",
-   "acres": 10.2,
-   "price": 245000,
-   "ppa": 24020,
-   "alt": [
-    255000
-   ],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.77534,
-   "lon": -80.62976,
-   "loc": "road",
-   "locq": "Carson Rd",
-   "links": [
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/rowan-county-nc/land-for-sale/",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "$10K PRICE DROP",
-   "dom": null,
-   "q": "5 Carson Rd, Cleveland, NC 27013",
-   "photo": null,
-   "photoCount": null,
-   "drive": 57.7,
-   "driveMin": 99
-  },
-  {
-   "id": 130,
-   "key": "rowan|dukemontst|salisbury|13.3",
-   "county": "Rowan",
-   "street": "Dukemont St",
-   "city": "Salisbury",
-   "zip": "28146",
-   "acres": 13.3,
-   "price": 274600,
-   "ppa": 20647,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.60192,
-   "lon": -80.51624,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/rowan-county-north-carolina-undeveloped-land-for-sale/pid/428114303",
-     "direct": true
-    },
-    {
-     "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Rowan-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
-     "direct": false
-    },
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/rowan-county-nc/land-for-sale/",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "",
-   "dom": 60,
-   "q": "Dukemont St, Salisbury, NC 28146",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6480431996",
-   "photoCount": 1,
-   "drive": 43.4,
-   "driveMin": 79
-  },
-  {
-   "id": 131,
-   "key": "rowan|931mountvernonrd|woodleaf|17.9",
-   "county": "Rowan",
-   "street": "931 Mount Vernon Rd",
-   "city": "Woodleaf",
-   "zip": "27054",
-   "acres": 17.85,
-   "price": 295000,
-   "ppa": 16527,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.79922,
-   "lon": -80.6404,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/rowan-county-north-carolina-farms-and-ranches-for-sale/pid/428369562",
-     "direct": true
-    },
-    {
-     "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Rowan-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
-     "direct": false
-    },
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/rowan-county-nc/land-for-sale/",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Farms and Ranches"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "",
-   "dom": 35,
-   "q": "931 Mount Vernon Rd, Woodleaf, NC 27054",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6542824647",
-   "photoCount": 20,
-   "drive": 58.9,
-   "driveMin": 102
-  },
-  {
-   "id": 133,
-   "key": "rowan|4ketchierd|mount ulla|10.7",
-   "county": "Rowan",
-   "street": "4 Ketchie Rd",
-   "city": "Mount Ulla",
-   "zip": "28125",
-   "acres": 10.65,
-   "price": 299000,
-   "ppa": 28075,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.69858,
-   "lon": -80.72634,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/rowan-county-north-carolina-undeveloped-land-for-sale/pid/428656643",
-     "direct": true
-    },
-    {
-     "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Rowan-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "",
-   "dom": 7,
-   "q": "4 Ketchie Rd, Mount Ulla, NC 28125",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6604916798",
-   "photoCount": 7,
-   "drive": 60.5,
-   "driveMin": 103
-  },
-  {
-   "id": 132,
-   "key": "rowan|552004lot4rowannc|mount ulla|10.7",
-   "county": "Rowan",
-   "street": "552 004 Lot 4, Rowan NC",
-   "city": "Mount Ulla",
-   "zip": "28125",
-   "acres": 10.65,
-   "price": 299000,
-   "ppa": 28075,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.6987,
-   "lon": -80.7262,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/rowan-county-north-carolina-recreational-property-for-sale/pid/428709944",
-     "direct": true
-    }
-   ],
-   "tags": [
-    "Recreational"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "",
-   "dom": 2,
-   "q": "552 004 Lot 4, Rowan NC, Mount Ulla, NC 28125",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6617542526",
-   "photoCount": 21,
-   "drive": 59.8,
-   "driveMin": 103
-  },
-  {
-   "id": 135,
-   "key": "rowan|1ketchierd|mount ulla|10.0",
-   "county": "Rowan",
-   "street": "1 Ketchie Rd",
-   "city": "Mount Ulla",
-   "zip": "28125",
-   "acres": 10.0,
-   "price": 325000,
-   "ppa": 32500,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.69699,
-   "lon": -80.72447,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/rowan-county-north-carolina-undeveloped-land-for-sale/pid/428656158",
-     "direct": true
-    },
-    {
-     "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Rowan-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "",
-   "dom": 7,
-   "q": "1 Ketchie Rd, Mount Ulla, NC 28125",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6604916499",
-   "photoCount": 6,
-   "drive": 59.8,
-   "driveMin": 102
-  },
-  {
-   "id": 134,
-   "key": "rowan|552004lot1rowannc|mount ulla|10.0",
-   "county": "Rowan",
-   "street": "552 004 Lot 1, Rowan NC",
-   "city": "Mount Ulla",
-   "zip": "28125",
-   "acres": 10.0,
-   "price": 325000,
-   "ppa": 32500,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.69885,
-   "lon": -80.729,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/rowan-county-north-carolina-recreational-property-for-sale/pid/428001509",
-     "direct": true
-    }
-   ],
-   "tags": [
-    "Recreational"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "$26K price increase",
-   "dom": 69,
-   "q": "552 004 Lot 1, Rowan NC, Mount Ulla, NC 28125",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6457727387",
-   "photoCount": 32,
-   "drive": 60.5,
-   "driveMin": 103
-  },
-  {
-   "id": 137,
-   "key": "rowan|chinagrovehwy|rockwell|9.7",
-   "county": "Rowan",
-   "street": "China Grove Hwy",
-   "city": "Rockwell",
-   "zip": "28138",
-   "acres": 9.71,
-   "price": 345000,
-   "ppa": 35530,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.55116,
-   "lon": -80.41641,
-   "loc": "road",
-   "locq": "China Grove Hwy",
-   "links": [
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/rowan-county-nc/land-for-sale/",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "$20K PRICE DROP",
-   "dom": null,
-   "q": "China Grove Hwy, Rockwell, NC 28138",
-   "photo": null,
-   "photoCount": null,
-   "drive": 34.5,
-   "driveMin": 61
-  },
-  {
-   "id": 138,
-   "key": "rowan|6ketchierd|mount ulla|14.9",
-   "county": "Rowan",
-   "street": "6 Ketchie Rd",
-   "city": "Mount Ulla",
-   "zip": "28125",
-   "acres": 14.89,
-   "price": 349000,
-   "ppa": 23439,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.70183,
-   "lon": -80.72675,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/rowan-county-north-carolina-undeveloped-land-for-sale/pid/428656645",
-     "direct": true
-    },
-    {
-     "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Rowan-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "",
-   "dom": 7,
-   "q": "6 Ketchie Rd, Mount Ulla, NC 28125",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6604916860",
-   "photoCount": 12,
-   "drive": 59.8,
-   "driveMin": 103
-  },
-  {
-   "id": 139,
-   "key": "rowan|ravenbrookway|granite quarry|19.2",
-   "county": "Rowan",
-   "street": "Raven Brook Way",
-   "city": "Granite Quarry",
-   "zip": "28146",
-   "acres": 19.19,
-   "price": 350000,
-   "ppa": 18239,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.60443,
-   "lon": -80.44765,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/rowan-county-north-carolina-undeveloped-land-for-sale/pid/427773509",
-     "direct": true
-    },
-    {
-     "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Rowan-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
-     "direct": false
-    },
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/rowan-county-nc/land-for-sale/",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "$94K PRICE INCREASE",
-   "dom": 90,
-   "q": "Raven Brook Way, Granite Quarry, NC 28146",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6530611618",
-   "photoCount": 13,
-   "drive": 38.9,
-   "driveMin": 69
-  },
-  {
-   "id": 141,
-   "key": "rowan|2870dunnsmountainrd|salisbury|10.1",
-   "county": "Rowan",
-   "street": "2870 Dunns Mountain Rd",
-   "city": "Salisbury",
-   "zip": "28146",
-   "acres": 10.1,
-   "price": 399000,
-   "ppa": 39505,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.641,
-   "lon": -80.4186,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/rowan-county-north-carolina-undeveloped-land-for-sale/pid/427134423",
-     "direct": true
-    },
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/rowan-county-nc/land-for-sale/",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "",
-   "dom": 140,
-   "q": "2870 Dunns Mountain Rd, Salisbury, NC 28146",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6621831427",
-   "photoCount": 15,
-   "drive": 41.1,
-   "driveMin": 70
-  },
-  {
-   "id": 142,
-   "key": "rowan|425mimosast|cleveland|10.0",
-   "county": "Rowan",
-   "street": "425 Mimosa St",
-   "city": "Cleveland",
-   "zip": "27013",
-   "acres": 10.0,
-   "price": 400000,
-   "ppa": 40000,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.72792,
-   "lon": -80.67607,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/rowan-county-north-carolina-undeveloped-land-for-sale/pid/426576960",
-     "direct": true
-    },
-    {
-     "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Rowan-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
-     "direct": false
-    },
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/rowan-county-nc/land-for-sale/",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "",
-   "dom": 184,
-   "q": "425 Mimosa St, Cleveland, NC 27013",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6162833153",
-   "photoCount": 6,
-   "drive": 56.5,
-   "driveMin": 94
-  },
-  {
-   "id": 143,
-   "key": "rowan|713eastbendln|salisbury|14.3",
-   "county": "Rowan",
-   "street": "713 Eastbend Ln",
-   "city": "Salisbury",
-   "zip": "28146",
-   "acres": 14.32,
-   "price": 440000,
-   "ppa": 30726,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.61284,
-   "lon": -80.48577,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/rowan-county-north-carolina-homes-for-sale/pid/426942447",
-     "direct": true
-    }
-   ],
-   "tags": [
-    "House"
-   ],
-   "house": true,
-   "beds": 3.0,
-   "baths": 2.0,
-   "sqft": 1360,
-   "chg": "$10K price drop",
-   "dom": 153,
-   "q": "713 Eastbend Ln, Salisbury, NC 28146",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6621329483",
-   "photoCount": 34,
-   "drive": 42.8,
-   "driveMin": 77
-  },
-  {
-   "id": 145,
-   "key": "rowan|barnhardtrd|china grove|14.2",
-   "county": "Rowan",
-   "street": "Barnhardt Rd",
-   "city": "China Grove",
-   "zip": "28023",
-   "acres": 14.15,
-   "price": 486000,
-   "ppa": 34346,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.58393,
-   "lon": -80.59919,
-   "loc": "road",
-   "locq": "Barnhardt Rd",
-   "links": [
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/rowan-county-nc/land-for-sale/",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "",
-   "dom": null,
-   "q": "Barnhardt Rd, China Grove, NC 28023",
-   "photo": null,
-   "photoCount": null,
-   "drive": 47.2,
-   "driveMin": 78
-  },
-  {
-   "id": 147,
-   "key": "rowan|hwy152e|china grove|11.8",
-   "county": "Rowan",
-   "street": "Hwy 152 E",
-   "city": "China Grove",
-   "zip": "28023",
-   "acres": 11.75,
-   "price": 500000,
-   "ppa": 42553,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.55116,
-   "lon": -80.41641,
-   "loc": "road",
-   "locq": "Highway 152 E",
-   "links": [
-    {
-     "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Rowan-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
-     "direct": false
-    },
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/rowan-county-nc/land-for-sale/",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "",
-   "dom": null,
-   "q": "Hwy 152 E, China Grove, NC 28023",
-   "photo": null,
-   "photoCount": null,
-   "drive": 34.5,
-   "driveMin": 61
-  },
-  {
-   "id": 148,
-   "key": "rowan|budln|china grove|10.7",
-   "county": "Rowan",
-   "street": "Bud Ln",
-   "city": "China Grove",
-   "zip": "28023",
-   "acres": 10.72,
-   "price": 575000,
-   "ppa": 53638,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.56776,
-   "lon": -80.54982,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/rowan-county-north-carolina-undeveloped-land-for-sale/pid/426141030",
-     "direct": true
-    },
-    {
-     "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Rowan-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
-     "direct": false
-    },
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/rowan-county-nc/land-for-sale/",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "$125K PRICE DROP",
-   "dom": 223,
-   "q": "Bud Ln, China Grove, NC 28023",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6073967745",
-   "photoCount": 12,
-   "drive": 43.5,
-   "driveMin": 72
-  },
-  {
-   "id": 149,
-   "key": "rowan|statesvilleblvd|salisbury|34.0",
-   "county": "Rowan",
-   "street": "Statesville Blvd",
-   "city": "Salisbury",
-   "zip": "28147",
-   "acres": 34.0,
-   "price": 600000,
-   "ppa": 17647,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.71391,
-   "lon": -80.58085,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/rowan-county-north-carolina-commercial-property-for-sale/pid/425237181",
-     "direct": true
-    },
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/rowan-county-nc/land-for-sale/",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Commercial"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "$50K PRICE DROP",
-   "dom": 322,
-   "q": "Statesville Blvd, Salisbury, NC 28147",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-5901473689",
-   "photoCount": 18,
-   "drive": 51.0,
-   "driveMin": 87
-  },
-  {
-   "id": 150,
-   "key": "rowan|1416wast|kannapolis|14.9",
-   "county": "Rowan",
-   "street": "1416 W A St",
-   "city": "Kannapolis",
-   "zip": "28081",
-   "acres": 14.88,
-   "price": 669500,
-   "ppa": 44993,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.51625,
-   "lon": -80.63057,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/rowan-county-north-carolina-undeveloped-land-for-sale/pid/425992280",
-     "direct": true
-    },
-    {
-     "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Rowan-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
-     "direct": false
-    },
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/rowan-county-nc/land-for-sale/",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "",
-   "dom": 237,
-   "q": "1416 W A St, Kannapolis, NC 28081",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6046898030",
-   "photoCount": 6,
-   "drive": 47.4,
-   "driveMin": 82
-  },
-  {
-   "id": 151,
-   "key": "rowan|oldbradshawrd|salisbury|27.6",
-   "county": "Rowan",
-   "street": "Old Bradshaw Rd",
-   "city": "Salisbury",
-   "zip": "28147",
-   "acres": 27.65,
-   "price": 690000,
-   "ppa": 24955,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.68358,
-   "lon": -80.56364,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/rowan-county-north-carolina-recreational-property-for-sale/pid/428326531",
-     "direct": true
-    },
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/rowan-county-nc/land-for-sale/",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Recreational"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "",
-   "dom": 40,
-   "q": "Old Bradshaw Rd, Salisbury, NC 28147",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6530194778",
-   "photoCount": 23,
-   "drive": 48.6,
-   "driveMin": 84
-  },
-  {
-   "id": 152,
-   "key": "rowan|2430grubbferryrd|salisbury|34.8",
-   "county": "Rowan",
-   "street": "2430 Grubb Ferry Rd",
-   "city": "Salisbury",
-   "zip": "28144",
-   "acres": 34.82,
-   "price": 697000,
-   "ppa": 20017,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.71989,
-   "lon": -80.43522,
-   "loc": "address",
-   "locq": "2430 Grubb Ferry Rd, Salisbury, NC 28144",
-   "links": [
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/rowan-county-nc/land-for-sale/",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "",
-   "dom": null,
-   "q": "2430 Grubb Ferry Rd, Salisbury, NC 28144",
-   "photo": null,
-   "photoCount": null,
-   "drive": 47.7,
-   "driveMin": 88
-  },
-  {
-   "id": 153,
-   "key": "rowan|6795jonesrd|salisbury|11.4",
-   "county": "Rowan",
-   "street": "6795 Jones Rd",
-   "city": "Salisbury",
-   "zip": "28147",
-   "acres": 11.38,
-   "price": 700000,
-   "ppa": 61511,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.73951,
-   "lon": -80.53541,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/rowan-county-north-carolina-homes-for-sale/pid/428181949",
-     "direct": true
-    }
-   ],
-   "tags": [
-    "House"
-   ],
-   "house": true,
-   "beds": 5.0,
-   "baths": 5.0,
-   "sqft": 3536,
-   "chg": "",
-   "dom": 54,
-   "q": "6795 Jones Rd, Salisbury, NC 28147",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6495081914",
-   "photoCount": 37,
-   "drive": 51.0,
-   "driveMin": 89
-  },
-  {
-   "id": 155,
-   "key": "rowan|2955sherrillsfordrd|salisbury|36.9",
-   "county": "Rowan",
-   "street": "2955 Sherrills Ford Rd",
-   "city": "Salisbury",
-   "zip": "28147",
-   "acres": 36.88,
-   "price": 799000,
-   "ppa": 21665,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.67669,
-   "lon": -80.54272,
-   "loc": "address",
-   "locq": "2955 Sherrills Ford Rd, Salisbury, NC 28147",
-   "links": [
-    {
-     "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Rowan-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
-     "direct": false
-    },
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/rowan-county-nc/land-for-sale/",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "",
-   "dom": null,
-   "q": "2955 Sherrills Ford Rd, Salisbury, NC 28147",
-   "photo": null,
-   "photoCount": null,
-   "drive": 47.0,
-   "driveMin": 81
-  },
-  {
-   "id": 156,
-   "key": "rowan|1615bargerrd|salisbury|10.3",
-   "county": "Rowan",
-   "street": "1615 Barger Rd",
-   "city": "Salisbury",
-   "zip": "28146",
-   "acres": 10.34,
-   "price": 800000,
-   "ppa": 77369,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.60197,
-   "lon": -80.38757,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/rowan-county-north-carolina-homes-for-sale/pid/428381066",
-     "direct": true
-    }
-   ],
-   "tags": [
-    "House"
-   ],
-   "house": true,
-   "beds": 3.0,
-   "baths": 3.0,
-   "sqft": 3705,
-   "chg": "",
-   "dom": 34,
-   "q": "1615 Barger Rd, Salisbury, NC 28146",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6621674535",
-   "photoCount": 29,
-   "drive": 37.1,
-   "driveMin": 68
-  },
-  {
-   "id": 157,
-   "key": "rowan|enc152hwy|rockwell|34.4",
-   "county": "Rowan",
-   "street": "E NC 152 Hwy",
-   "city": "Rockwell",
-   "zip": "28138",
-   "acres": 34.4,
-   "price": 890960,
-   "ppa": 25900,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.54713,
-   "lon": -80.43274,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/rowan-county-north-carolina-undeveloped-land-for-sale/pid/428565051",
-     "direct": true
-    },
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/rowan-county-nc/land-for-sale/",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "",
-   "dom": 16,
-   "q": "E NC 152 Hwy, Rockwell, NC 28138",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6621646251",
-   "photoCount": 2,
-   "drive": 35.5,
-   "driveMin": 63
-  },
-  {
-   "id": 158,
-   "key": "rowan|1175mccoyfarmrd|salisbury|46.0",
-   "county": "Rowan",
-   "street": "1175 McCoy Farm Rd",
-   "city": "Salisbury",
-   "zip": "28146",
-   "acres": 46.0,
-   "price": 895000,
-   "ppa": 19457,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.68265,
-   "lon": -80.36272,
-   "loc": "address",
-   "locq": "1175 McCoy Farm Rd, Salisbury, NC 28146",
-   "links": [
-    {
-     "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Rowan-County_NC/type-land/price-na-1000000/lot-sqft-435600-2178000",
-     "direct": false
-    },
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/rowan-county-nc/land-for-sale/",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "",
-   "dom": null,
-   "q": "1175 McCoy Farm Rd, Salisbury, NC 28146",
-   "photo": null,
-   "photoCount": null,
-   "drive": 43.2,
-   "driveMin": 75
-  },
-  {
-   "id": 159,
-   "key": "rowan|625jacksonrd|salisbury|20.4",
-   "county": "Rowan",
-   "street": "625 Jackson Rd",
-   "city": "Salisbury",
-   "zip": "28146",
-   "acres": 20.35,
-   "price": 895900,
-   "ppa": 44025,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 35.56079,
-   "lon": -80.46664,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/rowan-county-north-carolina-homes-for-sale/pid/427386230",
-     "direct": true
-    }
-   ],
-   "tags": [
-    "House"
-   ],
-   "house": true,
-   "beds": 3.0,
-   "baths": 2.0,
-   "sqft": 2213,
-   "chg": "",
-   "dom": 119,
-   "q": "625 Jackson Rd, Salisbury, NC 28146",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6621439204",
-   "photoCount": 43,
-   "drive": 40.1,
-   "driveMin": 70
   }
  ]
 }
