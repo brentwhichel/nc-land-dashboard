@@ -1,9 +1,116 @@
 {
- "asOf": "Nov 11, 2026, 7:25 PM ET",
+ "asOf": "Nov 16, 2026, 9:08 AM ET",
  "criteria": "Montgomery, Stanly and Anson Counties NC; more than 25 acres; under $1,000,000; active; with a listing photo",
  "listings": [
   {
    "id": 1,
+   "key": "montgomery|grahamrd|candor|31.5",
+   "aliases": [],
+   "county": "Montgomery",
+   "street": "Graham Rd",
+   "city": "Candor",
+   "zip": "27229",
+   "acres": 31.5,
+   "price": 276727,
+   "ppa": 8785,
+   "alt": [],
+   "status": "Active",
+   "pendingOn": [],
+   "lat": 35.19473,
+   "lon": -79.79243,
+   "loc": "listing",
+   "locq": "",
+   "links": [
+    {
+     "site": "Realtor.com",
+     "url": "https://www.realtor.com/realestateandhomes-search/Montgomery-County_NC/type-land/price-na-1000000/lot-sqft-1089000-na",
+     "direct": false
+    },
+    {
+     "site": "Homes.com",
+     "url": "https://www.homes.com/montgomery-county-nc/land-for-sale/",
+     "direct": false
+    },
+    {
+     "site": "LandSearch",
+     "url": "https://www.landsearch.com/properties/montgomery-county-nc/filter/price[max]=1000000,size[min]=25",
+     "direct": false
+    },
+    {
+     "site": "National Land Realty",
+     "url": "https://nationalland.com/listing/mls-listing-100503-nc-montgomery",
+     "direct": true
+    }
+   ],
+   "tags": [
+    "Land"
+   ],
+   "house": false,
+   "beds": null,
+   "baths": null,
+   "sqft": null,
+   "chg": "",
+   "dom": null,
+   "q": "Graham Rd, Candor, NC 27229",
+   "photo": "https://nlr-assets-public-production.s3.us-east-2.amazonaws.com/listings/3320522/mls-images/thumbs/6ad328d32daa5.jpg",
+   "photoCount": 2,
+   "photoSrc": "National Land Realty",
+   "drive": 23.4,
+   "driveMin": 53
+  },
+  {
+   "id": 2,
+   "key": "montgomery|grahamrd|candor|32.1",
+   "aliases": [],
+   "county": "Montgomery",
+   "street": "Graham Rd",
+   "city": "Candor",
+   "zip": "27229",
+   "acres": 32.1,
+   "price": 281998,
+   "ppa": 8785,
+   "alt": [],
+   "status": "Active",
+   "pendingOn": [],
+   "lat": 35.18965,
+   "lon": -79.79579,
+   "loc": "listing",
+   "locq": "",
+   "links": [
+    {
+     "site": "Realtor.com",
+     "url": "https://www.realtor.com/realestateandhomes-search/Montgomery-County_NC/type-land/price-na-1000000/lot-sqft-1089000-na",
+     "direct": false
+    },
+    {
+     "site": "LandSearch",
+     "url": "https://www.landsearch.com/properties/montgomery-county-nc/filter/price[max]=1000000,size[min]=25",
+     "direct": false
+    },
+    {
+     "site": "National Land Realty",
+     "url": "https://nationalland.com/listing/mls-listing-100502-nc-montgomery",
+     "direct": true
+    }
+   ],
+   "tags": [
+    "Land"
+   ],
+   "house": false,
+   "beds": null,
+   "baths": null,
+   "sqft": null,
+   "chg": "",
+   "dom": null,
+   "q": "Graham Rd, Candor, NC 27229",
+   "photo": "https://nlr-assets-public-production.s3.us-east-2.amazonaws.com/listings/3320521/mls-images/thumbs/6ad328d19b1b3.jpg",
+   "photoCount": 2,
+   "photoSrc": "National Land Realty",
+   "drive": 23.9,
+   "driveMin": 55
+  },
+  {
+   "id": 3,
    "key": "montgomery|centerbaptistchurchrd|jackson springs|31.0",
    "aliases": [],
    "county": "Montgomery",
@@ -35,6 +142,21 @@
      "site": "Realtor.com",
      "url": "https://www.realtor.com/realestateandhomes-search/Montgomery-County_NC/type-land/price-na-1000000/lot-sqft-1089000-na",
      "direct": false
+    },
+    {
+     "site": "Zillow",
+     "url": "https://www.zillow.com/montgomery-county-nc/land/",
+     "direct": false
+    },
+    {
+     "site": "Land.com",
+     "url": "https://www.land.com/Montgomery-County-NC/all-land/over-20-acres/",
+     "direct": false
+    },
+    {
+     "site": "LandSearch",
+     "url": "https://www.landsearch.com/properties/montgomery-county-nc/filter/price[max]=1000000,size[min]=25",
+     "direct": false
     }
    ],
    "tags": [
@@ -45,7 +167,7 @@
    "baths": null,
    "sqft": null,
    "chg": "$20K price drop",
-   "dom": 371,
+   "dom": 376,
    "q": "Center Baptist Church Rd, Jackson Springs, NC 27281",
    "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-5972976480",
    "photoCount": 8,
@@ -54,7 +176,7 @@
    "driveMin": 54
   },
   {
-   "id": 2,
+   "id": 4,
    "key": "montgomery|164hainesrd|jackson springs|50.0",
    "aliases": [],
    "county": "Montgomery",
@@ -76,6 +198,16 @@
      "site": "LandWatch",
      "url": "https://www.landwatch.com/montgomery-county-north-carolina-recreational-property-for-sale/pid/425071836",
      "direct": true
+    },
+    {
+     "site": "Land.com",
+     "url": "https://www.land.com/Montgomery-County-NC/all-land/over-20-acres/",
+     "direct": false
+    },
+    {
+     "site": "Whitetail Properties",
+     "url": "https://www.whitetailproperties.com/hunting-land?state%5B%5D=North%20Carolina&county%5B%5D=Montgomery",
+     "direct": false
     }
    ],
    "tags": [
@@ -88,7 +220,7 @@
    "baths": 1.0,
    "sqft": null,
    "chg": "$64K price drop",
-   "dom": 350,
+   "dom": 355,
    "q": "164 Haines Rd, Jackson Springs, NC 27281",
    "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-5892858203",
    "photoCount": 29,
@@ -97,7 +229,7 @@
    "driveMin": 62
   },
   {
-   "id": 3,
+   "id": 5,
    "key": "montgomery|brewerfarmrd|mount gilead|30.0",
    "aliases": [],
    "county": "Montgomery",
@@ -126,8 +258,23 @@
      "direct": false
     },
     {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/montgomery-county-nc/land-for-sale/",
+     "site": "National Land Realty",
+     "url": "https://nationalland.com/listing/mls-listing-100507-nc-montgomery",
+     "direct": true
+    },
+    {
+     "site": "Zillow",
+     "url": "https://www.zillow.com/montgomery-county-nc/land/",
+     "direct": false
+    },
+    {
+     "site": "Land.com",
+     "url": "https://www.land.com/Montgomery-County-NC/all-land/over-20-acres/",
+     "direct": false
+    },
+    {
+     "site": "LandSearch",
+     "url": "https://www.landsearch.com/properties/montgomery-county-nc/filter/price[max]=1000000,size[min]=25",
      "direct": false
     }
    ],
@@ -142,7 +289,7 @@
    "baths": null,
    "sqft": null,
    "chg": "",
-   "dom": 324,
+   "dom": 329,
    "q": "Brewer Farm Rd, Mount Gilead, NC 27306",
    "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-5910507431",
    "photoCount": 1,
@@ -151,7 +298,7 @@
    "driveMin": 37
   },
   {
-   "id": 4,
+   "id": 6,
    "key": "montgomery|2939nchwy134n|troy|105.0",
    "aliases": [],
    "county": "Montgomery",
@@ -185,6 +332,11 @@
      "site": "Homes.com",
      "url": "https://www.homes.com/montgomery-county-nc/land-for-sale/",
      "direct": false
+    },
+    {
+     "site": "Zillow",
+     "url": "https://www.zillow.com/montgomery-county-nc/land/",
+     "direct": false
     }
    ],
    "tags": [
@@ -195,7 +347,7 @@
    "baths": null,
    "sqft": null,
    "chg": "",
-   "dom": 128,
+   "dom": 133,
    "q": "2939 NC Hwy 134 N, Troy, NC 27371",
    "photo": "https://ssl.cdn-redfin.com/photo/103/mbphotov3/798/genMid.4400798_2.jpg",
    "photoCount": 7,
@@ -204,7 +356,7 @@
    "driveMin": 46
   },
   {
-   "id": 5,
+   "id": 7,
    "key": "montgomery|ophirrd|troy|147.7",
    "aliases": [],
    "county": "Montgomery",
@@ -236,6 +388,21 @@
      "site": "Realtor.com",
      "url": "https://www.realtor.com/realestateandhomes-search/Montgomery-County_NC/type-land/price-na-1000000/lot-sqft-1089000-na",
      "direct": false
+    },
+    {
+     "site": "Zillow",
+     "url": "https://www.zillow.com/montgomery-county-nc/land/",
+     "direct": false
+    },
+    {
+     "site": "Land.com",
+     "url": "https://www.land.com/Montgomery-County-NC/all-land/over-20-acres/",
+     "direct": false
+    },
+    {
+     "site": "LandSearch",
+     "url": "https://www.landsearch.com/properties/montgomery-county-nc/filter/price[max]=1000000,size[min]=25",
+     "direct": false
     }
    ],
    "tags": [
@@ -247,7 +414,7 @@
    "baths": null,
    "sqft": null,
    "chg": "$84K price drop",
-   "dom": 373,
+   "dom": 378,
    "q": "Ophir Rd, Troy, NC 27371",
    "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-5859470382",
    "photoCount": 4,
@@ -256,7 +423,7 @@
    "driveMin": 42
   },
   {
-   "id": 6,
+   "id": 8,
    "key": "montgomery|ncarolina731|candor|173.2",
    "aliases": [],
    "county": "Montgomery",
@@ -288,6 +455,21 @@
      "site": "Homes.com",
      "url": "https://www.homes.com/montgomery-county-nc/land-for-sale/",
      "direct": false
+    },
+    {
+     "site": "Zillow",
+     "url": "https://www.zillow.com/montgomery-county-nc/land/",
+     "direct": false
+    },
+    {
+     "site": "Mossy Oak Properties",
+     "url": "https://www.mossyoakproperties.com/land-for-sale/north-carolina/montgomery-county/",
+     "direct": false
+    },
+    {
+     "site": "LandSearch",
+     "url": "https://www.landsearch.com/properties/montgomery-county-nc/filter/price[max]=1000000,size[min]=25",
+     "direct": false
     }
    ],
    "tags": [
@@ -298,7 +480,7 @@
    "baths": null,
    "sqft": null,
    "chg": "$99K PRICE DROP",
-   "dom": 196,
+   "dom": 201,
    "q": "NC 731, Candor, NC 27229",
    "photo": "https://ssl.cdn-redfin.com/photo/103/mbphotov3/741/genMid.4375741_1.jpg",
    "photoCount": 48,
@@ -307,7 +489,7 @@
    "driveMin": 45
   },
   {
-   "id": 7,
+   "id": 9,
    "key": "stanly|southboundrd|albemarle|25.0",
    "aliases": [],
    "county": "Stanly",
@@ -339,6 +521,11 @@
      "site": "Homes.com",
      "url": "https://www.homes.com/stanly-county-nc/land-for-sale/",
      "direct": false
+    },
+    {
+     "site": "Zillow",
+     "url": "https://www.zillow.com/stanly-county-nc/land/",
+     "direct": false
     }
    ],
    "tags": [
@@ -358,7 +545,7 @@
    "driveMin": 34
   },
   {
-   "id": 8,
+   "id": 10,
    "key": "stanly|104threekingsway|albemarle|25.8",
    "aliases": [],
    "county": "Stanly",
@@ -380,6 +567,16 @@
      "site": "LandWatch",
      "url": "https://www.landwatch.com/stanly-county-north-carolina-homes-for-sale/pid/428155892",
      "direct": true
+    },
+    {
+     "site": "Land.com",
+     "url": "https://www.land.com/Stanly-County-NC/all-land/over-20-acres/",
+     "direct": false
+    },
+    {
+     "site": "LandSearch",
+     "url": "https://www.landsearch.com/properties/stanly-county-nc/filter/price[max]=1000000,size[min]=25",
+     "direct": false
     }
    ],
    "tags": [
@@ -390,7 +587,7 @@
    "baths": 2.0,
    "sqft": 1925,
    "chg": "",
-   "dom": 62,
+   "dom": 67,
    "q": "104 Three Kings Way, Albemarle, NC 28001",
    "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6504457277",
    "photoCount": 3,
@@ -399,7 +596,7 @@
    "driveMin": 32
   },
   {
-   "id": 9,
+   "id": 11,
    "key": "stanly|1810montgomeryave|albemarle|60.8",
    "aliases": [],
    "county": "Stanly",
@@ -421,6 +618,11 @@
      "site": "LandWatch",
      "url": "https://www.landwatch.com/stanly-county-north-carolina-homes-for-sale/pid/428126669",
      "direct": true
+    },
+    {
+     "site": "Land.com",
+     "url": "https://www.land.com/Stanly-County-NC/all-land/over-20-acres/",
+     "direct": false
     }
    ],
    "tags": [
@@ -431,7 +633,7 @@
    "baths": 2.0,
    "sqft": 1738,
    "chg": "$32K price increase",
-   "dom": 65,
+   "dom": 70,
    "q": "1810 Montgomery Ave, Albemarle, NC 28001",
    "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6484928688",
    "photoCount": 1,
@@ -440,7 +642,7 @@
    "driveMin": 29
   },
   {
-   "id": 10,
+   "id": 12,
    "key": "stanly|silverrd|oakboro|26.4",
    "aliases": [],
    "county": "Stanly",
@@ -472,6 +674,26 @@
      "site": "Realtor.com",
      "url": "https://www.realtor.com/realestateandhomes-search/Stanly-County_NC/type-land/price-na-1000000/lot-sqft-1089000-na",
      "direct": false
+    },
+    {
+     "site": "Homes.com",
+     "url": "https://www.homes.com/stanly-county-nc/land-for-sale/",
+     "direct": false
+    },
+    {
+     "site": "Zillow",
+     "url": "https://www.zillow.com/stanly-county-nc/land/",
+     "direct": false
+    },
+    {
+     "site": "Land.com",
+     "url": "https://www.land.com/Stanly-County-NC/all-land/over-20-acres/",
+     "direct": false
+    },
+    {
+     "site": "LandSearch",
+     "url": "https://www.landsearch.com/properties/stanly-county-nc/filter/price[max]=1000000,size[min]=25",
+     "direct": false
     }
    ],
    "tags": [
@@ -481,8 +703,8 @@
    "beds": null,
    "baths": null,
    "sqft": null,
-   "chg": "$84K price drop",
-   "dom": 232,
+   "chg": "$134K PRICE DROP",
+   "dom": 237,
    "q": "Silver Rd, Oakboro, NC 28129",
    "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6069398040",
    "photoCount": 17,
@@ -491,7 +713,7 @@
    "driveMin": 53
   },
   {
-   "id": 11,
+   "id": 13,
    "key": "stanly|herlockerrd|new london|31.6",
    "aliases": [],
    "county": "Stanly",
@@ -528,6 +750,21 @@
      "site": "Homes.com",
      "url": "https://www.homes.com/stanly-county-nc/land-for-sale/",
      "direct": false
+    },
+    {
+     "site": "Zillow",
+     "url": "https://www.zillow.com/stanly-county-nc/land/",
+     "direct": false
+    },
+    {
+     "site": "Land.com",
+     "url": "https://www.land.com/Stanly-County-NC/all-land/over-20-acres/",
+     "direct": false
+    },
+    {
+     "site": "LandSearch",
+     "url": "https://www.landsearch.com/properties/stanly-county-nc/filter/price[max]=1000000,size[min]=25",
+     "direct": false
     }
    ],
    "tags": [
@@ -538,7 +775,7 @@
    "baths": null,
    "sqft": null,
    "chg": "$37K PRICE DROP",
-   "dom": 418,
+   "dom": 423,
    "q": "Herlocker Rd, New London, NC 28127",
    "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-5731655995",
    "photoCount": 17,
@@ -547,7 +784,7 @@
    "driveMin": 40
   },
   {
-   "id": 12,
+   "id": 14,
    "key": "stanly|penningtonrd|albemarle|28.8",
    "aliases": [],
    "county": "Stanly",
@@ -579,6 +816,16 @@
      "site": "Homes.com",
      "url": "https://www.homes.com/stanly-county-nc/land-for-sale/",
      "direct": false
+    },
+    {
+     "site": "Zillow",
+     "url": "https://www.zillow.com/stanly-county-nc/land/",
+     "direct": false
+    },
+    {
+     "site": "LandSearch",
+     "url": "https://www.landsearch.com/properties/stanly-county-nc/filter/price[max]=1000000,size[min]=25",
+     "direct": false
     }
    ],
    "tags": [
@@ -598,7 +845,7 @@
    "driveMin": 40
   },
   {
-   "id": 13,
+   "id": 15,
    "key": "stanly|efirdrd|albemarle|37.6",
    "aliases": [],
    "county": "Stanly",
@@ -635,6 +882,21 @@
      "site": "Homes.com",
      "url": "https://www.homes.com/stanly-county-nc/land-for-sale/",
      "direct": false
+    },
+    {
+     "site": "Zillow",
+     "url": "https://www.zillow.com/stanly-county-nc/land/",
+     "direct": false
+    },
+    {
+     "site": "Land.com",
+     "url": "https://www.land.com/Stanly-County-NC/all-land/over-20-acres/",
+     "direct": false
+    },
+    {
+     "site": "LandSearch",
+     "url": "https://www.landsearch.com/properties/stanly-county-nc/filter/price[max]=1000000,size[min]=25",
+     "direct": false
     }
    ],
    "tags": [
@@ -645,7 +907,7 @@
    "baths": null,
    "sqft": null,
    "chg": "",
-   "dom": 30,
+   "dom": 35,
    "q": "Efird Rd, Albemarle, NC 28001",
    "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6572669701",
    "photoCount": 1,
@@ -654,7 +916,7 @@
    "driveMin": 45
   },
   {
-   "id": 14,
+   "id": 16,
    "key": "stanly|201oakst|stanfield|25.9",
    "aliases": [],
    "county": "Stanly",
@@ -691,6 +953,16 @@
      "site": "Homes.com",
      "url": "https://www.homes.com/stanly-county-nc/land-for-sale/",
      "direct": false
+    },
+    {
+     "site": "Zillow",
+     "url": "https://www.zillow.com/stanly-county-nc/land/",
+     "direct": false
+    },
+    {
+     "site": "Land.com",
+     "url": "https://www.land.com/Stanly-County-NC/all-land/over-20-acres/",
+     "direct": false
     }
    ],
    "tags": [
@@ -701,7 +973,7 @@
    "baths": null,
    "sqft": null,
    "chg": "$160K PRICE INCREASE",
-   "dom": 1981,
+   "dom": 1986,
    "q": "201 Oak St, Stanfield, NC 28163",
    "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-5656403502",
    "photoCount": 1,
@@ -710,7 +982,7 @@
    "driveMin": 55
   },
   {
-   "id": 15,
+   "id": 17,
    "key": "stanly|bridgerd|mount pleasant|37.3",
    "aliases": [],
    "county": "Stanly",
@@ -747,6 +1019,21 @@
      "site": "Homes.com",
      "url": "https://www.homes.com/stanly-county-nc/land-for-sale/",
      "direct": false
+    },
+    {
+     "site": "Zillow",
+     "url": "https://www.zillow.com/stanly-county-nc/land/",
+     "direct": false
+    },
+    {
+     "site": "Land.com",
+     "url": "https://www.land.com/Stanly-County-NC/all-land/over-20-acres/",
+     "direct": false
+    },
+    {
+     "site": "LandSearch",
+     "url": "https://www.landsearch.com/properties/stanly-county-nc/filter/price[max]=1000000,size[min]=25",
+     "direct": false
     }
    ],
    "tags": [
@@ -757,7 +1044,7 @@
    "baths": null,
    "sqft": null,
    "chg": "$25K PRICE DROP",
-   "dom": 244,
+   "dom": 249,
    "q": "Bridge Rd, Mount Pleasant, NC 28124",
    "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6610663474",
    "photoCount": 7,
@@ -766,7 +1053,7 @@
    "driveMin": 46
   },
   {
-   "id": 16,
+   "id": 18,
    "key": "stanly|32286latonrd|albemarle|54.0",
    "aliases": [],
    "county": "Stanly",
@@ -793,6 +1080,16 @@
      "site": "Homes.com",
      "url": "https://www.homes.com/stanly-county-nc/land-for-sale/",
      "direct": false
+    },
+    {
+     "site": "Zillow",
+     "url": "https://www.zillow.com/stanly-county-nc/land/",
+     "direct": false
+    },
+    {
+     "site": "LandSearch",
+     "url": "https://www.landsearch.com/properties/stanly-county-nc/filter/price[max]=1000000,size[min]=25",
+     "direct": false
     }
    ],
    "tags": [
@@ -812,63 +1109,7 @@
    "driveMin": 29
   },
   {
-   "id": 17,
-   "key": "anson|hightowerrd|morven|59.0",
-   "aliases": [],
-   "county": "Anson",
-   "street": "Hightower Rd",
-   "city": "Morven",
-   "zip": "28119",
-   "acres": 59.0,
-   "price": 274900,
-   "ppa": 4659,
-   "alt": [],
-   "status": "Active",
-   "pendingOn": [],
-   "lat": 34.81816,
-   "lon": -80.07672,
-   "loc": "listing",
-   "locq": "",
-   "links": [
-    {
-     "site": "LandWatch",
-     "url": "https://www.landwatch.com/anson-county-north-carolina-undeveloped-land-for-sale/pid/426453315",
-     "direct": true
-    },
-    {
-     "site": "Redfin",
-     "url": "https://www.redfin.com/NC/Morven/TBD-Hightower-Rd-28119/home/186994379",
-     "direct": true
-    },
-    {
-     "site": "Realtor.com",
-     "url": "https://www.realtor.com/realestateandhomes-search/Anson-County_NC/type-land/price-na-1000000/lot-sqft-1089000-na",
-     "direct": false
-    },
-    {
-     "site": "Homes.com",
-     "url": "https://www.homes.com/anson-county-nc/land-for-sale/",
-     "direct": false
-    }
-   ],
-   "tags": [
-    "Land"
-   ],
-   "house": false,
-   "beds": null,
-   "baths": null,
-   "sqft": null,
-   "chg": "$25K PRICE DROP",
-   "dom": 202,
-   "q": "Hightower Rd, Morven, NC 28119",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6134337140",
-   "photoCount": 3,
-   "photoSrc": "LandWatch",
-   "drive": 40.3,
-   "driveMin": 76
-  },
-  {
-   "id": 18,
+   "id": 19,
    "key": "anson|nchwy109n|wadesboro|64.4",
    "aliases": [],
    "county": "Anson",
@@ -900,6 +1141,16 @@
      "site": "Homes.com",
      "url": "https://www.homes.com/anson-county-nc/land-for-sale/",
      "direct": false
+    },
+    {
+     "site": "Zillow",
+     "url": "https://www.zillow.com/anson-county-nc/land/",
+     "direct": false
+    },
+    {
+     "site": "LandSearch",
+     "url": "https://www.landsearch.com/properties/anson-county-nc/filter/price[max]=1000000,size[min]=25",
+     "direct": false
     }
    ],
    "tags": [
@@ -919,7 +1170,7 @@
    "driveMin": 53
   },
   {
-   "id": 19,
+   "id": 20,
    "key": "anson|previtterd|morven|80.5",
    "aliases": [],
    "county": "Anson",
@@ -946,6 +1197,16 @@
      "site": "Homes.com",
      "url": "https://www.homes.com/anson-county-nc/land-for-sale/",
      "direct": false
+    },
+    {
+     "site": "Zillow",
+     "url": "https://www.zillow.com/anson-county-nc/land/",
+     "direct": false
+    },
+    {
+     "site": "Land.com",
+     "url": "https://www.land.com/Anson-County-NC/all-land/over-20-acres/",
+     "direct": false
     }
    ],
    "tags": [
@@ -956,7 +1217,7 @@
    "baths": null,
    "sqft": null,
    "chg": "",
-   "dom": 105,
+   "dom": 110,
    "q": "Previtte Rd, Morven, NC 28119",
    "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6480755617",
    "photoCount": 5,
@@ -965,7 +1226,7 @@
    "driveMin": 69
   },
   {
-   "id": 20,
+   "id": 21,
    "key": "anson|chesterfieldrd|wadesboro|57.0",
    "aliases": [],
    "county": "Anson",
@@ -1002,6 +1263,21 @@
      "site": "Homes.com",
      "url": "https://www.homes.com/anson-county-nc/land-for-sale/",
      "direct": false
+    },
+    {
+     "site": "Zillow",
+     "url": "https://www.zillow.com/anson-county-nc/land/",
+     "direct": false
+    },
+    {
+     "site": "Land.com",
+     "url": "https://www.land.com/Anson-County-NC/all-land/over-20-acres/",
+     "direct": false
+    },
+    {
+     "site": "LandSearch",
+     "url": "https://www.landsearch.com/properties/anson-county-nc/filter/price[max]=1000000,size[min]=25",
+     "direct": false
     }
    ],
    "tags": [
@@ -1012,7 +1288,7 @@
    "baths": null,
    "sqft": null,
    "chg": "$60K PRICE DROP",
-   "dom": 478,
+   "dom": 483,
    "q": "Chesterfield Rd, Wadesboro, NC 28170",
    "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-5656598834",
    "photoCount": 8,
@@ -1021,7 +1297,7 @@
    "driveMin": 54
   },
   {
-   "id": 21,
+   "id": 22,
    "key": "anson|robinsonbridgerd|morven|61.4",
    "aliases": [],
    "county": "Anson",
@@ -1058,6 +1334,21 @@
      "site": "Homes.com",
      "url": "https://www.homes.com/anson-county-nc/land-for-sale/",
      "direct": false
+    },
+    {
+     "site": "Zillow",
+     "url": "https://www.zillow.com/anson-county-nc/land/",
+     "direct": false
+    },
+    {
+     "site": "Land.com",
+     "url": "https://www.land.com/Anson-County-NC/all-land/over-20-acres/",
+     "direct": false
+    },
+    {
+     "site": "LandSearch",
+     "url": "https://www.landsearch.com/properties/anson-county-nc/filter/price[max]=1000000,size[min]=25",
+     "direct": false
     }
    ],
    "tags": [
@@ -1068,7 +1359,7 @@
    "baths": null,
    "sqft": null,
    "chg": "",
-   "dom": 224,
+   "dom": 229,
    "q": "Robinson Bridge Rd, Morven, NC 28119",
    "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6087697170",
    "photoCount": 10,
@@ -1077,7 +1368,7 @@
    "driveMin": 64
   },
   {
-   "id": 22,
+   "id": 23,
    "key": "anson|1456edwardsstorerd|polkton|33.2",
    "aliases": [],
    "county": "Anson",
@@ -1114,6 +1405,21 @@
      "site": "Homes.com",
      "url": "https://www.homes.com/anson-county-nc/land-for-sale/",
      "direct": false
+    },
+    {
+     "site": "Zillow",
+     "url": "https://www.zillow.com/anson-county-nc/land/",
+     "direct": false
+    },
+    {
+     "site": "Land.com",
+     "url": "https://www.land.com/Anson-County-NC/all-land/over-20-acres/",
+     "direct": false
+    },
+    {
+     "site": "LandSearch",
+     "url": "https://www.landsearch.com/properties/anson-county-nc/filter/price[max]=1000000,size[min]=25",
+     "direct": false
     }
    ],
    "tags": [
@@ -1124,7 +1430,7 @@
    "baths": null,
    "sqft": null,
    "chg": "",
-   "dom": 173,
+   "dom": 178,
    "q": "1456 Edwards Store Rd, Polkton, NC 28135",
    "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6206898356",
    "photoCount": 6,
@@ -1133,7 +1439,7 @@
    "driveMin": 59
   },
   {
-   "id": 23,
+   "id": 24,
    "key": "anson|3909wightmanchurchrd|polkton|34.1",
    "aliases": [],
    "county": "Anson",
@@ -1155,6 +1461,11 @@
      "site": "LandWatch",
      "url": "https://www.landwatch.com/anson-county-north-carolina-homes-for-sale/pid/426976570",
      "direct": true
+    },
+    {
+     "site": "Land.com",
+     "url": "https://www.land.com/Anson-County-NC/all-land/over-20-acres/",
+     "direct": false
     }
    ],
    "tags": [
@@ -1165,16 +1476,16 @@
    "baths": 1.0,
    "sqft": 520,
    "chg": "",
-   "dom": 158,
+   "dom": 163,
    "q": "3909 Wightman Church Rd, Polkton, NC 28135",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6638022138",
+   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6647247729",
    "photoCount": 48,
    "photoSrc": "LandWatch",
    "drive": 24.7,
    "driveMin": 52
   },
   {
-   "id": 24,
+   "id": 25,
    "key": "anson|589billcurleerd|polkton|77.0",
    "aliases": [],
    "county": "Anson",
@@ -1206,6 +1517,11 @@
      "site": "Homes.com",
      "url": "https://www.homes.com/anson-county-nc/land-for-sale/",
      "direct": false
+    },
+    {
+     "site": "Zillow",
+     "url": "https://www.zillow.com/anson-county-nc/land/",
+     "direct": false
     }
    ],
    "tags": [
@@ -1216,7 +1532,7 @@
    "baths": null,
    "sqft": null,
    "chg": "$77K PRICE DROP",
-   "dom": 61,
+   "dom": 66,
    "q": "589 Bill Curlee Rd, Polkton, NC 28135",
    "photo": "https://ssl.cdn-redfin.com/photo/103/mbphotov3/691/genMid.4423691_0.jpg",
    "photoCount": 42,
@@ -1225,7 +1541,7 @@
    "driveMin": 60
   },
   {
-   "id": 25,
+   "id": 26,
    "key": "anson|393redhillrd|wadesboro|75.0",
    "aliases": [],
    "county": "Anson",
@@ -1252,6 +1568,16 @@
      "site": "Homes.com",
      "url": "https://www.homes.com/anson-county-nc/land-for-sale/",
      "direct": false
+    },
+    {
+     "site": "Zillow",
+     "url": "https://www.zillow.com/anson-county-nc/land/",
+     "direct": false
+    },
+    {
+     "site": "LandSearch",
+     "url": "https://www.landsearch.com/properties/anson-county-nc/filter/price[max]=1000000,size[min]=25",
+     "direct": false
     }
    ],
    "tags": [
@@ -1262,7 +1588,7 @@
    "baths": null,
    "sqft": null,
    "chg": "",
-   "dom": 21,
+   "dom": 26,
    "q": "393 Red Hill Rd, Wadesboro, NC 28170",
    "photo": "https://ssl.cdn-redfin.com/photo/103/mbphotov3/377/genMid.4436377_0.jpg",
    "photoCount": 48,
@@ -1271,7 +1597,7 @@
    "driveMin": 73
   },
   {
-   "id": 26,
+   "id": 27,
    "key": "anson|oldnc515|wadesboro|194.5",
    "aliases": [],
    "county": "Anson",
@@ -1298,6 +1624,11 @@
      "site": "Homes.com",
      "url": "https://www.homes.com/anson-county-nc/land-for-sale/",
      "direct": false
+    },
+    {
+     "site": "Land.com",
+     "url": "https://www.land.com/Anson-County-NC/all-land/over-20-acres/",
+     "direct": false
     }
    ],
    "tags": [
@@ -1309,16 +1640,16 @@
    "baths": null,
    "sqft": null,
    "chg": "",
-   "dom": 34,
+   "dom": 39,
    "q": "Old NC 515, Wadesboro, NC 28170",
-   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6615121118",
+   "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6648087898",
    "photoCount": 26,
    "photoSrc": "LandWatch",
    "drive": 32.6,
    "driveMin": 69
   },
   {
-   "id": 27,
+   "id": 28,
    "key": "anson|1634us52|wadesboro|128.9",
    "aliases": [],
    "county": "Anson",
@@ -1345,6 +1676,11 @@
      "site": "Homes.com",
      "url": "https://www.homes.com/anson-county-nc/land-for-sale/",
      "direct": false
+    },
+    {
+     "site": "Land.com",
+     "url": "https://www.land.com/Anson-County-NC/all-land/over-20-acres/",
+     "direct": false
     }
    ],
    "tags": [
@@ -1357,7 +1693,7 @@
    "baths": null,
    "sqft": null,
    "chg": "$46K PRICE DROP",
-   "dom": 187,
+   "dom": 192,
    "q": "1634 US 52, Wadesboro, NC 28170",
    "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6172246794",
    "photoCount": 42,
@@ -1366,7 +1702,7 @@
    "driveMin": 37
   },
   {
-   "id": 28,
+   "id": 29,
    "key": "anson|1490porkrd|peachland|49.5",
    "aliases": [],
    "county": "Anson",
@@ -1403,6 +1739,21 @@
      "site": "Homes.com",
      "url": "https://www.homes.com/anson-county-nc/land-for-sale/",
      "direct": false
+    },
+    {
+     "site": "Zillow",
+     "url": "https://www.zillow.com/anson-county-nc/land/",
+     "direct": false
+    },
+    {
+     "site": "Land.com",
+     "url": "https://www.land.com/Anson-County-NC/all-land/over-20-acres/",
+     "direct": false
+    },
+    {
+     "site": "LandSearch",
+     "url": "https://www.landsearch.com/properties/anson-county-nc/filter/price[max]=1000000,size[min]=25",
+     "direct": false
     }
    ],
    "tags": [
@@ -1413,7 +1764,7 @@
    "baths": null,
    "sqft": null,
    "chg": "",
-   "dom": 111,
+   "dom": 116,
    "q": "1490 Pork Rd, Peachland, NC 28133",
    "photo": "https://assets.landwatch.com/resizedimages/394/0/h/80/1-6367007133",
    "photoCount": 4,
